@@ -24,3 +24,18 @@ class Interaction(Base):
         Index('idx_drug_interaction', 'drug_1_rxcui', 'drug_2_rxcui'),
         Index('idx_severity', 'severity'),  # Index for filtering by severity
     )
+
+class EgyptianDrug(Base):
+    __tablename__ = "egyptian_drugs"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    trade_name_en = Column(String, index=True, nullable=False)
+    trade_name_ar = Column(String, index=True, nullable=False)
+    generic_name = Column(String, index=True, nullable=False)
+    manufacturer = Column(String)
+    category = Column(String)
+    forms = Column(String)
+    strengths = Column(String)
+    adult_dose = Column(Text)
+    child_dose = Column(Text)
+    price_egp = Column(String)

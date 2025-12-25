@@ -5,11 +5,17 @@ import os
 # Ensure DB created
 models.Base.metadata.create_all(bind=database.engine)
 
-file_path = os.path.join(os.path.dirname(__file__), "data", "interactions.csv")
 
-if os.path.exists(file_path):
-    print(f"Ingesting data from {file_path}...")
-    count = ingestion_service.ingest_csv(file_path)
+# Ingest Interactions
+interactions_path = os.path.join(os.path.dirname(__file__), "data", "interactions.csv")
+if os.path.exists(interactions_path):
+    print(f"Ingesting interactions from {interactions_path}...")
+    count = ingestion_service.ingest_csv(interactions_path)
     print(f"Successfully ingested {count} new interactions.")
-else:
-    print(f"File not found: {file_path}")
+
+# Ingest Egyptian Drugs
+egyptian_path = os.path.join(os.path.dirname(__file__), "data", "egyptian_drugs.csv")
+if os.path.exists(egyptian_path):
+    print(f"Ingesting Egyptian drugs from {egyptian_path}...")
+    count = ingestion_service.ingest_egyptian_drugs(egyptian_path)
+    print(f"Successfully ingested {count} new Egyptian drugs.")
