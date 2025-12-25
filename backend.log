@@ -1,0 +1,80 @@
+INFO:     Will watch for changes in these directories: ['/home/mohamedkarawiia/.gemini/antigravity/scratch/drug_safety_app']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [51563] using StatReload
+INFO:     Started server process [51566]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:57814 - "GET /api/search_drug?name=aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44238 - "GET /api/search_drug?query=Aspirin HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:47668 - "GET /api/search_drug?query=aspirin HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58482 - "GET /api/search_drug?name=aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36506 - "GET /api/search_drug?name=aspiri HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36506 - "GET /api/search_drug?name=aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55274 - "GET /api/search_drug?name=ibuprofe HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55274 - "GET /api/search_drug?name=ibuprofen HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57270 - "OPTIONS /api/check_interactions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57278 - "POST /api/check_interactions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47400 - "GET /api/search_drug?name=aspirin HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:40184 - "GET /api/search_drug?name=aspirin HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:40184 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:38390 - "GET /api/search_drug?name=aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=BATON HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=yuan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=clay HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=analyzephish HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=Sacks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=goye HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=wale HTTP/1.1" 200 OK
+INFO:     127.0.0.1:42030 - "GET /api/search_drug?name=goes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:36512 - "GET /api/search_drug?name=ibuprofen HTTP/1.1" 200 OK
+INFO:     127.0.0.1:33352 - "GET /api/search_drug?name=ibuprofen HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35656 - "OPTIONS /api/check_interactions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:35656 - "POST /api/check_interactions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:44062 - "GET /api/search_drug?name=aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49224 - "GET /api/search_drug?name=ibuprofen HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:47406 - "OPTIONS /api/check_interactions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47412 - "POST /api/check_interactions HTTP/1.1" 200 OK
+INFO:     127.0.0.1:41154 - "GET /api/search_drug?name=AspirinAspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=BATON HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=yuan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=clay HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=analyzephish HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=Sacks HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=goye HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=wale HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47856 - "GET /api/search_drug?name=goes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58518 - "GET /api/search_drug?name=%20 HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:55970 - "GET /api/search_drug?name=%20aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51332 - "GET /api/search_drug?name=aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=yuan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=Gusadll HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=duohudll HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=onkie HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=zairgGLMAT HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=sles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=plan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49156 - "GET /api/search_drug?name=dsbacl HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54242 - "GET /api/search_drug?name=Aspirin HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=yuan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=Gusadll HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=duohudll HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=onkie HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=zairgGLMAT HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=sles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=plan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:48044 - "GET /api/search_drug?name=dsbacl HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55150 - "GET /api/search_drug?name=iron HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55150 - "GET /api/search_drug?name=p HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55150 - "GET /api/search_drug?name=pa HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55150 - "GET /api/search_drug?name=pand HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55150 - "GET /api/search_drug?name=pandol HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=yuan HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=Gusadll HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=duohudll HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=onkie HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=zairgGLMAT HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=sles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=plan HTTP/1.1" 200 OK
+INFO:     127.0.0.1:34030 - "GET /api/search_drug?name=dsbacl HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43614 - "GET /api/search_drug?name=Warfarin HTTP/1.1" 503 Service Unavailable
+INFO:     127.0.0.1:43424 - "GET /api/search_drug?name=Panado HTTP/1.1" 503 Service Unavailable
