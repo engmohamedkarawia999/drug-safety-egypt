@@ -5,6 +5,7 @@ A robust, full-stack application for checking drug-drug, drug-food, and drug-con
 ## Features 🌟
 
 * **Drug Interaction Check**: Real-time analysis of potential drug-drug interactions.
+* **Egyptian Drug Database** 🇪🇬: Massive database of **770+ Egyptian medications** including local trade names in Arabic, dosages, and prices.
 * **Food & Health Condition Warnings**: Checks for contraindications with food or specific health conditions (Pregnancy, Hypertension, etc.).
 * **AI Pharmacist Explainer** 🤖: Explains *why* an interaction occurs using simulated AI logic (Bilingual).
 * **OCR Prescription Scanner** 📷: Upload prescription images to automatically detect drugs.
