@@ -1,0 +1,143 @@
+drug_name,condition,severity,color,description_en,description_ar
+# ==========================================
+# CARDIOVASCULAR CONDITIONS
+# ==========================================
+NSAIDs,Heart Failure,Major,red,NSAIDs can worsen heart failure by causing fluid retention. Avoid if possible.,مضادات الالتهاب غير الستيرويدية يمكن أن تزيد فشل القلب سوءًا. تجنبها إن أمكن.
+Ibuprofen,Heart Failure,Major,red,Ibuprofen increases risk of hospitalization in heart failure patients.,الإيبوبروفين يزيد خطر دخول المستشفى في مرضى فشل القلب.
+Naproxen,Heart Failure,Major,red,Naproxen can worsen fluid retention in heart failure.,النابروكسين يمكن أن يزيد احتباس السوائل في فشل القلب.
+Verapamil,Heart Failure,Major,red,Verapamil worsens heart failure due to negative inotropic effect.,فيراباميل يزيد فشل القلب سوءًا بسبب التأثير السلبي على قوة القلب.
+Diltiazem,Heart Failure,Major,red,Diltiazem can worsen systolic heart failure.,ديلتيازيم يمكن أن يزيد فشل القلب الانقباضي سوءًا.
+Metoprolol,Decompensated Heart Failure,Major,red,Do not start beta blockers during acute decompensated heart failure.,لا تبدأ حاصرات بيتا أثناء فشل القلب الحاد غير المعوض.
+Thiazolidinediones,Heart Failure,Major,red,Pioglitazone and Rosiglitazone cause fluid retention - contraindicated in HF.,بيوغليتازون وروزيغليتازون يسببان احتباس السوائل - ممنوع في فشل القلب.
+Saxagliptin,Heart Failure,Moderate,orange,Saxagliptin may increase heart failure hospitalization risk.,ساكساغليبتين قد يزيد خطر دخول المستشفى بسبب فشل القلب.
+Beta Blockers,Bradycardia,Major,red,Beta blockers contraindicated in symptomatic bradycardia (<50 bpm).,حاصرات بيتا ممنوعة في بطء القلب المصحوب بأعراض.
+Verapamil,Heart Block,Contraindicated,red,Verapamil contraindicated in second and third degree heart block.,فيراباميل ممنوع في الإحصار القلبي من الدرجة الثانية والثالثة.
+Digoxin,Wolff-Parkinson-White,Contraindicated,red,Digoxin can cause fatal arrhythmias in WPW syndrome.,الديجوكسين يمكن أن يسبب اضطرابات نظم قاتلة في متلازمة WPW.
+Metformin,Acute MI,Major,red,Hold Metformin during and after heart attack due to lactic acidosis risk.,أوقف الميتفورمين أثناء وبعد النوبة القلبية بسبب خطر الحماض اللبني.
+
+# ==========================================
+# KIDNEY DISEASE
+# ==========================================
+NSAIDs,Kidney Disease,Major,red,NSAIDs can cause acute kidney injury and worsen chronic kidney disease.,مضادات الالتهاب يمكن أن تسبب إصابة كلوية حادة وتزيد مرض الكلى سوءًا.
+Metformin,Kidney Disease (eGFR<30),Contraindicated,red,Metformin contraindicated if eGFR below 30 - lactic acidosis risk.,الميتفورمين ممنوع إذا كان eGFR أقل من 30 - خطر الحماض اللبني.
+ACE Inhibitors,Bilateral Renal Artery Stenosis,Contraindicated,red,ACE inhibitors can cause acute kidney failure in bilateral renal artery stenosis.,مثبطات ACE يمكن أن تسبب فشل كلوي حاد في تضيق الشريان الكلوي الثنائي.
+Spironolactone,Severe Kidney Disease,Major,red,High risk of dangerous hyperkalemia with severe kidney impairment.,خطر عالي لفرط البوتاسيوم الخطير مع ضعف الكلى الشديد.
+Lithium,Kidney Disease,Major,red,Lithium requires dose adjustment in kidney disease. Higher toxicity risk.,الليثيوم يحتاج تعديل الجرعة في مرض الكلى. خطر سمية أعلى.
+Gabapentin,Kidney Disease,Moderate,orange,Reduce Gabapentin dose in kidney impairment.,قلل جرعة جابابنتين في ضعف الكلى.
+Digoxin,Kidney Disease,Major,red,Reduce Digoxin dose in kidney disease - accumulation and toxicity.,قلل جرعة الديجوكسين في مرض الكلى - تراكم وسمية.
+Allopurinol,Kidney Disease,Moderate,orange,Reduce Allopurinol dose in kidney impairment.,قلل جرعة ألوبيورينول في ضعف الكلى.
+
+# ==========================================
+# LIVER DISEASE
+# ==========================================
+Acetaminophen,Liver Disease,Major,red,Maximum 2g daily in liver disease. Higher doses cause liver failure.,الحد الأقصى 2 جرام يوميًا في مرض الكبد. الجرعات الأعلى تسبب فشل الكبد.
+Statins,Active Liver Disease,Contraindicated,red,Statins contraindicated in active liver disease or unexplained elevated LFTs.,الستاتينات ممنوعة في مرض الكبد النشط أو ارتفاع إنزيمات الكبد.
+Methotrexate,Liver Disease,Contraindicated,red,Methotrexate contraindicated in liver disease - fatal hepatotoxicity.,الميثوتريكسات ممنوع في مرض الكبد - سمية كبدية قاتلة.
+Valproic Acid,Liver Disease,Contraindicated,red,Valproate hepatotoxicity - contraindicated in liver disease.,سمية الفالبروات الكبدية - ممنوع في مرض الكبد.
+Isoniazid,Liver Disease,Major,red,Monitor liver closely with Isoniazid in preexisting liver disease.,راقب الكبد بدقة مع أيزونيازيد في مرض الكبد السابق.
+Amiodarone,Liver Disease,Major,red,Amiodarone can worsen liver disease and cause hepatotoxicity.,الأميودارون يمكن أن يزيد مرض الكبد سوءًا ويسبب سمية كبدية.
+
+# ==========================================
+# ASTHMA & COPD
+# ==========================================
+Beta Blockers,Asthma,Contraindicated,red,Non-selective beta blockers can trigger fatal bronchospasm in asthma.,حاصرات بيتا غير الانتقائية يمكن أن تسبب تشنج قصبي قاتل في الربو.
+Propranolol,Asthma,Contraindicated,red,Propranolol absolutely contraindicated in asthma.,البروبرانولول ممنوع تمامًا في الربو.
+Aspirin,Aspirin-Sensitive Asthma,Contraindicated,red,Aspirin can trigger severe asthma attacks in aspirin-sensitive patients.,الأسبرين يمكن أن يسبب نوبات ربو شديدة في المرضى الحساسين للأسبرين.
+NSAIDs,Aspirin-Sensitive Asthma,Contraindicated,red,NSAIDs can trigger bronchospasm in aspirin-sensitive asthma.,مضادات الالتهاب يمكن أن تسبب تشنج قصبي في الربو الحساس للأسبرين.
+Morphine,Severe Asthma,Major,red,Opioids may cause respiratory depression in severe asthma.,المسكنات الأفيونية قد تسبب اكتئاب تنفسي في الربو الشديد.
+Benzodiazepines,Severe COPD,Major,red,Benzodiazepines can worsen respiratory depression in severe COPD.,البنزوديازيبينات يمكن أن تزيد اكتئاب التنفس سوءًا في COPD الشديد.
+
+# ==========================================
+# DIABETES
+# ==========================================
+Corticosteroids,Diabetes,Major,red,Steroids significantly increase blood glucose - may need insulin.,الستيرويدات تزيد سكر الدم بشكل كبير - قد يحتاج إلى أنسولين.
+Thiazides,Diabetes,Moderate,orange,Thiazide diuretics may worsen glucose control.,مدرات الثيازيد قد تزيد التحكم في الجلوكوز سوءًا.
+Beta Blockers,Diabetes with Hypoglycemia,Moderate,orange,Beta blockers mask hypoglycemia symptoms and may worsen glucose control.,حاصرات بيتا تخفي أعراض انخفاض السكر وقد تزيد التحكم سوءًا.
+Fluoroquinolones,Diabetes,Major,red,Ciprofloxacin and Levofloxacin can cause severe hypo or hyperglycemia.,سيبروفلوكساسين وليفوفلوكساسين يمكن أن يسببا انخفاض أو ارتفاع سكر شديد.
+Atypical Antipsychotics,Diabetes,Major,red,Olanzapine and Clozapine can cause significant weight gain and diabetes.,أولانزابين وكلوزابين يمكن أن يسببا زيادة الوزن والسكري.
+
+# ==========================================
+# GASTROINTESTINAL
+# ==========================================
+NSAIDs,Peptic Ulcer,Contraindicated,red,NSAIDs are a leading cause of GI bleeding in ulcer patients.,مضادات الالتهاب سبب رئيسي لنزيف الجهاز الهضمي في مرضى القرحة.
+Aspirin,Active GI Bleeding,Contraindicated,red,Aspirin absolutely contraindicated in active GI bleeding.,الأسبرين ممنوع تمامًا في نزيف الجهاز الهضمي النشط.
+Anticoagulants,Active GI Bleeding,Contraindicated,red,Anticoagulants contraindicated in active bleeding.,مضادات التخثر ممنوعة في النزيف النشط.
+Corticosteroids,Peptic Ulcer,Major,red,Steroids increase ulcer and bleeding risk especially with NSAIDs.,الستيرويدات تزيد خطر القرحة والنزيف خاصة مع مضادات الالتهاب.
+SSRIs,GI Bleeding History,Major,red,SSRIs increase GI bleeding risk 3-fold. Consider PPI.,SSRIs تزيد خطر نزيف الجهاز الهضمي 3 أضعاف.
+Bisphosphonates,Esophageal Disorders,Contraindicated,red,Bisphosphonates contraindicated if unable to sit upright 30 min - esophageal ulcer.,البيسفوسفونات ممنوعة إذا كان غير قادر على الجلوس مستقيمًا 30 دقيقة.
+Metoclopramide,GI Obstruction,Contraindicated,red,Metoclopramide contraindicated in GI obstruction or perforation.,ميتوكلوبراميد ممنوع في انسداد أو ثقب الجهاز الهضمي.
+
+# ==========================================
+# BLEEDING DISORDERS
+# ==========================================
+Anticoagulants,Bleeding Disorders,Contraindicated,red,Anticoagulants contraindicated in hemophilia and severe bleeding disorders.,مضادات التخثر ممنوعة في الهيموفيليا واضطرابات النزيف الشديدة.
+NSAIDs,Bleeding Disorders,Major,red,NSAIDs increase bleeding risk in coagulation disorders.,مضادات الالتهاب تزيد خطر النزيف في اضطرابات التخثر.
+Aspirin,Thrombocytopenia,Major,red,Avoid Aspirin if platelet count below 50000 - bleeding risk.,تجنب الأسبرين إذا كان عدد الصفائح أقل من 50000.
+Fish Oil,Bleeding Disorders,Moderate,orange,High-dose fish oil may increase bleeding risk.,زيت السمك بجرعات عالية قد يزيد خطر النزيف.
+Ginkgo Biloba,Bleeding Disorders,Moderate,orange,Ginkgo increases bleeding risk especially with anticoagulants.,الجنكة تزيد خطر النزيف خاصة مع مضادات التخثر.
+
+# ==========================================
+# NEUROLOGICAL CONDITIONS
+# ==========================================
+Tramadol,Seizure Disorder,Major,red,Tramadol lowers seizure threshold - avoid in epilepsy.,الترامادول يخفض عتبة النوبات - تجنب في الصرع.
+Bupropion,Seizure Disorder,Contraindicated,red,Bupropion significantly increases seizure risk - contraindicated in epilepsy.,البوبروبيون يزيد خطر النوبات بشكل كبير - ممنوع في الصرع.
+Meperidine,Seizure Disorder,Major,red,Meperidine metabolite causes seizures - avoid in epilepsy.,مستقلب الميبيريدين يسبب نوبات - تجنب في الصرع.
+Antipsychotics,Parkinson Disease,Major,red,Antipsychotics worsen Parkinson symptoms. Use Quetiapine if needed.,مضادات الذهان تزيد أعراض باركنسون سوءًا. استخدم كويتيابين إذا لزم.
+Metoclopramide,Parkinson Disease,Contraindicated,red,Metoclopramide worsens Parkinson disease - contraindicated.,ميتوكلوبراميد يزيد مرض باركنسون سوءًا - ممنوع.
+Anticholinergics,Dementia,Major,red,Anticholinergics worsen cognitive function in dementia.,مضادات الكولين تزيد الوظيفة المعرفية سوءًا في الخرف.
+Benzodiazepines,Myasthenia Gravis,Major,red,Benzodiazepines may worsen muscle weakness in myasthenia gravis.,البنزوديازيبينات قد تزيد ضعف العضلات سوءًا في الوهن العضلي.
+Aminoglycosides,Myasthenia Gravis,Major,red,Aminoglycoside antibiotics worsen myasthenia gravis.,المضادات الحيوية أمينوغليكوزيد تزيد الوهن العضلي سوءًا.
+
+# ==========================================
+# PREGNANCY
+# ==========================================
+ACE Inhibitors,Pregnancy,Contraindicated,red,ACE inhibitors cause fetal harm - contraindicated in pregnancy.,مثبطات ACE تسبب ضررًا للجنين - ممنوعة في الحمل.
+ARBs,Pregnancy,Contraindicated,red,ARBs cause fetal harm - contraindicated in pregnancy.,ARBs تسبب ضررًا للجنين - ممنوعة في الحمل.
+Warfarin,Pregnancy,Contraindicated,red,Warfarin crosses placenta causing warfarin embryopathy.,الوارفارين يعبر المشيمة مسببًا اعتلال الجنين.
+Statins,Pregnancy,Contraindicated,red,Statins contraindicated in pregnancy - potential fetal harm.,الستاتينات ممنوعة في الحمل - ضرر محتمل للجنين.
+Methotrexate,Pregnancy,Contraindicated,red,Methotrexate is abortifacient - absolutely contraindicated.,الميثوتريكسات مجهض - ممنوع تمامًا.
+Isotretinoin,Pregnancy,Contraindicated,red,Isotretinoin causes severe birth defects - iPLEDGE program required.,الأيزوتريتينوين يسبب عيوب خلقية شديدة - يجب برنامج iPLEDGE.
+Tetracyclines,Pregnancy,Contraindicated,red,Tetracyclines affect fetal bone and tooth development.,التيتراسيكلينات تؤثر على تطور العظام والأسنان للجنين.
+Fluoroquinolones,Pregnancy,Major,red,Fluoroquinolones may affect fetal cartilage development.,الفلوروكينولونات قد تؤثر على تطور غضروف الجنين.
+Valproic Acid,Pregnancy,Contraindicated,red,Valproate causes neural tube defects - avoid in pregnancy.,الفالبروات يسبب عيوب الأنبوب العصبي - تجنب في الحمل.
+NSAIDs,Pregnancy (3rd Trimester),Contraindicated,red,NSAIDs in 3rd trimester can cause premature ductus arteriosus closure.,مضادات الالتهاب في الثلث الثالث يمكن أن تسبب إغلاق القناة الشريانية المبكر.
+
+# ==========================================
+# GLAUCOMA
+# ==========================================
+Anticholinergics,Angle-Closure Glaucoma,Contraindicated,red,Anticholinergics can precipitate acute angle-closure glaucoma.,مضادات الكولين يمكن أن تسبب الجلوكوما الحادة.
+Diphenhydramine,Angle-Closure Glaucoma,Major,red,First-gen antihistamines contraindicated in narrow-angle glaucoma.,مضادات الهيستامين من الجيل الأول ممنوعة في الجلوكوما ضيقة الزاوية.
+TCAs,Angle-Closure Glaucoma,Major,red,Tricyclic antidepressants have anticholinergic effects - use caution.,مضادات الاكتئاب ثلاثية الحلقات لها تأثيرات مضادة للكولين.
+Corticosteroids (Eye),Open-Angle Glaucoma,Major,red,Steroid eye drops can increase intraocular pressure.,قطرات العين الستيرويدية يمكن أن تزيد ضغط العين.
+
+# ==========================================
+# PROSTATE CONDITIONS
+# ==========================================
+Anticholinergics,BPH with Retention,Contraindicated,red,Anticholinergics worsen urinary retention in BPH.,مضادات الكولين تزيد احتباس البول سوءًا في تضخم البروستاتا.
+Diphenhydramine,BPH with Retention,Major,red,Antihistamines with anticholinergic effects worsen urinary retention.,مضادات الهيستامين ذات التأثيرات المضادة للكولين تزيد احتباس البول.
+Decongestants,BPH,Moderate,orange,Pseudoephedrine may worsen urinary symptoms in BPH.,السودوإفيدرين قد يزيد أعراض البول سوءًا في تضخم البروستاتا.
+TCAs,BPH with Retention,Major,red,TCAs can worsen urinary retention.,مضادات الاكتئاب ثلاثية الحلقات يمكن أن تزيد احتباس البول.
+
+# ==========================================
+# PSYCHIATRIC CONDITIONS
+# ==========================================
+Stimulants,Anxiety Disorders,Moderate,orange,Stimulants may worsen anxiety symptoms.,المنشطات قد تزيد أعراض القلق سوءًا.
+Corticosteroids,Depression History,Moderate,orange,Steroids can cause mood changes and worsen depression.,الستيرويدات يمكن أن تسبب تغيرات مزاجية وتزيد الاكتئاب سوءًا.
+Beta Blockers,Depression,Moderate,orange,Some beta blockers may worsen depression.,بعض حاصرات بيتا قد تزيد الاكتئاب سوءًا.
+Dopamine Agonists,Psychosis,Major,red,Dopamine agonists can trigger or worsen psychosis.,ناهضات الدوبامين يمكن أن تسبب أو تزيد الذهان سوءًا.
+Levodopa,Psychosis,Major,red,Levodopa can cause hallucinations and psychosis.,ليفودوبا يمكن أن يسبب هلوسة وذهان.
+Bupropion,Eating Disorders,Contraindicated,red,Bupropion contraindicated in bulimia and anorexia - seizure risk.,البوبروبيون ممنوع في الشره المرضي وفقدان الشهية - خطر نوبات.
+
+# ==========================================
+# OTHER CONDITIONS
+# ==========================================
+Potassium Supplements,Hyperkalemia,Contraindicated,red,Potassium supplements contraindicated in hyperkalemia.,مكملات البوتاسيوم ممنوعة في فرط البوتاسيوم.
+ACE Inhibitors,Angioedema History,Contraindicated,red,ACE inhibitors contraindicated in prior ACE-induced angioedema.,مثبطات ACE ممنوعة في تاريخ الوذمة الوعائية المحدثة بـ ACE.
+Allopurinol,Acute Gout Attack,Major,red,Do not start Allopurinol during acute gout attack.,لا تبدأ ألوبيورينول أثناء نوبة النقرس الحادة.
+Sulfa Drugs,Sulfa Allergy,Contraindicated,red,Avoid all sulfonamide antibiotics in sulfa allergy.,تجنب جميع المضادات الحيوية السلفوناميد في حساسية السلفا.
+Penicillins,Penicillin Allergy,Contraindicated,red,Avoid penicillins in penicillin allergy - consider cross-reactivity.,تجنب البنسلينات في حساسية البنسلين - ضع في الاعتبار التفاعل المتبادل.
+Metformin,Iodine Contrast,Major,red,Hold Metformin before and after iodine contrast - AKI risk.,أوقف الميتفورمين قبل وبعد صبغة اليود - خطر إصابة كلوية.
+Fluoroquinolones,Tendon Disorders,Major,red,Fluoroquinolones increase tendon rupture risk especially with steroids.,الفلوروكينولونات تزيد خطر تمزق الوتر خاصة مع الستيرويدات.
+Fluoroquinolones,QT Prolongation,Major,red,Avoid Fluoroquinolones in long QT syndrome - arrhythmia risk.,تجنب الفلوروكينولونات في متلازمة QT الطويلة - خطر اضطراب النظم.
+Erythromycin,QT Prolongation,Major,red,Erythromycin prolongs QT interval - avoid in long QT.,الإريثروميسين يطيل فترة QT - تجنب في QT الطويل.
+Amiodarone,Thyroid Disease,Major,red,Amiodarone contains iodine and can cause hypo or hyperthyroidism.,الأميودارون يحتوي على اليود ويمكن أن يسبب قصور أو فرط الغدة الدرقية.

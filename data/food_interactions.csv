@@ -1,0 +1,127 @@
+drug_name,food,severity,color,description_en,description_ar
+# ==========================================
+# ANTICOAGULANTS & ANTIPLATELETS
+# ==========================================
+Warfarin,Vitamin K Rich Foods,Major,red,Foods high in Vitamin K (spinach kale broccoli) reduce Warfarin effectiveness. Maintain consistent intake.,الأطعمة الغنية بفيتامين K (السبانخ والكرنب) تقلل فعالية الوارفارين. حافظ على نظام غذائي ثابت.
+Warfarin,Cranberry,Major,red,Cranberry juice may increase bleeding risk with Warfarin.,عصير التوت البري قد يزيد خطر النزيف مع الوارفارين.
+Warfarin,Grapefruit,Moderate,orange,Grapefruit may affect Warfarin metabolism.,الجريب فروت قد يؤثر على استقلاب الوارفارين.
+Warfarin,Green Tea,Moderate,orange,Large amounts of green tea may reduce Warfarin effect due to Vitamin K.,كميات كبيرة من الشاي الأخضر قد تقلل تأثير الوارفارين بسبب فيتامين K.
+Warfarin,Alcohol,Major,red,Alcohol affects Warfarin metabolism unpredictably. Avoid excess.,الكحول يؤثر على استقلاب الوارفارين بشكل غير متوقع.
+Warfarin,Garlic,Moderate,orange,Garlic supplements may increase bleeding risk.,مكملات الثوم قد تزيد خطر النزيف.
+Warfarin,Ginger,Moderate,orange,Ginger may increase bleeding risk.,الزنجبيل قد يزيد خطر النزيف.
+Warfarin,Fish Oil,Moderate,orange,High-dose fish oil may increase bleeding risk.,زيت السمك بجرعات عالية قد يزيد خطر النزيف.
+Clopidogrel,Grapefruit,Moderate,orange,Grapefruit may reduce Clopidogrel activation.,الجريب فروت قد يقلل تنشيط كلوبيدوجريل.
+Aspirin,Alcohol,Major,red,Alcohol with Aspirin significantly increases GI bleeding risk.,الكحول مع الأسبرين يزيد بشكل كبير خطر نزيف المعدة.
+Aspirin,Foods before taking,Minor,yellow,Take Aspirin with food to reduce stomach irritation.,تناول الأسبرين مع الطعام لتقليل تهيج المعدة.
+
+# ==========================================
+# STATINS
+# ==========================================
+Simvastatin,Grapefruit,Contraindicated,red,Grapefruit dramatically increases Simvastatin levels causing rhabdomyolysis.,الجريب فروت يزيد بشكل كبير مستويات سيمفاستاتين مسببًا انحلال العضلات.
+Atorvastatin,Grapefruit,Major,red,Grapefruit increases Atorvastatin levels. Limit to one small serving daily.,الجريب فروت يزيد مستويات أتورفاستاتين. قلل من تناوله.
+Lovastatin,Grapefruit,Contraindicated,red,Grapefruit contraindicated with Lovastatin due to severe muscle damage risk.,الجريب فروت ممنوع مع لوفاستاتين بسبب خطر تلف العضلات.
+Rosuvastatin,Grapefruit,Minor,yellow,Minimal interaction with Rosuvastatin - safer choice if you consume grapefruit.,تفاعل طفيف مع روزوفاستاتين - خيار أكثر أمانًا.
+Pravastatin,Grapefruit,Minor,yellow,No significant grapefruit interaction with Pravastatin.,لا يوجد تفاعل مهم مع الجريب فروت.
+Statins,High-Fat Meals,Moderate,orange,Take statins consistently - with or without food - but high fat may reduce absorption.,تناول الستاتينات بانتظام - الدهون العالية قد تقلل الامتصاص.
+Statins,Alcohol,Moderate,orange,Heavy alcohol use increases liver damage risk with statins.,الإفراط في الكحول يزيد خطر تلف الكبد مع الستاتينات.
+Statins,Red Yeast Rice,Major,red,Red yeast rice contains natural statins - may cause overdose.,أرز الخميرة الحمراء يحتوي على ستاتينات طبيعية - قد يسبب جرعة زائدة.
+
+# ==========================================
+# CALCIUM CHANNEL BLOCKERS
+# ==========================================
+Felodipine,Grapefruit,Major,red,Grapefruit increases Felodipine levels 3-fold causing severe hypotension.,الجريب فروت يزيد مستويات فيلوديبين 3 أضعاف مسببًا انخفاض الضغط.
+Nifedipine,Grapefruit,Major,red,Grapefruit significantly increases Nifedipine levels.,الجريب فروت يزيد بشكل كبير مستويات نيفيديبين.
+Amlodipine,Grapefruit,Moderate,orange,Grapefruit may increase Amlodipine levels moderately.,الجريب فروت قد يزيد مستويات أملوديبين بشكل معتدل.
+Verapamil,Grapefruit,Major,red,Grapefruit increases Verapamil levels significantly.,الجريب فروت يزيد مستويات فيراباميل بشكل كبير.
+Diltiazem,Grapefruit,Moderate,orange,Grapefruit may increase Diltiazem levels.,الجريب فروت قد يزيد مستويات ديلتيازيم.
+
+# ==========================================
+# ACE INHIBITORS & ARBs
+# ==========================================
+Lisinopril,Potassium-Rich Foods,Moderate,orange,Limit high-potassium foods (bananas oranges potatoes) to avoid hyperkalemia.,قلل من الأطعمة الغنية بالبوتاسيوم (الموز والبرتقال) لتجنب فرط البوتاسيوم.
+Enalapril,Potassium-Rich Foods,Moderate,orange,Monitor potassium intake while on ACE inhibitors.,راقب تناول البوتاسيوم أثناء استخدام مثبطات ACE.
+Losartan,Potassium-Rich Foods,Moderate,orange,ARBs can increase potassium - avoid potassium supplements.,يمكن أن ترفع ARBs البوتاسيوم - تجنب مكملات البوتاسيوم.
+Valsartan,Potassium-Rich Foods,Moderate,orange,Monitor potassium with ARB therapy.,راقب البوتاسيوم مع علاج ARB.
+Captopril,Food,Moderate,orange,Take Captopril 1 hour before meals for best absorption.,تناول كابتوبريل قبل ساعة من الطعام للحصول على أفضل امتصاص.
+
+# ==========================================
+# THYROID MEDICATIONS
+# ==========================================
+Levothyroxine,Calcium-Rich Foods,Major,red,Take Levothyroxine 4 hours apart from dairy calcium and antacids.,تناول ليفوثيروكسين بفارق 4 ساعات عن منتجات الألبان والكالسيوم.
+Levothyroxine,Iron-Rich Foods,Major,red,Iron reduces Levothyroxine absorption. Separate by 4 hours.,الحديد يقلل امتصاص ليفوثيروكسين. افصل بينهما 4 ساعات.
+Levothyroxine,Soy Products,Moderate,orange,Soy may reduce Levothyroxine absorption.,الصويا قد تقلل امتصاص ليفوثيروكسين.
+Levothyroxine,High-Fiber Foods,Moderate,orange,High fiber may reduce thyroid hormone absorption.,الألياف العالية قد تقلل امتصاص هرمون الغدة الدرقية.
+Levothyroxine,Coffee,Moderate,orange,Coffee may reduce Levothyroxine absorption. Take medication first wait 1 hour.,القهوة قد تقلل الامتصاص. تناول الدواء أولاً وانتظر ساعة.
+Levothyroxine,Walnuts,Moderate,orange,Walnuts may interfere with absorption.,الجوز قد يتداخل مع الامتصاص.
+
+# ==========================================
+# ANTIBIOTICS
+# ==========================================
+Tetracycline,Dairy Products,Major,red,Dairy products chelate Tetracycline making it ineffective. Take 2 hours apart.,منتجات الألبان تربط التيتراسيكلين وتجعله غير فعال. افصل بينهما ساعتين.
+Doxycycline,Dairy Products,Major,red,Avoid dairy 2 hours before and after Doxycycline.,تجنب الألبان ساعتين قبل وبعد الدوكسيسيكلين.
+Ciprofloxacin,Dairy Products,Major,red,Calcium in dairy reduces Ciprofloxacin absorption by 50%.,الكالسيوم في الألبان يقلل امتصاص سيبروفلوكساسين بنسبة 50%.
+Ciprofloxacin,Caffeine,Moderate,orange,Ciprofloxacin increases caffeine effect. Reduce coffee intake.,سيبروفلوكساسين يزيد تأثير الكافيين. قلل من القهوة.
+Levofloxacin,Dairy Products,Major,red,Take Levofloxacin 2 hours before or after dairy.,تناول ليفوفلوكساسين قبل أو بعد الألبان بساعتين.
+Metronidazole,Alcohol,Contraindicated,red,Alcohol with Metronidazole causes severe nausea vomiting and flushing (disulfiram reaction).,الكحول مع ميترونيدازول يسبب غثيان وقيء شديد (تفاعل ديسلفيرام).
+Linezolid,Tyramine Foods,Contraindicated,red,Avoid aged cheese wine beer fermented foods with Linezolid - hypertensive crisis.,تجنب الجبن المعتق والنبيذ والأطعمة المخمرة مع لينيزوليد - أزمة ارتفاع ضغط.
+
+# ==========================================
+# ANTIDEPRESSANTS
+# ==========================================
+MAOIs,Tyramine Foods,Contraindicated,red,Aged cheese red wine soy sauce fermented foods can cause fatal hypertensive crisis with MAOIs.,الجبن المعتق والنبيذ الأحمر وصلصة الصويا يمكن أن تسبب أزمة ارتفاع ضغط قاتلة مع MAOIs.
+MAOIs,Aged Cheese,Contraindicated,red,Tyramine in aged cheese causes dangerous blood pressure spike.,التيرامين في الجبن المعتق يسبب ارتفاعًا خطيرًا في ضغط الدم.
+MAOIs,Wine,Contraindicated,red,Wine especially red wine contains tyramine - avoid completely.,النبيذ خاصة الأحمر يحتوي على تيرامين - تجنبه تمامًا.
+MAOIs,Soy Sauce,Contraindicated,red,Fermented soy products contain tyramine.,منتجات الصويا المخمرة تحتوي على تيرامين.
+MAOIs,Fava Beans,Contraindicated,red,Fava beans are very high in tyramine - avoid.,الفول غني جدًا بالتيرامين - تجنبه.
+SSRIs,Alcohol,Major,red,Alcohol worsens depression and increases drowsiness with SSRIs.,الكحول يزيد الاكتئاب والنعاس مع SSRIs.
+SSRIs,St Johns Wort,Major,red,St Johns Wort with SSRIs risks serotonin syndrome.,نبتة سانت جون مع SSRIs تخاطر بمتلازمة السيروتونين.
+Sertraline,Grapefruit,Minor,yellow,Grapefruit may slightly increase Sertraline levels.,الجريب فروت قد يزيد مستويات سيرترالين قليلاً.
+
+# ==========================================
+# DIABETES MEDICATIONS
+# ==========================================
+Metformin,Alcohol,Major,red,Alcohol increases lactic acidosis risk with Metformin. Limit intake.,الكحول يزيد خطر الحماض اللبني مع الميتفورمين.
+Sulfonylureas,Alcohol,Major,red,Alcohol may cause unpredictable low blood sugar with sulfonylureas.,الكحول قد يسبب انخفاض السكر غير متوقع مع السلفونيليوريا.
+Insulin,Alcohol,Major,red,Alcohol masks hypoglycemia symptoms and worsens low blood sugar.,الكحول يخفي أعراض انخفاض السكر ويزيده سوءًا.
+Diabetes Medications,Consistent Carbohydrates,Moderate,orange,Maintain consistent carbohydrate intake for stable blood sugar control.,حافظ على تناول كربوهيدرات ثابت للتحكم المستقر في السكر.
+
+# ==========================================
+# SEDATIVES & OPIOIDS
+# ==========================================
+Alprazolam,Alcohol,Contraindicated,red,Alcohol with benzodiazepines can cause fatal respiratory depression.,الكحول مع البنزوديازيبينات يمكن أن يسبب اكتئاب تنفسي قاتل.
+Lorazepam,Alcohol,Contraindicated,red,Never combine Lorazepam with alcohol - risk of death.,لا تجمع أبدًا لورازيبام مع الكحول - خطر الوفاة.
+Diazepam,Alcohol,Contraindicated,red,Alcohol dramatically increases Diazepam sedation and danger.,الكحول يزيد بشكل كبير تخدير الديازيبام وخطره.
+Oxycodone,Alcohol,Contraindicated,red,Alcohol with opioids is frequently fatal. Never combine.,الكحول مع المسكنات الأفيونية قاتل في كثير من الأحيان. لا تجمع أبدًا.
+Tramadol,Alcohol,Major,red,Alcohol increases CNS depression and seizure risk with Tramadol.,الكحول يزيد اكتئاب الجهاز العصبي وخطر النوبات مع الترامادول.
+Morphine,Alcohol,Contraindicated,red,Combining Morphine with alcohol is extremely dangerous.,الجمع بين المورفين والكحول خطير للغاية.
+Codeine,Alcohol,Major,red,Alcohol increases Codeine sedation and respiratory depression.,الكحول يزيد تخدير الكودايين واكتئاب التنفس.
+Zolpidem,Alcohol,Contraindicated,red,Never use alcohol with Zolpidem (Ambien) - amnesia and dangerous behavior.,لا تستخدم الكحول مع زولبيديم أبدًا - فقدان الذاكرة والسلوك الخطير.
+Zolpidem,Grapefruit,Moderate,orange,Grapefruit may increase Zolpidem levels.,الجريب فروت قد يزيد مستويات زولبيديم.
+
+# ==========================================
+# POTASSIUM-SPARING DIURETICS
+# ==========================================
+Spironolactone,Potassium-Rich Foods,Major,red,Limit bananas oranges potatoes with Spironolactone - hyperkalemia risk.,قلل من الموز والبرتقال والبطاطس مع سبيرونولاكتون - خطر فرط البوتاسيوم.
+Spironolactone,Salt Substitutes,Major,red,Salt substitutes contain potassium - avoid with Spironolactone.,بدائل الملح تحتوي على بوتاسيوم - تجنبها مع سبيرونولاكتون.
+Triamterene,Potassium-Rich Foods,Major,red,Avoid high potassium foods with Triamterene.,تجنب الأطعمة الغنية بالبوتاسيوم مع تريامتيرين.
+Amiloride,Potassium-Rich Foods,Major,red,Monitor potassium intake closely with Amiloride.,راقب تناول البوتاسيوم بدقة مع أميلوريد.
+
+# ==========================================
+# OTHER MEDICATIONS
+# ==========================================
+Sildenafil,High-Fat Meal,Moderate,orange,High-fat meals delay Sildenafil absorption and effect.,الوجبات الدهنية تؤخر امتصاص وتأثير سيلدينافيل.
+Sildenafil,Grapefruit,Moderate,orange,Grapefruit increases Sildenafil effect - may cause prolonged erection.,الجريب فروت يزيد تأثير سيلدينافيل - قد يسبب انتصابًا مطولًا.
+Tadalafil,Grapefruit,Moderate,orange,Grapefruit may increase Tadalafil levels.,الجريب فروت قد يزيد مستويات تادالافيل.
+Theophylline,Caffeine,Major,red,Both Theophylline and caffeine are xanthines - toxicity risk.,كلاهما زانثينات - خطر السمية.
+Theophylline,High-Protein Diet,Moderate,orange,High protein reduces Theophylline half-life.,البروتين العالي يقلل عمر الثيوفيلين النصفي.
+Lithium,Caffeine,Moderate,orange,High caffeine intake may reduce Lithium levels.,تناول الكافيين العالي قد يقلل مستويات الليثيوم.
+Lithium,Salt Intake,Major,red,Maintain consistent salt intake - changes affect Lithium levels dangerously.,حافظ على تناول ملح ثابت - التغييرات تؤثر على مستويات الليثيوم بشكل خطير.
+Digoxin,High-Fiber Foods,Moderate,orange,High fiber may reduce Digoxin absorption.,الألياف العالية قد تقلل امتصاص الديجوكسين.
+Cyclosporine,Grapefruit,Major,red,Grapefruit dramatically increases Cyclosporine levels and nephrotoxicity.,الجريب فروت يزيد بشكل كبير مستويات سيكلوسبورين وسمية الكلى.
+Tacrolimus,Grapefruit,Major,red,Grapefruit increases Tacrolimus levels.,الجريب فروت يزيد مستويات تاكروليموس.
+Bisphosphonates,Food,Major,red,Take Fosamax (Alendronate) on empty stomach. Food reduces absorption 90%.,تناول فوساماكس على معدة فارغة. الطعام يقلل الامتصاص 90%.
+Bisphosphonates,Coffee,Major,red,Coffee and other beverages reduce bisphosphonate absorption. Use only water.,القهوة والمشروبات الأخرى تقلل الامتصاص. استخدم الماء فقط.
+Levodopa,High-Protein Foods,Major,red,Protein competes with Levodopa absorption. Distribute protein evenly.,البروتين يتنافس مع امتصاص ليفودوبا. وزع البروتين بالتساوي.
+Levodopa,Iron,Moderate,orange,Iron may reduce Levodopa absorption.,الحديد قد يقلل امتصاص ليفودوبا.
+Phenytoin,Enteral Nutrition,Major,red,Tube feeding reduces Phenytoin absorption significantly. Hold feeding 2 hours.,التغذية الأنبوبية تقلل امتصاص الفينيتوين. أوقف التغذية ساعتين.
+Carbamazepine,Grapefruit,Major,red,Grapefruit increases Carbamazepine levels and toxicity.,الجريب فروت يزيد مستويات كاربامازيبين وسميته.

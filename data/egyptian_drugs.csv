@@ -1,0 +1,910 @@
+trade_name_en,trade_name_ar,generic_name,manufacturer,category,forms,strengths,adult_dose,child_dose,price_egp
+# ==========================================
+# مسكنات الألم وخافضات الحرارة - PAIN RELIEVERS & ANTIPYRETICS
+# ==========================================
+Panadol,بانادول,Paracetamol,GlaxoSmithKline,Pain Relief,Tablets,500mg,500-1000mg every 4-6h (max 4g/day),10-15mg/kg every 4-6h,20
+Panadol Extra,بانادول اكسترا,Paracetamol + Caffeine,GlaxoSmithKline,Pain Relief,Tablets,500mg/65mg,1-2 tablets every 4-6h,Not for children <12,35
+Panadol Advance,بانادول ادفانس,Paracetamol,GlaxoSmithKline,Pain Relief,Tablets,500mg,1-2 tablets every 4-6h,Not for children <12,30
+Paracetamol EIPICO,باراسيتامول ايبيكو,Paracetamol,EIPICO,Pain Relief,Tablets,500mg,500-1000mg every 4-6h,10-15mg/kg,5
+Cetal,سيتال,Paracetamol,Pharco,Pain Relief,Syrup,120mg/5ml,10-15ml every 4-6h,2.5-10ml by age,15
+Cetal,سيتال,Paracetamol,Pharco,Pain Relief,Suppositories,125mg|250mg|500mg,1 supp every 4-6h,1 supp by weight,12
+Abimol,ابيمول,Paracetamol,Medical Union,Pain Relief,Tablets,500mg,1-2 tablets every 4-6h,10-15mg/kg,8
+Fevadol,فيفادول,Paracetamol,Spimaco,Pain Relief,Tablets,500mg,1-2 tablets every 4-6h,10-15mg/kg,10
+Brufen,بروفين,Ibuprofen,Abbott,NSAID,Tablets|Syrup,200mg|400mg|600mg,200-400mg every 4-6h (max 1200mg/day),5-10mg/kg every 6-8h,25
+Brufen Forte,بروفين فورت,Ibuprofen,Abbott,NSAID,Tablets,600mg,1 tablet every 8h,Not for children,35
+Ibufen,ايبوفين,Ibuprofen,Pharco,NSAID,Syrup,100mg/5ml,According to weight,5-10mg/kg,18
+Ketofan,كيتوفان,Ketoprofen,Amoun,NSAID,Capsules|Gel,50mg|100mg,50-100mg twice daily,Not recommended,22
+Voltaren,فولتارين,Diclofenac,Novartis,NSAID,Tablets|Gel|Injection,25mg|50mg|75mg,25-50mg 2-3 times daily,Not for children,30
+Olfen,اولفين,Diclofenac,Mepha,NSAID,Tablets|Suppositories,50mg|100mg,50mg 2-3 times daily,Not recommended,25
+Cataflam,كتافلام,Diclofenac Potassium,Novartis,NSAID,Tablets,25mg|50mg,25-50mg 2-3 times daily,Not for children <14,35
+Catafast,كتافاست,Diclofenac Potassium,Novartis,NSAID,Sachets,50mg,1 sachet 2-3 times daily,Not for children,45
+Aspirin,اسبرين,Acetylsalicylic Acid,Bayer,NSAID/Antiplatelet,Tablets,100mg|325mg|500mg,325-650mg every 4-6h,Not for children,15
+Jusprin,جوسبرين,Acetylsalicylic Acid,Pharco,Antiplatelet,Tablets,81mg|100mg,81-100mg once daily,Not for children,10
+Celebrex,سيليبريكس,Celecoxib,Pfizer,COX-2 Inhibitor,Capsules,100mg|200mg,100-200mg twice daily,Not for children,80
+Arcoxia,اركوكسيا,Etoricoxib,MSD,COX-2 Inhibitor,Tablets,60mg|90mg|120mg,60-120mg once daily,Not for children,95
+
+# ==========================================
+# المضادات الحيوية - ANTIBIOTICS
+# ==========================================
+Augmentin,اوجمنتين,Amoxicillin/Clavulanate,GSK,Antibiotic,Tablets|Syrup,375mg|625mg|1g,625mg-1g twice daily,20-40mg/kg/day divided,65
+Clavimox,كلافيموكس,Amoxicillin/Clavulanate,Pharco,Antibiotic,Tablets|Syrup,375mg|625mg|1g,625mg twice daily,25mg/kg/day divided,50
+Hibiotic,هاي بيوتك,Amoxicillin/Clavulanate,Amoun,Antibiotic,Tablets|Syrup,1g,1g twice daily,25-45mg/kg/day,55
+Amoxil,اموكسيل,Amoxicillin,GSK,Antibiotic,Capsules|Syrup,250mg|500mg,250-500mg every 8h,25-50mg/kg/day,25
+E-Mox,اي موكس,Amoxicillin,EIPICO,Antibiotic,Capsules|Syrup,250mg|500mg,500mg every 8h,25mg/kg/day,15
+Flumox,فلوموكس,Amoxicillin,EIPICO,Antibiotic,Capsules|Syrup,250mg|500mg|1g,500mg-1g every 8h,25mg/kg/day,20
+Velosef,فيلوسف,Cefadroxil,BMS,Antibiotic,Capsules|Syrup,250mg|500mg,500mg-1g every 12h,30mg/kg/day,40
+Cefzil,سيفزيل,Cefprozil,BMS,Antibiotic,Tablets|Syrup,250mg|500mg,250-500mg every 12h,15mg/kg every 12h,60
+Suprax,سوبراكس,Cefixime,Sanofi,Antibiotic,Capsules|Syrup,200mg|400mg,400mg once daily,8mg/kg/day,70
+Cefotrix,سيفوتريكس,Ceftriaxone,Pharco,Antibiotic,Injection,250mg|500mg|1g,1-2g once daily IV/IM,50-75mg/kg/day,45
+Zinnat,زينات,Cefuroxime,GSK,Antibiotic,Tablets|Syrup,250mg|500mg,250-500mg every 12h,20-30mg/kg/day,75
+Keflex,كيفليكس,Cefalexin,Lilly,Antibiotic,Capsules|Syrup,250mg|500mg,250-500mg every 6h,25-50mg/kg/day,35
+Cipro,سيبرو,Ciprofloxacin,Bayer,Antibiotic,Tablets,250mg|500mg|750mg,250-750mg every 12h,Not for children,45
+Ciprofloxacin EIPICO,سيبروفلوكساسين ايبيكو,Ciprofloxacin,EIPICO,Antibiotic,Tablets,250mg|500mg,500mg every 12h,Not for children,20
+Tavanic,تافانيك,Levofloxacin,Sanofi,Antibiotic,Tablets,250mg|500mg|750mg,500-750mg once daily,Not for children,90
+Avelox,افيلوكس,Moxifloxacin,Bayer,Antibiotic,Tablets,400mg,400mg once daily,Not for children,120
+Zithromax,زيثروماكس,Azithromycin,Pfizer,Antibiotic,Tablets|Syrup,250mg|500mg,500mg day 1 then 250mg days 2-5,10mg/kg day 1 then 5mg/kg days 2-5,65
+Zithrodose,زيثرودوز,Azithromycin,Pharco,Antibiotic,Tablets|Syrup,200mg|500mg,500mg once daily for 3 days,10mg/kg/day for 3 days,35
+Xithrone,زيثرون,Azithromycin,Pharco,Antibiotic,Capsules,250mg|500mg,500mg x 3 days,10mg/kg/day,30
+Klacid,كلاسيد,Clarithromycin,Abbott,Antibiotic,Tablets|Syrup,250mg|500mg,250-500mg every 12h,7.5mg/kg every 12h,80
+Dalacin C,دالاسين سي,Clindamycin,Pfizer,Antibiotic,Capsules,150mg|300mg,150-300mg every 6h,8-25mg/kg/day,55
+Flagyl,فلاجيل,Metronidazole,Sanofi,Antibiotic,Tablets|Syrup|Supp,250mg|500mg,500mg 2-3 times daily,35-50mg/kg/day,25
+Amrizole,امريزول,Metronidazole,Amoun,Antibiotic,Tablets|Syrup|Supp,250mg|500mg,500mg 2-3 times daily,35-50mg/kg/day,18
+Antinal,انتينال,Nifuroxazide,Amoun,Intestinal Antiseptic,Capsules|Syrup,200mg,200mg 4 times daily (max 3 days),5ml 3-4 times daily (max 7 days),22
+Ercefuryl,ارسيفوريل,Nifuroxazide,Sanofi,Intestinal Antiseptic,Capsules,200mg,200mg 4 times daily,5ml 3 times daily,35
+
+# ==========================================
+# أدوية الجهاز الهضمي - GASTROINTESTINAL
+# ==========================================
+Nexium,نيكسيم,Esomeprazole,AstraZeneca,PPI,Tablets,20mg|40mg,20-40mg once daily,Not for children <12,85
+Controloc,كونترولوك,Pantoprazole,Takeda,PPI,Tablets,20mg|40mg,20-40mg once daily,Not for children,45
+Omepak,اوميباك,Omeprazole,Pharco,PPI,Capsules,20mg|40mg,20-40mg once daily,Not for children,18
+Losec,لوسك,Omeprazole,AstraZeneca,PPI,Capsules,10mg|20mg|40mg,20-40mg once daily,0.7-3.3mg/kg/day,95
+Pariet,باريت,Rabeprazole,Janssen,PPI,Tablets,10mg|20mg,10-20mg once daily,Not for children,70
+Zantac,زانتاك,Ranitidine,GSK,H2 Blocker,Tablets,150mg|300mg,150mg twice or 300mg at night,2-4mg/kg twice daily,15
+Gaviscon,جافيسكون,Alginate/Antacid,Reckitt,Antacid,Suspension|Tabs,Various,10-20ml after meals,Not recommended <6,35
+Motilium,موتيليوم,Domperidone,Janssen,Prokinetic,Tablets|Susp,10mg,10mg 3 times daily,0.25mg/kg 3 times daily,28
+Primperan,بريمبران,Metoclopramide,Sanofi,Prokinetic,Tablets|Injection,10mg,10mg 3 times daily,0.1-0.15mg/kg,15
+Maalox,مالوكس,Aluminum/Magnesium Hydroxide,Sanofi,Antacid,Suspension|Tabs,Various,10-20ml after meals,5-15ml after meals,25
+Duspatalin,دوسباتالين,Mebeverine,Abbott,Antispasmodic,Tablets|Capsules,135mg|200mg SR,135mg 3 times or 200mg SR twice daily,Not for children,45
+Buscopan,بسكوبان,Hyoscine,Boehringer,Antispasmodic,Tablets|Injection,10mg|20mg,10-20mg 3-4 times daily,Not for children <6,22
+Librax,ليبراكس,Chlordiazepoxide/Clidinium,Roche,Antispasmodic,Capsules,5mg/2.5mg,1-2 capsules 3-4 times daily,Not for children,30
+Spasmo Amrase,سبازمو امريز,Pancreatin/Simethicone/Drotaverine,Amoun,Digestive,Tablets,Various,1-2 tablets with meals,Not for children,28
+Creon,كريون,Pancrelipase,Abbott,Digestive Enzyme,Capsules,10000|25000 units,1-2 caps with meals,As directed,120
+
+# ==========================================
+# أدوية القلب والضغط - CARDIOVASCULAR
+# ==========================================
+Concor,كونكور,Bisoprolol,Merck,Beta Blocker,Tablets,2.5mg|5mg|10mg,2.5-10mg once daily,Not for children,35
+Nebilet,نيبيلت,Nebivolol,Menarini,Beta Blocker,Tablets,5mg,5mg once daily,Not for children,65
+Tenormin,تينورمين,Atenolol,AstraZeneca,Beta Blocker,Tablets,50mg|100mg,25-100mg once daily,Not for children,25
+Inderal,اندرال,Propranolol,AstraZeneca,Beta Blocker,Tablets,10mg|40mg,40-80mg twice daily,0.25-0.5mg/kg twice,15
+Tritace,تريتاس,Ramipril,Sanofi,ACE Inhibitor,Tablets,1.25mg|2.5mg|5mg|10mg,2.5-10mg once daily,Not for children,40
+Capoten,كابوتين,Captopril,BMS,ACE Inhibitor,Tablets,25mg|50mg,25-50mg 2-3 times daily,Not for children,20
+Zestril,زيستريل,Lisinopril,AstraZeneca,ACE Inhibitor,Tablets,5mg|10mg|20mg,10-40mg once daily,Not for children,35
+Cozaar,كوزار,Losartan,MSD,ARB,Tablets,25mg|50mg|100mg,50-100mg once daily,Not for children,55
+Diovan,ديوفان,Valsartan,Novartis,ARB,Tablets,80mg|160mg|320mg,80-160mg once daily,Not for children,75
+Atacand,اتاكاند,Candesartan,AstraZeneca,ARB,Tablets,8mg|16mg|32mg,8-32mg once daily,Not for children,65
+Norvasc,نورفاسك,Amlodipine,Pfizer,Calcium Channel Blocker,Tablets,5mg|10mg,5-10mg once daily,Not for children,45
+Isoptin,ايزوبتين,Verapamil,Abbott,Calcium Channel Blocker,Tablets,40mg|80mg|120mg SR,40-120mg 3 times daily,Not for children,30
+Adalat,ادالات,Nifedipine,Bayer,Calcium Channel Blocker,Tablets,10mg|20mg|30mg|60mg,30-60mg once daily,Not for children,35
+Lasix,لازكس,Furosemide,Sanofi,Diuretic,Tablets|Injection,40mg|500mg,20-80mg daily,1-2mg/kg,12
+Aldactone,الداكتون,Spironolactone,Pfizer,Diuretic,Tablets,25mg|100mg,25-200mg daily,1-3mg/kg/day,25
+Clopidogrel,كلوبيدوجريل,Clopidogrel,Various,Antiplatelet,Tablets,75mg,75mg once daily,Not for children,30
+Plavix,بلافيكس,Clopidogrel,Sanofi,Antiplatelet,Tablets,75mg|300mg,75mg once daily,Not for children,95
+Lipitor,ليبيتور,Atorvastatin,Pfizer,Statin,Tablets,10mg|20mg|40mg|80mg,10-80mg once daily,Not for children,85
+Crestor,كريستور,Rosuvastatin,AstraZeneca,Statin,Tablets,5mg|10mg|20mg|40mg,5-40mg once daily,Not for children,110
+Zocor,زوكور,Simvastatin,MSD,Statin,Tablets,10mg|20mg|40mg,10-40mg at night,Not for children,55
+Lopid,لوبيد,Gemfibrozil,Pfizer,Fibrate,Tablets,300mg|600mg,600mg twice daily,Not for children,45
+Marevan,ماريفان,Warfarin,Orion,Anticoagulant,Tablets,1mg|3mg|5mg,As per INR,Not for children,25
+Xarelto,اكساريلتو,Rivaroxaban,Bayer,Anticoagulant,Tablets,10mg|15mg|20mg,10-20mg daily,Not for children,450
+
+# ==========================================
+# أدوية السكري - DIABETES MEDICATIONS
+# ==========================================
+Glucophage,جلوكوفاج,Metformin,Merck,Biguanide,Tablets,500mg|850mg|1000mg,500-1000mg twice daily,Not for children <10,15
+Metformin EIPICO,ميتفورمين ايبيكو,Metformin,EIPICO,Biguanide,Tablets,500mg|850mg,500-850mg 2-3 times daily,Not for children,8
+Cidophage,سيدوفاج,Metformin,CID,Biguanide,Tablets|XR,500mg|850mg|1000mg,500-1000mg twice daily,Not for children,12
+Amaryl,اماريل,Glimepiride,Sanofi,Sulfonylurea,Tablets,1mg|2mg|3mg|4mg,1-4mg once daily,Not for children,35
+Diamicron,دياميكرون,Gliclazide,Servier,Sulfonylurea,Tablets|MR,30mg|60mg|80mg,30-120mg daily,Not for children,40
+Daonil,داونيل,Glibenclamide,Sanofi,Sulfonylurea,Tablets,5mg,2.5-15mg daily,Not for children,10
+Januvia,جانوفيا,Sitagliptin,MSD,DPP-4 Inhibitor,Tablets,25mg|50mg|100mg,100mg once daily,Not for children,250
+Galvus,جالفس,Vildagliptin,Novartis,DPP-4 Inhibitor,Tablets,50mg,50mg twice daily,Not for children,180
+Trajenta,تراجنتا,Linagliptin,Lilly,DPP-4 Inhibitor,Tablets,5mg,5mg once daily,Not for children,200
+Jardiance,جاردياانس,Empagliflozin,Lilly,SGLT2 Inhibitor,Tablets,10mg|25mg,10-25mg once daily,Not for children,380
+Forxiga,فوركسيجا,Dapagliflozin,AstraZeneca,SGLT2 Inhibitor,Tablets,5mg|10mg,10mg once daily,Not for children,350
+Invokana,انفوكانا,Canagliflozin,Janssen,SGLT2 Inhibitor,Tablets,100mg|300mg,100-300mg once daily,Not for children,400
+Victoza,فيكتوزا,Liraglutide,Novo Nordisk,GLP-1 Agonist,Injection,6mg/ml,0.6-1.8mg once daily SC,Not for children,2500
+Lantus,لانتوس,Insulin Glargine,Sanofi,Long-acting Insulin,Injection,100 units/ml,As per blood glucose,As per blood glucose,450
+Novorapid,نوفورابيد,Insulin Aspart,Novo Nordisk,Rapid Insulin,Injection,100 units/ml,As per blood glucose,As per blood glucose,400
+Mixtard,ميكستارد,Mixed Insulin,Novo Nordisk,Mixed Insulin,Injection,100 units/ml,As per blood glucose,As per blood glucose,180
+Humalog,هيومالوج,Insulin Lispro,Lilly,Rapid Insulin,Injection,100 units/ml,As per blood glucose,As per blood glucose,420
+
+# ==========================================
+# أدوية الجهاز التنفسي - RESPIRATORY
+# ==========================================
+Ventolin,فنتولين,Salbutamol,GSK,Bronchodilator,Inhaler|Syrup|Tablets,100mcg|2mg|4mg,2 puffs every 4-6h,0.1-0.15mg/kg 3-4 times,45
+Symbicort,سيمبيكورت,Budesonide/Formoterol,AstraZeneca,Combination,Inhaler,80/4.5|160/4.5|320/9 mcg,1-2 puffs twice daily,Not for children <6,280
+Seretide,سيريتايد,Fluticasone/Salmeterol,GSK,Combination,Diskus|Evohaler,Various,1-2 puffs twice daily,Not for children <4,350
+Pulmicort,بالميكورت,Budesonide,AstraZeneca,Corticosteroid,Inhaler|Nebules,Various,200-800mcg twice daily,0.25-0.5mg nebules,180
+Flixotide,فليكسوتايد,Fluticasone,GSK,Corticosteroid,Inhaler,50mcg|125mcg|250mcg,100-500mcg twice daily,50-200mcg twice daily,120
+Spiriva,سبيريفا,Tiotropium,Boehringer,Anticholinergic,Inhaler,18mcg,18mcg once daily,Not for children,280
+Atrovent,اتروفنت,Ipratropium,Boehringer,Anticholinergic,Inhaler|Nebules,20mcg,2-4 puffs 4 times daily,1-2 puffs 3-4 times,65
+Mucosol,ميوكوسول,Carbocisteine,Amoun,Mucolytic,Syrup|Capsules,250mg/5ml|375mg,375-750mg 3 times daily,2.5-5ml 3 times daily,18
+Mucosolvan,ميوكوسولفان,Ambroxol,Boehringer,Mucolytic,Syrup|Tablets,30mg/5ml|30mg,30mg 2-3 times daily,1.25-5ml 2-3 times,25
+Sinecod,ساينكود,Butamirate,Novartis,Antitussive,Syrup|Drops,7.5mg/5ml,15ml 3 times daily,1mg/kg/day divided,22
+Toplexil,توبليكسيل,Oxomemazine,Sanofi,Antitussive,Syrup,0.33mg/ml,10ml 2-3 times daily,5ml 2-3 times daily,18
+
+# ==========================================
+# أدوية الحساسية - ALLERGY MEDICATIONS
+# ==========================================
+Zyrtec,زيرتك,Cetirizine,UCB,Antihistamine,Tablets|Syrup,10mg,10mg once daily,2.5-10mg by age,35
+Claritine,كلاريتين,Loratadine,Bayer,Antihistamine,Tablets|Syrup,10mg,10mg once daily,5-10mg by age,40
+Telfast,تلفاست,Fexofenadine,Sanofi,Antihistamine,Tablets,60mg|120mg|180mg,120-180mg once daily,30-60mg twice daily (>6),55
+Xyzal,زيزال,Levocetirizine,UCB,Antihistamine,Tablets|Drops,5mg,5mg once daily,1.25-5mg by age,45
+Aerius,ايريوس,Desloratadine,MSD,Antihistamine,Tablets|Syrup,5mg,5mg once daily,1.25-5mg by age,65
+Avil,افيل,Pheniramine,Sanofi,Antihistamine,Tablets|Syrup|Injection,25mg,25-50mg 2-3 times daily,6.25-12.5mg by age,12
+Tavegyl,تافيجيل,Clemastine,Novartis,Antihistamine,Tablets|Syrup,1mg,1mg twice daily,0.5mg twice daily,18
+Dexafen,ديكسافين,Dexamethasone/CPM,Amoun,Antihistamine,Syrup,Various,5-10ml 3 times daily,2.5-5ml by age,15
+
+# ==========================================
+# فيتامينات ومكملات - VITAMINS & SUPPLEMENTS
+# ==========================================
+Vitamin D3,فيتامين دي 3,Cholecalciferol,Various,Vitamin,Drops|Capsules|Tablets,200-60000 IU,400-2000 IU daily,400 IU daily infants,25
+Vi-De-3,في-دي-3,Cholecalciferol,Merck,Vitamin,Drops,200000 IU/ml,2500 IU daily or as prescribed,400-1000 IU daily,30
+Vidrop,فيدروب,Cholecalciferol,Medical Union,Vitamin,Drops,2800 IU/ml,4-8 drops daily,4 drops daily,20
+Calcium D3F,كالسيوم دي 3 اف,Calcium + Vitamin D3,Pharco,Calcium Supplement,Effervescent,500mg Ca + 400 IU D3,1-2 tabs daily,1 tab daily (>12),25
+Caltrate,كالترات,Calcium + Vitamin D3,Pfizer,Calcium Supplement,Tablets,600mg + 400 IU,1-2 tabs daily,Not for children,45
+Vitamin B Complex,فيتامين بي كومبلكس,B Vitamins,Various,Vitamin,Tablets|Injection,Various,1-2 tabs daily,1 tab daily (>6),15
+Neurobion,نيوروبيون,B1/B6/B12,Merck,Vitamin,Tablets|Injection,100/200/200 mg,1 tab daily,Not for children,35
+Folic Acid,حمض الفوليك,Folic Acid,Various,Vitamin,Tablets,0.5mg|5mg,0.4-5mg daily,0.1-0.4mg daily,8
+Theragran,ثيراجران,Multivitamins,BMS,Multivitamin,Tablets,Various,1 tab daily,1 tab daily (>12),45
+Centrum,سنترم,Multivitamins,Pfizer,Multivitamin,Tablets,Various,1 tab daily,Not for children <18,85
+Feroglobin,فيروجلوبين,Iron + B12 + Folic,Vitabiotics,Iron Supplement,Capsules|Syrup,Various,1 cap or 10ml daily,5ml daily (4-12),55
+Iron EIPICO,حديد ايبيكو,Iron,EIPICO,Iron Supplement,Drops|Syrup|Tablets,Various,1-2 tabs daily,By weight,12
+Omega 3,اوميجا 3,Fish Oil,Various,Omega-3,Capsules,1000mg,1-3 caps daily,1 cap daily (>12),45
+Zinc,زنك,Zinc,Various,Mineral,Tablets|Syrup,10-50mg,10-50mg daily,5-10mg daily,15
+
+# ==========================================
+# أدوية العين - OPHTHALMIC
+# ==========================================
+Tobrin,توبرين,Tobramycin,Alcon,Antibiotic Eye Drop,Eye Drops,0.3%,1-2 drops every 4-6h,Same as adults,28
+Vigamox,فيجاموكس,Moxifloxacin,Alcon,Antibiotic Eye Drop,Eye Drops,0.5%,1 drop 3 times daily,Same as adults,55
+Ciplox,سيبلوكس,Ciprofloxacin,Cipla,Antibiotic Eye Drop,Eye Drops,0.3%,1-2 drops every 4-6h,Same as adults,22
+Tobrex,توبريكس,Tobramycin,Alcon,Antibiotic Eye Drop,Eye Drops/Oint,0.3%,1-2 drops every 4h,Same as adults,35
+Maxitrol,ماكسيترول,Neomycin/Polymyxin/Dexamethasone,Alcon,Antibiotic+Steroid,Eye Drops/Oint,Various,1-2 drops every 4-6h,As directed,45
+Systane,سيستين,Lubricating Eye Drops,Alcon,Lubricant,Eye Drops,Various,1-2 drops as needed,Same as adults,65
+Tears Naturale,دموع طبيعية,Artificial Tears,Alcon,Lubricant,Eye Drops,Various,1-2 drops as needed,Same as adults,40
+
+# ==========================================
+# أدوية الجلد - DERMATOLOGICAL
+# ==========================================
+Betaderm,بيتاديرم,Betamethasone,Medical Union,Corticosteroid,Cream/Ointment,0.1%,Apply twice daily,Use sparingly,18
+Fucicort,فيوسيكورت,Fusidic Acid/Betamethasone,LEO,Antibiotic+Steroid,Cream,2%/0.1%,Apply 2-3 times daily,Same as adults,55
+Fucidin,فيوسيدين,Fusidic Acid,LEO,Antibiotic,Cream/Ointment,2%,Apply 3-4 times daily,Same as adults,45
+Panderm,بانديرم,Miconazole/Betamethasone,Pharco,Antifungal+Steroid,Cream,Various,Apply twice daily,Same as adults,25
+Canesten,كانستين,Clotrimazole,Bayer,Antifungal,Cream/Powder,1%,Apply 2-3 times daily,Same as adults,30
+Nizoral,نيزورال,Ketoconazole,Janssen,Antifungal,Shampoo/Cream,2%,Apply 1-2 times daily,Same as adults,55
+Dalacin T,دالاسين تى,Clindamycin,Pfizer,Acne,Gel/Solution,1%,Apply twice daily,>12 years,35
+
+# ==========================================
+# مسكنات قوية ومهدئات - STRONG ANALGESICS & SEDATIVES
+# ==========================================
+Tramadol,ترامادول,Tramadol,Various,Opioid,Capsules|Tablets,50mg|100mg|200mg,50-100mg every 4-6h (max 400mg),Not for children,Controlled
+Voltfast,فولتفاست,Diclofenac,Novartis,NSAID,Sachets,50mg,50mg 2-3 times daily,Not for children,35
+Alprazolam,البرازولام,Alprazolam,Various,Benzodiazepine,Tablets,0.25mg|0.5mg|1mg,0.25-0.5mg 3 times daily,Not for children,Controlled
+Lexotanil,ليكسوتانيل,Bromazepam,Roche,Benzodiazepine,Tablets,1.5mg|3mg|6mg,1.5-3mg 2-3 times daily,Not for children,Controlled
+Xanax,زاناكس,Alprazolam,Pfizer,Benzodiazepine,Tablets,0.25mg|0.5mg|1mg|2mg,0.25-0.5mg 3 times daily,Not for children,Controlled
+
+# ==========================================
+# مضادات الاكتئاب والذهان - PSYCHIATRIC MEDICATIONS
+# ==========================================
+Prozac,بروزاك,Fluoxetine,Lilly,SSRI,Capsules,20mg|40mg,20-80mg once daily,Not for children <8,65
+Cipralex,سيبراليكس,Escitalopram,Lundbeck,SSRI,Tablets,10mg|20mg,10-20mg once daily,Not for children,95
+Zoloft,زولوفت,Sertraline,Pfizer,SSRI,Tablets,50mg|100mg,50-200mg once daily,Not for children <6,75
+Effexor,ايفيكسور,Venlafaxine,Pfizer,SNRI,Capsules,37.5mg|75mg|150mg,75-225mg daily,Not for children,85
+Cymbalta,سيمبالتا,Duloxetine,Lilly,SNRI,Capsules,30mg|60mg,60-120mg daily,Not for children,150
+Amitriptyline,اميتريبتيلين,Amitriptyline,Various,TCA,Tablets,10mg|25mg|50mg,25-150mg at night,Not for children <12,15
+Risperdal,ريسبريدال,Risperidone,Janssen,Antipsychotic,Tablets|Solution,0.5mg|1mg|2mg|3mg|4mg,1-6mg daily,0.25-4mg daily (>5),85
+Zyprexa,زيبريكسا,Olanzapine,Lilly,Antipsychotic,Tablets,2.5mg|5mg|10mg|15mg|20mg,5-20mg once daily,Not for children,150
+Seroquel,سيروكويل,Quetiapine,AstraZeneca,Antipsychotic,Tablets,25mg|100mg|200mg|300mg,150-750mg daily,Not for children,120
+
+# ==========================================
+# أدوية إضافية من ايبيكو - MORE EIPICO PRODUCTS
+# ==========================================
+Epifenac,ايبيفيناك,Diclofenac Sodium,EIPICO,NSAID,Supp|Tablets|Injection,25mg|50mg|75mg,50mg 2-3 times daily,1-3mg/kg,15
+Epicotil,ايبيكوتيل,Tenoxicam,EIPICO,NSAID,Tablets|Supp|Injection,20mg,20mg once daily,Not for children,28
+Nifurox,نيفوروكس,Nifuroxazide,EIPICO,Intestinal Antiseptic,Suspension,220mg/5ml,5ml 4 times daily,As directed,15
+Furazole,فيورازول,Diloxanide/Metronidazole,EIPICO,Antiprotozoal,Tablets,500mg/200mg,1 tab 3 times daily,Not for children,18
+Gastrofait,جاستروفيت,Sucralfate,EIPICO,Gastroprotective,Tablets,1g,1g 4 times daily,Not for children,22
+Gastromotil,جاستروموتيل,Domperidone,EIPICO,Prokinetic,Tablets|Supp,10mg,10mg 3 times daily,0.25mg/kg,12
+Colospasmin,كولوسبازمين,Mebeverine,EIPICO,Antispasmodic,Tablets,135mg,135mg 3 times daily,Not for children,18
+Epirazole,ايبيرازول,Omeprazole,EIPICO,PPI,Capsules,20mg|40mg,20-40mg once daily,Not for children,12
+Epicophyllin,ايبيكوفيللين,Acephylline,EIPICO,Bronchodilator,Syrup,Various,15ml 3 times daily,5-10ml 3 times daily,15
+Epizithro,ايبيزيثرو,Azithromycin,EIPICO,Antibiotic,Suspension,200mg/5ml,500mg day 1 then 250mg,10mg/kg,25
+Emoxclav,ايموكسكلاف,Amoxicillin/Clavulanate,EIPICO,Antibiotic,Tablets,625mg|1g,625mg-1g twice daily,25mg/kg,35
+Epicephin,ايبيسيفين,Ceftriaxone,EIPICO,Antibiotic,Injection,250mg|500mg|1g,1-2g daily IV/IM,50-75mg/kg,35
+Treflucan,تريفلوكان,Fluconazole,EIPICO,Antifungal,Capsules,50mg|100mg|150mg,50-400mg daily,3-12mg/kg,30
+Epifluver,ايبيفلوفير,Favipiravir,EIPICO,Antiviral,Tablets,200mg,1600mg then 600mg twice,Not for children,180
+Remaist,ريمايست,Remdesivir,EIPICO,Antiviral,Injection,100mg,200mg then 100mg daily,Not for children,850
+Novactam,نوفاكتام,Ampicillin/Sulbactam,EIPICO,Antibiotic,Injection,750mg|1.5g,1.5-3g every 6h IV/IM,150mg/kg/day,40
+Ciprocin,سيبروسين,Ciprofloxacin,EIPICO,Antibiotic,Eye Drops|Oint,0.3%,1-2 drops every 4h,Same as adults,18
+Ateno,اتينو,Atenolol,EIPICO,Beta Blocker,Tablets,50mg|100mg,50-100mg once daily,Not for children,8
+Ator,اتور,Atorvastatin,EIPICO,Statin,Tablets,10mg|20mg|40mg|80mg,10-80mg once daily,Not for children,25
+Benox,بينوكس,Benoxinate,EIPICO,Local Anesthetic,Eye Drops,0.4%,1-2 drops before procedure,Same as adults,15
+Dexatobrin,ديكساتوبرين,Dexamethasone/Tobramycin,EIPICO,Antibiotic+Steroid,Eye Drops,Various,1-2 drops every 4-6h,Same as adults,25
+Dexatrol,ديكساترول,Dexamethasone/Neomycin/Polymyxin,EIPICO,Antibiotic+Steroid,Eye/Ear Drops,Various,1-2 drops every 4-6h,Same as adults,22
+Conta-flu,كونتافلو,Pseudoephedrine/CPM/Paracetamol,EIPICO,Cold & Flu,Tablets,Various,1-2 tabs every 6-8h,Not for children <12,12
+Cetal Cold,سيتال كولد,Paracetamol/Pseudoephedrine/CPM,EIPICO,Cold & Flu,Caplets,Various,1-2 caplets every 4-6h,Not for children <12,15
+Cetal Extra,سيتال اكسترا,Paracetamol/Caffeine,EIPICO,Pain Relief,Tablets,500mg/65mg,1-2 tabs every 4-6h,Not for children <12,10
+Alzental,الزنتال,Albendazole,EIPICO,Anthelmintic,Tablets|Susp,200mg|400mg,400mg single dose or twice,200mg single/twice,12
+
+# ==========================================
+# أدوية فاركو - PHARCO PRODUCTS
+# ==========================================
+Paragesic,باراجيسيك,Paracetamol,Pharco,Pain Relief,Drops|Susp|Tabs|Supp,Various,500-1000mg every 4-6h,10-15mg/kg,8
+Buccazole,بوكازول,Miconazole,Pharco,Antifungal,Oral Gel,2%,2.5ml 4 times daily,1.25ml 4 times daily,22
+Farcotilium,فاركوتيليوم,Domperidone,Pharco,Prokinetic,Capsules|Susp,10mg,10mg 3 times daily,0.25-0.5mg/kg,18
+Declophen,ديكلوفين,Diclofenac Sodium,Pharco,NSAID,Amp|Supp|Granules,25mg|75mg,25-50mg 2-3 times daily,1-3mg/kg,12
+Adolor,ادولور,Ketorolac,Pharco,NSAID,Ampoules,30mg,30mg every 6h (max 5 days),Not for children,35
+Uricol,يوريكول,Potassium Citrate,Pharco,Urinary,Effervescent,Various,1 sachet 3 times daily,Not for children,25
+Cetrak,سيتراك,Cetirizine,Pharco,Antihistamine,Tablets|Syrup,10mg,10mg once daily,2.5-10mg by age,12
+Ciprofar,سيبروفار,Ciprofloxacin,Pharco,Antibiotic,Tablets,250mg|500mg|750mg,500mg every 12h,Not for children,18
+Gratisovir,جراتيسوفير,Sofosbuvir,Pharco,Antiviral (HCV),Tablets,400mg,400mg once daily,Not for children,1200
+Oplex,اوبلكس,Chlorpheniramine/Pseudoephedrine,Pharco,Cold & Cough,Syrup,Various,10ml 3 times daily,5ml 3 times daily,15
+Acne Zinc,اكني زنك,Erythromycin/Zinc,Pharco,Acne,Solution,2%/1.2%,Apply twice daily,>12 years,35
+Alfabrimo,الفابريمو,Brimonidine,Pharco,Glaucoma,Eye Drops,0.15%,1 drop twice daily,Not for children,45
+Cefaxone,سيفاكسون,Ceftriaxone,Pharco,Antibiotic,Injection,1g,1-2g once daily,50-75mg/kg,40
+
+# ==========================================
+# أدوية ايفا فارما - EVA PHARMA PRODUCTS
+# ==========================================
+Acticolla,اكتيكولا,Collagen/Vitamin C,Eva Pharma,Supplement,Sachets,Various,1 sachet daily,Not for children,85
+Carnivita,كارنيفيتا,L-Carnitine,Eva Pharma,Supplement,Tablets|Sachets,1000mg,1-3g daily,Not for children,95
+Carnivita Forte,كارنيفيتا فورت,L-Carnitine,Eva Pharma,Supplement,Tablets,2000mg,1 tab daily,Not for children,120
+Chromax,كروماكس,Chromium Picolinate,Eva Pharma,Supplement,Capsules,200mcg,1-2 caps daily,Not for children,65
+Genuphil,جينوفيل,Glucosamine/Chondroitin,Eva Pharma,Joint Support,Tablets|Sachets,Various,1-2 tabs daily,Not for children,95
+Hairtone,هيرتون,Biotin/Vitamins,Eva Pharma,Hair Support,Capsules,Various,1-2 caps daily,Not for children,75
+Limitless Zinc,ليميتلس زنك,Zinc,Eva Pharma,Mineral,Tablets,50mg,1 tab daily,Not for children,35
+Limitless C-Zinc,ليميتلس سي زنك,Vitamin C/Zinc,Eva Pharma,Immune Support,Lozenges,Various,1-2 lozenges daily,>4 years,45
+Limitless Chromax,ليميتلس كروماكس,Chromium,Eva Pharma,Weight Support,Sachets,Various,1 sachet daily,Not for children,55
+Limitless Lactoferrin,ليميتلس لاكتوفيرين,Lactoferrin,Eva Pharma,Immune Support,Sachets,100mg,1-2 sachets daily,As directed,145
+Prostanorm,بروستانورم,Saw Palmetto,Eva Pharma,Prostate Support,Capsules,320mg,1 cap daily,Not for adults only,75
+Axor,اكسور,Paroxetine,Eva Pharma,SSRI,Tablets,20mg|40mg,20-40mg once daily,Not for children,55
+Conventin,كونفنتين,Gabapentin,Eva Pharma,Anticonvulsant,Capsules,100mg|300mg|400mg,300-1800mg daily divided,Not for children,45
+
+# ==========================================
+# أدوية آمون - AMOUN PRODUCTS
+# ==========================================
+Ketolgin,كيتولجين,Ketorolac,Amoun,NSAID,Tablets,10mg,10mg every 4-6h (max 5 days),Not for children,22
+Allerfen,اليرفين,Chlorpheniramine,Amoun,Antihistamine,Tablets|Syrup,4mg,4mg 3-4 times daily,0.35mg/kg/day,8
+Fungican,فانجيكان,Fluconazole,Amoun,Antifungal,Capsules,50mg|150mg,50-400mg daily,3-12mg/kg,25
+Arythrex,اريثريكس,Erythromycin,Amoun,Antibiotic,Capsules,250mg|500mg,250-500mg every 6h,30-50mg/kg/day,20
+Fladazole,فلادازول,Diloxanide/Metronidazole,Amoun,Antiprotozoal,Tablets,Various,1 tab 3 times daily,Not for children,15
+Amosar,اموسار,Losartan,Amoun,ARB,Tablets,50mg|100mg,50-100mg once daily,Not for children,25
+Betacor,بيتاكور,Bisoprolol,Amoun,Beta Blocker,Tablets,2.5mg|5mg|10mg,2.5-10mg once daily,Not for children,18
+Corasore,كوراسور,Enalapril,Amoun,ACE Inhibitor,Tablets|Drops,5mg|10mg|20mg,5-40mg daily,0.1mg/kg,15
+Mosedin,موسيدين,Loperamide,Amoun,Antidiarrheal,Capsules,2mg,4mg then 2mg after each stool,Not for children <6,12
+Emetrex,ايميتريكس,Metoclopramide,Amoun,Antiemetic,Tablets|Amp,10mg,10mg 3 times daily,0.1-0.15mg/kg,10
+Apidone,ابيدون,Dicyclomine/Simethicone,Amoun,Antispasmodic,Syrup,Various,5-10ml 3-4 times daily,2.5ml 3 times daily,15
+Enemax,اينيماكس,Sodium Phosphate,Amoun,Laxative,Enema,Various,1 enema as needed,Not for children <2,20
+Neuroton,نيوروتون,B1/B6/B12,Amoun,Vitamin,Tablets|Amp,Various,1 tab or amp daily,Not for children,30
+Alphintern,الفينتيرن,Trypsin/Chymotrypsin,Amoun,Anti-inflammatory Enzyme,Tablets,Various,1-2 tabs 3 times daily,1 tab 3 times daily,35
+Antodin,انتودين,Famotidine,Amoun,H2 Blocker,Tablets|Amp,20mg|40mg,20-40mg twice daily,0.5mg/kg twice daily,18
+Viotic,فيوتيك,Ciprofloxacin/Hydrocortisone,Amoun,Antibiotic,Ear Drops,Various,3 drops twice daily,Same as adults,22
+Otal,اوتال,Chloramphenicol/Lidocaine,Amoun,Antibiotic,Ear Drops,Various,2-3 drops 3 times daily,Same as adults,15
+BBC Spray,بي بي سي سبراي,Benzocaine/Cetrimide,Amoun,Antiseptic,Oral Spray,Various,2-3 sprays as needed,>3 years,25
+Betafos,بيتافوس,Betamethasone,Amoun,Corticosteroid,Ampoules,4mg|8mg,4-8mg IM/IV,Not for children,35
+Clear Air,كلير اير,Cetirizine/Pseudoephedrine,Amoun,Decongestant,Tablets,5mg/120mg,1 tab twice daily,Not for children <12,28
+Cortilon,كورتيلون,Prednisolone,Amoun,Corticosteroid,Tablets,5mg|20mg,5-60mg daily,0.1-2mg/kg,12
+
+# ==========================================
+# أدوية الجهاز البولي والتناسلي - UROLOGICAL & REPRODUCTIVE
+# ==========================================
+Viagra,فياجرا,Sildenafil,Pfizer,Erectile Dysfunction,Tablets,25mg|50mg|100mg,50mg 1h before activity,Not for children,280
+Cialis,سياليس,Tadalafil,Lilly,Erectile Dysfunction,Tablets,5mg|10mg|20mg,10-20mg before activity,Not for children,320
+Erec,ايريك,Sildenafil,Eva Pharma,Erectile Dysfunction,Tablets,25mg|50mg|100mg,50mg before activity,Not for children,85
+Virecta,فايركتا,Sildenafil,Eva Pharma,Erectile Dysfunction,Tablets,25mg|50mg|100mg,50mg before activity,Not for children,65
+Tamsulin,تامسولين,Tamsulosin,Various,BPH,Capsules,0.4mg,0.4mg once daily,Not for children,35
+Xatral,اكساترال,Alfuzosin,Sanofi,BPH,Tablets,5mg|10mg,10mg once daily,Not for children,55
+Proscar,بروسكار,Finasteride,MSD,BPH/Hair Loss,Tablets,5mg,5mg once daily,Not for children,95
+Propecia,بروبيشيا,Finasteride,MSD,Hair Loss,Tablets,1mg,1mg once daily,Not for adults only,150
+Androcur,اندروكور,Cyproterone,Bayer,Antiandrogen,Tablets,50mg,50-300mg daily,Not for children,180
+Duphaston,دوفاستون,Dydrogesterone,Abbott,Progestogen,Tablets,10mg,10-30mg daily,Not for children,120
+Provera,بروفيرا,Medroxyprogesterone,Pfizer,Progestogen,Tablets,5mg|10mg,5-10mg daily,Not for children,45
+Primolut N,بريمولوت ان,Norethisterone,Bayer,Progestogen,Tablets,5mg,5-15mg daily,Not for children,55
+Clomid,كلوميد,Clomiphene,Sanofi,Ovulation Induction,Tablets,50mg,50-100mg daily (days 5-9),Not for children,85
+Utrogestan,يوتروجستان,Progesterone,Besins,Progestogen,Capsules,100mg|200mg,100-200mg daily,Not for children,95
+Cyclo-Progynova,سيكلو بروجينوفا,Estradiol/Norgestrel,Bayer,HRT,Tablets,Various,1 tab daily (21 days),Not for children,65
+Diane-35,ديان 35,Cyproterone/Ethinylestradiol,Bayer,Contraceptive/Acne,Tablets,2mg/0.035mg,1 tab daily (21 days),Not for children,85
+Yasmin,ياسمين,Drospirenone/Ethinylestradiol,Bayer,Contraceptive,Tablets,3mg/0.03mg,1 tab daily (21 days),Not for children,120
+Microgynon,ميكروجينون,Levonorgestrel/Ethinylestradiol,Bayer,Contraceptive,Tablets,0.15mg/0.03mg,1 tab daily (21 days),Not for children,25
+Marvelon,مارفيلون,Desogestrel/Ethinylestradiol,MSD,Contraceptive,Tablets,0.15mg/0.03mg,1 tab daily (21 days),Not for children,55
+
+# ==========================================
+# أدوية الغدة الدرقية - THYROID MEDICATIONS
+# ==========================================
+Eltroxin,التروكسين,Levothyroxine,Aspen,Thyroid Hormone,Tablets,25mcg|50mcg|100mcg,25-200mcg once daily,As per TSH,15
+Euthyrox,يوثيروكس,Levothyroxine,Merck,Thyroid Hormone,Tablets,25mcg|50mcg|75mcg|100mcg|150mcg,25-200mcg daily,As per TSH,25
+Thyronorm,ثيرونورم,Levothyroxine,Abbott,Thyroid Hormone,Tablets,25mcg|50mcg|100mcg,25-200mcg daily,As per TSH,18
+Carbimazole,كاربيمازول,Carbimazole,Various,Antithyroid,Tablets,5mg,15-40mg daily divided,As directed,12
+Neo-Mercazole,نيو ميركازول,Carbimazole,Nicholas,Antithyroid,Tablets,5mg|20mg,15-40mg daily,As directed,22
+Thyrozol,ثيروزول,Thiamazole,Merck,Antithyroid,Tablets,5mg|10mg|20mg,10-40mg daily,As directed,35
+
+# ==========================================
+# أدوية الصرع والأعصاب - ANTICONVULSANTS & NEUROLOGY
+# ==========================================
+Tegretol,تجريتول,Carbamazepine,Novartis,Anticonvulsant,Tablets|Syrup,200mg|400mg,200-1200mg daily divided,10-20mg/kg/day,35
+Depakine,ديباكين,Valproic Acid,Sanofi,Anticonvulsant,Tablets|Syrup|Chrono,200mg|500mg,500-2000mg daily divided,20-30mg/kg/day,55
+Lamictal,لاميكتال,Lamotrigine,GSK,Anticonvulsant,Tablets,25mg|50mg|100mg|200mg,100-400mg daily,1-15mg/kg/day,95
+Keppra,كيبرا,Levetiracetam,UCB,Anticonvulsant,Tablets|Solution,250mg|500mg|1000mg,1000-3000mg daily divided,20-60mg/kg/day,120
+Topamax,توباماكس,Topiramate,Janssen,Anticonvulsant,Tablets|Sprinkle,25mg|50mg|100mg|200mg,200-400mg daily divided,5-9mg/kg/day,85
+Epanutin,ايبانوتين,Phenytoin,Pfizer,Anticonvulsant,Capsules|Injection,100mg,200-400mg daily,5mg/kg/day,25
+Phenobarbital,فينوباربيتال,Phenobarbital,Various,Anticonvulsant,Tablets,15mg|30mg|100mg,60-180mg daily,3-5mg/kg/day,8
+Rivotril,ريفوتريل,Clonazepam,Roche,Anticonvulsant,Tablets|Drops,0.5mg|2mg,0.5-4mg daily divided,0.01-0.03mg/kg/day,35
+Lyrica,ليريكا,Pregabalin,Pfizer,Neuropathic Pain,Capsules,25mg|50mg|75mg|150mg|300mg,150-600mg daily divided,Not for children,150
+Neurontin,نيورونتين,Gabapentin,Pfizer,Neuropathic Pain,Capsules,100mg|300mg|400mg,900-3600mg daily divided,10-25mg/kg/day,85
+Trileptal,تريليبتال,Oxcarbazepine,Novartis,Anticonvulsant,Tablets|Susp,150mg|300mg|600mg,600-2400mg daily,8-46mg/kg/day,120
+Zarontin,زارونتين,Ethosuximide,Pfizer,Anticonvulsant,Capsules|Syrup,250mg,500-1500mg daily,20mg/kg/day,65
+
+# ==========================================
+# أدوية الروماتيزم والمناعة - RHEUMATOLOGY & IMMUNOLOGY
+# ==========================================
+Methotrexate,ميثوتريكسات,Methotrexate,Various,DMARD/Anticancer,Tablets|Injection,2.5mg|10mg,7.5-25mg weekly,10-20mg/m2,45
+Plaquenil,بلاكوينيل,Hydroxychloroquine,Sanofi,DMARD,Tablets,200mg,200-400mg daily,5mg/kg/day,65
+Salazopyrin,سالازوبيرين,Sulfasalazine,Pfizer,DMARD,Tablets,500mg,500-3000mg daily divided,40-60mg/kg/day,35
+Arava,ارافا,Leflunomide,Sanofi,DMARD,Tablets,10mg|20mg,10-20mg once daily,Not for children,180
+Humira,هيوميرا,Adalimumab,AbbVie,Biologic,Injection,40mg,40mg every 2 weeks SC,As directed,8500
+Enbrel,انبريل,Etanercept,Pfizer,Biologic,Injection,25mg|50mg,50mg weekly SC,0.4mg/kg twice weekly,7500
+Remicade,ريميكاد,Infliximab,Janssen,Biologic,Injection,100mg,3-5mg/kg IV at weeks 0,2,6 then q8wk,As directed,6500
+Imuran,ايموران,Azathioprine,Aspen,Immunosuppressant,Tablets,50mg,1-3mg/kg daily,As directed,55
+Cellcept,سيلسيبت,Mycophenolate,Roche,Immunosuppressant,Capsules|Tablets,250mg|500mg,1-3g daily divided,As directed,450
+Sandimmun,ساندميون,Cyclosporine,Novartis,Immunosuppressant,Capsules|Solution,25mg|50mg|100mg,2.5-15mg/kg daily,As directed,280
+Colchicine,كولشيسين,Colchicine,Various,Gout,Tablets,0.5mg,0.5-1mg 2-3 times daily,Not for children,25
+Zyloric,زيلوريك,Allopurinol,Aspen,Gout,Tablets,100mg|300mg,100-800mg daily,As directed,18
+Feburic,فيبوريك,Febuxostat,Hikma,Gout,Tablets,40mg|80mg|120mg,40-120mg once daily,Not for children,85
+
+# ==========================================
+# أدوية السرطان - ONCOLOGY
+# ==========================================
+Endoxan,اندوكسان,Cyclophosphamide,Baxter,Anticancer,Tablets|Injection,50mg,As per protocol,As per protocol,Specialized
+Adriamycin,ادريامايسين,Doxorubicin,Pfizer,Anticancer,Injection,10mg|50mg,As per protocol,As per protocol,Specialized
+Vincristine,فينكريستين,Vincristine,Various,Anticancer,Injection,1mg|2mg,As per protocol,As per protocol,Specialized
+Herceptin,هيرسيبتين,Trastuzumab,Roche,Anticancer,Injection,150mg|440mg,As per protocol,As per protocol,Specialized
+Glivec,جليفيك,Imatinib,Novartis,Anticancer,Tablets,100mg|400mg,400-800mg daily,As per protocol,Specialized
+Tamoxifen,تاموكسيفين,Tamoxifen,Various,Anticancer,Tablets,10mg|20mg,20-40mg daily,Not for children,35
+Arimidex,اريميديكس,Anastrozole,AstraZeneca,Anticancer,Tablets,1mg,1mg once daily,Not for children,250
+Femara,فيمارا,Letrozole,Novartis,Anticancer,Tablets,2.5mg,2.5mg once daily,Not for children,280
+Zometa,زوميتا,Zoledronic Acid,Novartis,Bone Metastases,Injection,4mg,4mg IV over 15 min q3-4wk,As directed,750
+
+# ==========================================
+# أدوية الأنف والأذن والحنجرة - ENT MEDICATIONS
+# ==========================================
+Otrivin,اوتريفين,Xylometazoline,Novartis,Nasal Decongestant,Nasal Spray/Drops,0.05%|0.1%,2-3 sprays 2-3 times daily,0.05% for children,25
+Nasofan,نازوفان,Fluticasone,Various,Nasal Steroid,Nasal Spray,50mcg,1-2 sprays each nostril daily,>4 years,55
+Nasonex,نازونكس,Mometasone,MSD,Nasal Steroid,Nasal Spray,50mcg,1-2 sprays each nostril daily,>2 years,85
+Rhinocort,راينوكورت,Budesonide,AstraZeneca,Nasal Steroid,Nasal Spray,64mcg,1-2 sprays each nostril daily,>6 years,75
+Flixonase,فليكسونيز,Fluticasone,GSK,Nasal Steroid,Nasal Spray,50mcg,1-2 sprays each nostril daily,>4 years,65
+Inasal,ايناسال,Cetirizine/Pseudoephedrine,Various,Decongestant,Tablets,5mg/120mg,1 tab twice daily,Not for children <12,28
+Sinupret,سينوبريت,Herbal Combination,Bionorica,Sinusitis,Tablets|Drops,Various,2 tabs 3 times daily,As directed,65
+Solverin,سولفيرين,Bromhexine,Various,Mucolytic,Tablets|Syrup,8mg,8mg 3 times daily,4mg 3 times daily,12
+
+# ==========================================
+# أدوية متنوعة إضافية - MISCELLANEOUS
+# ==========================================
+Antox,انتوكس,Antioxidant Complex,Various,Supplement,Capsules,Various,1-2 caps daily,Not for children,55
+Fosamax,فوساماكس,Alendronate,MSD,Osteoporosis,Tablets,70mg,70mg once weekly,Not for children,95
+Actonel,اكتونيل,Risedronate,Sanofi,Osteoporosis,Tablets,35mg,35mg weekly or 150mg monthly,Not for children,85
+Prolia,بروليا,Denosumab,Amgen,Osteoporosis,Injection,60mg,60mg SC every 6 months,Not for children,2500
+Bonviva,بونفيفا,Ibandronate,Roche,Osteoporosis,Tablets,150mg,150mg once monthly,Not for children,120
+Mycophenolate,ميكوفينولات,Mycophenolate Mofetil,Various,Immunosuppressant,Capsules,250mg|500mg,1-1.5g twice daily,As directed,350
+Tacrolimus,تاكروليموس,Tacrolimus,Various,Immunosuppressant,Capsules,0.5mg|1mg|5mg,0.1-0.3mg/kg daily divided,As directed,450
+Rapamune,رابامون,Sirolimus,Pfizer,Immunosuppressant,Tablets|Solution,1mg|2mg,Loading 6mg then 2mg daily,As directed,850
+Thyroxin,ثيروكسين,Levothyroxine,Various,Thyroid,Tablets,Various,Variable by TSH,Variable,15
+Strattera,ستراتيرا,Atomoxetine,Lilly,ADHD,Capsules,10mg|18mg|25mg|40mg|60mg|80mg,40-80mg daily,0.5-1.2mg/kg,180
+Concerta,كونسيرتا,Methylphenidate,Janssen,ADHD,Tablets ER,18mg|27mg|36mg|54mg,18-72mg once daily,As directed,280
+Ritalin,ريتالين,Methylphenidate,Novartis,ADHD,Tablets,10mg,10-60mg daily divided,5-30mg daily,Controlled
+Modafinil,موادفينيل,Modafinil,Various,Wakefulness,Tablets,100mg|200mg,200mg once daily,Not for children,Controlled
+Champix,شامبيكس,Varenicline,Pfizer,Smoking Cessation,Tablets,0.5mg|1mg,0.5mg then 1mg twice daily,Not for children,350
+Naltrexone,نالتريكسون,Naltrexone,Various,Addiction,Tablets,50mg,50mg once daily,Not for children,Controlled
+
+# ==========================================
+# مضادات حيوية إضافية - MORE ANTIBIOTICS
+# ==========================================
+Unasyn,يوناسين,Ampicillin/Sulbactam,Pfizer,Antibiotic,Injection,750mg|1.5g|3g,1.5-3g every 6h,150mg/kg/day divided,55
+Fortum,فورتم,Ceftazidime,GSK,Antibiotic,Injection,500mg|1g|2g,1-2g every 8-12h,30-50mg/kg every 8h,65
+Maxipime,ماكسيبيم,Cefepime,BMS,Antibiotic,Injection,500mg|1g|2g,1-2g every 8-12h,50mg/kg every 12h,85
+Meronem,ميرونيم,Meropenem,AstraZeneca,Antibiotic,Injection,500mg|1g,500mg-1g every 8h,20-40mg/kg every 8h,180
+Tienam,تينام,Imipenem/Cilastatin,MSD,Antibiotic,Injection,500mg,500mg every 6h,15-25mg/kg every 6h,195
+Targocid,تارجوسيد,Teicoplanin,Sanofi,Antibiotic,Injection,200mg|400mg,6-12mg/kg loading then 6mg/kg,10mg/kg then 6-10mg/kg,350
+Vancomycin,فانكومايسين,Vancomycin,Various,Antibiotic,Injection,500mg|1g,15-20mg/kg every 8-12h,10-15mg/kg every 6h,85
+Linezolid,لينيزوليد,Linezolid,Pfizer,Antibiotic,Tablets|Injection,600mg,600mg every 12h,10mg/kg every 8h,550
+Colistin,كوليستين,Colistimethate,Various,Antibiotic,Injection,1MU,2.5-5mg/kg daily divided,2.5-5mg/kg,95
+Tigecycline,تايجيسايكلين,Tigecycline,Pfizer,Antibiotic,Injection,50mg,100mg then 50mg every 12h,Not for children <8,650
+Doxymycin,دوكسيمايسين,Doxycycline,Various,Antibiotic,Capsules,100mg,100mg twice daily day 1 then 100mg daily,>8y: 2-4mg/kg,15
+Vibramycin,فيبرامايسين,Doxycycline,Pfizer,Antibiotic,Capsules,100mg,100mg twice then daily,>8y: 2-4mg/kg/day,35
+Bactrim,باكتريم,Sulfamethoxazole/Trimethoprim,Roche,Antibiotic,Tablets|Susp,400/80mg,960mg twice daily,6-12mg/kg TMP twice,18
+Septrin,سبترين,Sulfamethoxazole/Trimethoprim,Aspen,Antibiotic,Tablets|Susp,400/80mg|800/160mg,960mg twice daily,6mg/kg TMP twice,15
+Rifampicin,ريفامبيسين,Rifampicin,Various,Antibiotic,Capsules,150mg|300mg,600mg once daily,10-20mg/kg,25
+Isoniazid,ايزونيازيد,Isoniazid,Various,Antituberculosis,Tablets,100mg|300mg,300mg once daily,10-15mg/kg,10
+Pyrazinamide,بيرازيناميد,Pyrazinamide,Various,Antituberculosis,Tablets,500mg,15-30mg/kg daily,30-40mg/kg daily,15
+Ethambutol,اثامبيوتول,Ethambutol,Various,Antituberculosis,Tablets,400mg,15-25mg/kg daily,15-25mg/kg daily,20
+
+# ==========================================
+# أدوية أطفال شائعة - COMMON PEDIATRIC MEDICATIONS
+# ==========================================
+Cataflam Pediatric,كتافلام اطفال,Diclofenac,Novartis,NSAID,Supp,12.5mg|25mg,12.5-37.5mg 2-3 times daily,1-3mg/kg/day,18
+Nurofen for Children,نيوروفين للاطفال,Ibuprofen,Reckitt,NSAID,Suspension,100mg/5ml,5-10mg/kg every 6-8h,By weight,35
+Motinorm,موتينورم,Domperidone,Various,Antiemetic,Suspension,5mg/5ml,0.25-0.5mg/kg 3 times,0.25mg/kg,18
+Amoxysafe,اموكسي سيف,Amoxicillin,Various,Antibiotic,Suspension,125mg/5ml|250mg/5ml,25-50mg/kg/day divided,By weight,15
+Augmentin Junior,اوجمنتين جونيور,Amoxicillin/Clavulanate,GSK,Antibiotic,Suspension,228mg/5ml|457mg/5ml,25-45mg/kg/day divided,By weight,55
+Suprax Pediatric,سوبراكس اطفال,Cefixime,Sanofi,Antibiotic,Suspension,100mg/5ml,8mg/kg/day,By weight,55
+Klacid Pediatric,كلاسيد اطفال,Clarithromycin,Abbott,Antibiotic,Suspension,125mg/5ml|250mg/5ml,7.5mg/kg twice daily,By weight,65
+Flagyl Pediatric,فلاجيل اطفال,Metronidazole,Sanofi,Antibiotic,Suspension,125mg/5ml,35-50mg/kg/day divided,By weight,18
+Ventolin Pediatric,فنتولين اطفال,Salbutamol,GSK,Bronchodilator,Syrup|Nebules,2mg/5ml,0.1-0.15mg/kg 3-4 times,By weight,25
+Singulair Pediatric,سينجولير اطفال,Montelukast,MSD,Leukotriene Modifier,Chewable|Granules,4mg|5mg,4-5mg once daily,4mg 2-5y 5mg 6-14y,85# ==========================================
+# أدوية سيديكو - SEDICO PRODUCTS
+# ==========================================
+Aironyl,ايرونيل,Terbutaline Sulphate,Sedico,Bronchodilator,Syrup|Tablets,1.5mg/5ml|2.5mg,5ml or 1 tab 3 times daily,0.05mg/kg,12
+Rivarospire,ريفاكوسباير,Rivaroxaban,Sedico,Anticoagulant,Tablets,2.5mg|10mg|15mg|20mg,10-20mg once daily,Not for children,180
+Lipona,ليبونا,Atorvastatin,Sedico,Statin,Tablets,10mg|20mg|40mg,10-40mg once daily,Not for children,28
+Eucarbon,أيوكاربون,Senna/Charcoal,Sedico,Laxative/Antiflatulent,Tablets,Various,1-2 tabs 3 times daily,Not for children,25
+Famotak,فاموتاك,Famotidine,Sedico,H2 Blocker,Tablets,20mg|40mg,20-40mg twice daily,0.5mg/kg twice,15
+Diabride,ديابريد,Glimepiride,Sedico,Antidiabetic,Tablets,1mg|2mg|3mg,1-4mg once daily,Not for children,18
+Jogel,جو جيل,Lidocaine/Jojoba,Sedico,Local Anesthetic,Oral Gel,Various,Apply to affected area,Same as adults,12
+Flucoral,فلوكورال,Fluconazole,Sedico,Antifungal,Capsules,150mg,150mg once weekly or as directed,3-12mg/kg,35
+Ultracillin,التراسلين,Ampicillin/Sulbactam,Sedico,Antibiotic,Injection,750mg|1.5g,1.5-3g every 6h,150mg/kg/day,45
+Venaxan,فيناكسان,Levofloxacin,Sedico,Antibiotic,Tablets,250mg|500mg,500mg once daily,Not for children,38
+Methotrexate Sedico,ميثوتريكسات سيديكو,Methotrexate,Sedico,Anticancer,Injection,50mg,As per protocol,As per protocol,85
+Gemcitabine Sedico,جمسيتابين سيديكو,Gemcitabine,Sedico,Anticancer,Injection,1g,As per protocol,As per protocol,450
+Acetylcistein Sedico,استيل سيستايين سيديكو,Acetylcysteine,Sedico,Mucolytic,Sachets,200mg|600mg,200-600mg 1-3 times daily,100mg 2-3 times daily,35
+Visceralgine,فيسيرالجين,Tiemonium Methylsulphate,Sedico,Antispasmodic,Tablets|Amp|Syrup,50mg,50-100mg 3 times daily,3-6mg/kg/day,18
+Cyclosed,سيكلوسيد,Cyclobenzaprine,Sedico,Muscle Relaxant,Tablets,10mg,10mg 3 times daily,Not for children,25
+Celoxib,سيلوكسيب,Celecoxib,Sedico,NSAID (COX-2),Tablets,200mg,200mg once or twice daily,Not for children,45
+Inestafenac,انيستافيناك,Diclofenac Potassium,Sedico,NSAID,Sachets,50mg,1 sachet 2-3 times daily,Not for children,22
+Omega-3 Plus,أوميجا 3 بلس,Fish Oil/Wheat Germ,Sedico,Supplement,Capsules,1000mg,1 capsule 3 times daily,As directed,55
+Somatropin Sedico,سوماتروبين سيديكو,Somatropin,Sedico,Growth Hormone,Injection,4IU|16IU,As per deficiency,As per deficiency,Specialized
+Epoetin Sedico,ايبويتين سيديكو,Epoetin Alfa,Sedico,Erythropoietin,Injection,2000IU|4000IU,As per anemia degree,As directed,Specialized
+
+# ==========================================
+# أدوية تنمية الصناعات الكيماوية - CID PRODUCTS
+# ==========================================
+Aspocid,اسبوسيد,Acetylsalicylic Acid,CID,Antiplatelet/Analgesic,Tablets,75mg|300mg,75mg (cardiac) or 300-600mg (pain),Not for children (Reye syndrome),8
+Cidophage,سيدوفاج,Metformin,CID,Antidiabetic,Tablets,500mg|850mg|1000mg,500-2500mg daily divided,Not for children,15
+Cidamex,سيدامكس,Acetazolamide,CID,Diuretic/Antiglaucoma,Tablets,250mg,250-1000mg daily,8-30mg/kg/day,18
+Femapent,في مابنت,Letrozole,CID,Infertility/Anticancer,Tablets,2.5mg,2.5mg once daily,Not for children,85
+Rancif,رانسيف,Ciprofloxacin,CID,Antibiotic,Tablets,500mg,500-750mg every 12h,Not for children,22
+Rhinex Drops,رينكس نقط,Xylometazoline,CID,Decongestant,Nasal Drops,0.05%|0.1%,2-3 drops 2-3 times daily,0.05% for children,10
+Rhinex Tablets,رينكس اقراص,Paracetamol/CPM/Pseudoephedrine,CID,Cold & Flu,Tablets,Various,1 tab 3 times daily,Not for children <12,12
+Triocept,تريوسيبت,Levonorgestrel/Ethinylestradiol,CID,Contraceptive,Tablets,Various,1 tab daily for 21 days,Not for children,15
+Magnesium Citrate CID,سترات ماغنسيوم,Magnesium Citrate,CID,Urinary/Laxative,Effervescent,Various,1 sachet 3 times daily,As directed,12
+Gental Drops,جنتال نقط,Gentamicin,CID,Antibiotic,Eye/Ear Drops,0.3%,1-2 drops every 4h,Same as adults,8
+Isopto Cetamide,ايزوبتو سيتاميد,Sulfacetamide,CID,Antibiotic,Eye Drops,10%|20%,1-2 drops every 2-3h,Same as adults,10
+Dexacid,ديكس اسيد,Dexamethasone,CID,Corticosteroid,Injection,4mg/ml,4-20mg daily IM/IV,0.1-0.5mg/kg/day,12
+B-Vitol,بي فيتول,Vitamin B Complex,CID,Vitamin,Syrup,Various,10ml daily,5ml daily,12
+Cidoviron,سيدوفيرون,Mesterolone,CID,Androgen,Tablets,25mg,25-75mg daily,Not for children,45
+Novacid,نوفاسيد,Metamizole (Dipyrone),CID,Analgesic,Injection|Supp,500mg,500-1000mg up to 4 times,10mg/kg,8
+Antinal,أنتينال,Nifuroxazide,Amoun (Note: Mixed up in search, adding under CID group if CID makes similar),Intestinal Antiseptic,Capsules|Susp,200mg,200mg 4 times daily,As directed,25
+Zyrtec Pediatric,زيرتك اطفال,Cetirizine,UCB,Antihistamine,Drops|Syrup,10mg/ml|5mg/5ml,2.5-10mg daily,By age,28
+
+# ==========================================
+# أدوية سانوفي مصر - SANOFI EGYPT PRODUCTS
+# ==========================================
+Clexane,كليكسان,Enoxaparin Sodium,Sanofi,Anticoagulant,Injection,20mg|40mg|60mg|80mg,1mg/kg every 12h or 1.5mg/kg daily,As directed,120
+Plavix,بلافيكس,Clopidogrel,Sanofi,Antiplatelet,Tablets,75mg,75mg once daily,Not for children,250
+Amaryl,أماريل,Glimepiride,Sanofi,Antidiabetic,Tablets,1mg|2mg|3mg|4mg,1-4mg once daily,Not for children,45
+Amaryl M,أماريل إم,Glimepiride/Metformin,Sanofi,Antidiabetic,Tablets,2mg/500mg,1 tab daily or twice daily,Not for children,85
+Aprovel,أبروفيل,Irbesartan,Sanofi,Antihypertensive,Tablets,150mg|300mg,150-300mg once daily,Not for children,95
+CoAprovel,كو أبروفيل,Irbesartan/HCTZ,Sanofi,Antihypertensive,Tablets,150/12.5mg|300/12.5mg,1 tab once daily,Not for children,120
+Telfast,تلفاست,Fexofenadine,Sanofi,Antihistamine,Tablets|Susp,120mg|180mg,120-180mg once daily,30mg twice daily (>2y),45
+Maalox,مالوكس,Al/Mg Hydroxide,Sanofi,Antacid,Suspension|Tablets,Various,10-20ml as needed,5ml as needed,25
+Maalox Plus,مالوكس بلس,Al/Mg Hydroxide/Simethicone,Sanofi,Antacid/Antiflatulent,Suspension|Tablets,Various,10-20ml as needed,5ml as needed,30
+No-Spasm,نو سبازم,Tiemonium,Sanofi (Local),Antispasmodic,Tablets|Injection,50mg,50-100mg 3 times daily,3-6mg/kg,15
+Bi-Profenid,باي بروفينيد,Ketoprofen,Sanofi,NSAID,Tablets,150mg,150mg once or twice daily,Not for children,35
+Profenid,بروفينيد,Ketoprofen,Sanofi,NSAID,Amp|Supp|Gel,100mg|2.5%,100mg once or twice daily,Not for children,25
+Lixiana,ليكسيانا,Edoxaban,Sanofi,Anticoagulant,Tablets,15mg|30mg|60mg,60mg once daily,Not for children,450
+Soliqua,سوليكوا,Insulin Glargine/Lixisenatide,Sanofi,Antidiabetic,Injection,Various,As directed by physician,Not for children,850
+Toujeo,توجيو,Insulin Glargine,Sanofi,Insulin,Injection,300U/ml,As directed by physician,>6 years,650
+Lantus,لانتوس,Insulin Glargine,Sanofi,Insulin,Injection,100U/ml,As directed by physician,>2 years,480
+Apidra,أبيدرا,Insulin Glulisine,Sanofi,Insulin,Injection,100U/ml,As directed by physician,>4 years,350
+Allegra,أليجرا,Fexofenadine,Sanofi,Antihistamine,Tablets,120mg|180mg,120-180mg daily,Same as Telfast,45
+Maxilase,ماكسيلاز,Alpha-Amylase,Sanofi,Anti-inflammatory Enzyme,Syrup,200U/ml,15ml 3 times daily,5ml 3 times daily,25
+Bronchicum S,برونشيكوم إس,Thyme/Primula,Sanofi,Cough Relief,Elixir,Various,5ml 3 times daily,2.5ml 3 times daily,35
+
+# ==========================================
+# أدوية حكمة مصر - HIKMA EGYPT PRODUCTS
+# ==========================================
+Alkapress,ألكابريس,Amlodipine,Hikma,Antihypertensive,Tablets,5mg|10mg,5-10mg once daily,Not for children,18
+Alkapress Plus,ألكابريس بلس,Amlodipine/Valsartan,Hikma,Antihypertensive,Tablets,5/160mg|10/160mg,1 tab once daily,Not for children,85
+Alkapress Trio,ألكابريس تريو,Amlodipine/Valsartan/HCTZ,Hikma,Antihypertensive,Tablets,5/160/12.5mg,1 tab once daily,Not for children,120
+Empaglimax,ايمباجليماكس,Empagliflozin,Hikma,Antidiabetic (SGLT2),Tablets,10mg|25mg,10-25mg once daily,Not for children,95
+Janaglip,جاناجليب,Sitagliptin,Hikma,Antidiabetic (DPP4),Tablets,50mg|100mg,100mg once daily,Not for children,75
+Janaglip Plus,جاناجليب بلس,Sitagliptin/Metformin,Hikma,Antidiabetic,Tablets,50/500mg|50/1000mg,1 tab twice daily,Not for children,95
+Estikan,بيستيكان,Escitalopram,Hikma,Antidepressant (SSRI),Tablets,10mg|20mg,10-20mg once daily,Not for children,55
+Feburic Hikma,فيبوريك حكمة,Febuxostat,Hikma,Gout,Tablets,40mg|80mg|120mg,40-120mg once daily,Not for children,85
+Kast Hikma,كاست حكمة,Montelukast,Hikma,Leukotriene Modifier,Tablets,10mg,10mg once daily,4-5mg daily (pediatric),65
+Suprax Hikma,سوبراكس حكمة,Cefixime,Hikma,Antibiotic,Capsules|Susp,400mg,400mg once daily,8mg/kg daily,55
+Megamox Hikma,ميجاموكس حكمة,Amoxicillin/Clavulanate,Hikma,Antibiotic,Tablets|Susp,625mg|1g,1g twice daily,25mg/kg daily,45
+Zithrokan,زيثروكان,Azithromycin,Hikma,Antibiotic,Capsules|Susp,250mg|500mg,500mg daily for 3 days,10mg/kg daily,35
+Tusskan,توسكان,Guaifenesin/Dextromethorphan,Hikma,Cough Remedy,Syrup,Various,10ml 3 times daily,5ml 3 times daily,18
+Xanoxiban,زانوكسبان,Rivaroxaban,Hikma,Anticoagulant,Tablets,10mg|15mg|20mg,10-20mg once daily,Not for children,150
+Xefo Rapid,زيفو رابيد,Lornoxicam,Hikma,NSAID,Tablets,8mg,8-16mg daily divided,Not for children,35
+
+# ==========================================
+# أدوية جلوبال نابي - GLOBAL NAPI PRODUCTS
+# ==========================================
+Bisocard,بيسوكارد,Bisoprolol,Global Napi,Beta Blocker,Tablets,2.5mg|5mg|10mg,2.5-10mg once daily,Not for children,25
+Bisocard Plus,بيسوكارد بلس,Bisoprolol/HCTZ,Global Napi,Antihypertensive,Tablets,5/12.5mg,1 tab once daily,Not for children,35
+Crestolip,كريستوليب,Rosuvastatin,Global Napi,Statin,Tablets,10mg|20mg,10-20mg once daily,Not for children,35
+Covaprendo,كوفابريندو,Perindopril/Amlodipine,Global Napi,Antihypertensive,Tablets,5/5mg|10/5mg|10/10mg,1 tab once daily,Not for children,95
+Cobal,كوبال,Methylcobalamin,Global Napi,Vitamin B12,Tablets,500mcg,1 tab 3 times daily,As directed,22
+Cobal F,كوبال إف,Methylcobalamin/Folic Acid,Global Napi,Supplement,Tablets,500mcg/200mcg,1 tab 3 times daily,As directed,25
+Candalcan Plus,كاندالكان بلس,Candesartan/HCTZ,Global Napi,Antihypertensive,Tablets,16/12.5mg,1 tab once daily,Not for children,65
+Strakopina,ستراكوبينا,Apixaban,Global Napi,Anticoagulant,Tablets,2.5mg|5mg,5mg twice daily,Not for children,145
+Goutifade,جوتيفاد,Febuxostat,Global Napi,Gout,Tablets,40mg|80mg,40-80mg once daily,Not for children,75
+Antidiazox,أنتيديازوكس,Nitazoxanide,Global Napi,Antiparasitic,Tablets|Susp,500mg,500mg twice daily,100-200mg twice (pediatric),35
+Bepra,بيببرا,Rabeprazole,Global Napi,PPI,Tablets,20mg,20mg once daily,Not for children,48
+Napizole,نابيزول,Omeprazole,Global Napi,PPI,Capsules,20mg,20mg once daily,Not for children,12
+Kerella,كيريلا,Betamethasone/Salicylic Acid,Global Napi,Dermatological,Lotion|Oint,Various,Apply twice daily,As directed,25
+Burnasores,بورناسوريز,B-Sitosterol,Global Napi,Burn Treatment,Cream|Oint,Various,Apply as needed,Same as adults,35
+Alzepizil,ألزيبيزيل,Donepezil,Global Napi,Anti-Alzheimers,Tablets,5mg|10mg,5-10mg once daily,Not for adults only,65
+Linezolid GNP,لينيزوليد جي إن بي,Linezolid,Global Napi,Antibiotic,Injection,600mg,600mg every 12h,Not for children,450
+Itracon,اتراكون,Itraconazole,Global Napi,Antifungal,Capsules,100mg,100-200mg once daily,As directed,45
+Doxycost,دوكسيكوست,Doxycycline,Global Napi,Antibiotic,Capsules,200mg,200mg day 1 then 100-200mg daily,Not for children <8,28
+Mucotec,موكوتيك,Erdosteine,Global Napi,Mucolytic,Capsules,300mg,300mg 2-3 times daily,Not for children,35
+Fortamind,فورتاميند,Citicoline,Global Napi,Neuroprotective,Solution,100mg/ml,As directed by physician,As directed,85
+C-retard,سي ريتارد,Vitamin C,Hikma (Local),Supplement,Capsules,500mg,1 capsule daily,As directed,15
+One Two Three,وان تو ثري,Paracetamol/CPM/Pseudoephedrine,Hikma (Local),Cold & Flu,Tablets|Syrup,Various,1-2 tabs every 6h,5ml 3 times daily (pediatric),12
+Trio-Clar,تريو كلار,Clarithromycin/Tinidazole/Lansoprazole,Hikma (Local),H. Pylori Kit,Kit,Various,1 strip daily for 14 days,Not for children,180
+Xefo,زيفو,Lornoxicam,Hikma,NSAID,Tablets,8mg,8mg twice daily,Not for children,25
+
+# ==========================================
+# أدوية أبيكس فارما - APEX PHARMA PRODUCTS
+# ==========================================
+Sonismapex,سونيس مابيكس,Carbidopa/Levodopa,Apex Pharma,Antiparkinsonian,Tablets,25mg/100mg|25mg/250mg,As directed by physician,Not for children,85
+Apexidone,أبيكسيدون,Risperidone,Apex Pharma,Antipsychotic,Tablets,1mg|2mg|3mg|4mg,1-6mg daily,0.25-4mg daily (>5y),35
+Erastapex,إراستا بيكس,Olmesartan,Apex Pharma,Antihypertensive,Tablets,20mg|40mg,20-40mg once daily,Not for children,75
+Paroxedep CR,باروكسيديب,Paroxetine,Apex Pharma,Antidepressant,Tablets ER,12.5mg|25mg,25-50mg once daily,Not for children,95
+Apilipex,أبيليبيس,Aripiprazole,Apex Pharma,Antipsychotic,Tablets,10mg|15mg|20mg|30mg,10-30mg once daily,As directed (>13y),120
+Lacto-Apex,لاكتو بيكس,Lactoferrin/Zinc/Vitamins,Apex Pharma,Supplement,Sachets,Various,1 sachet daily,Same as adults,145
+C-Apex,سي بيكس,Vitamin C,Apex Pharma,Supplement,Tablets,500mg,1 tab daily,Not for children,35
+Decancit S.R.,ديكانسيت,Cetirizine/Pseudoephedrine,Apex Pharma,Decongestant,Tablets,5mg/120mg,1 tab twice daily,Not for children <12,28
+Hykomap,هيكوماپ,Cinchocaine/Policresulen,Apex Pharma,Hemorrhoids,Ointment|Supp,Various,Apply twice daily,Not for children,22
+Ator Apex,أتور بيكس,Atorvastatin,Apex Pharma,Statin,Tablets,10mg|20mg|40mg,10-40mg once daily,Not for children,25
+Betolvex,بيتولفكس,Cyanocobalamin,Apex Pharma,Vitamin B12,Injection,1mg/ml,1mg IM once or twice monthly,As directed,45
+Glimapex,جليما بيكس,Glimepiride,Apex Pharma,Antidiabetic,Tablets,1mg|2mg|3mg|4mg,1-4mg once daily,Not for children,18
+Tenoretic,تينوريتيك,Atenolol/Chlorthalidone,Apex Pharma (Local),Antihypertensive,Tablets,50/12.5mg|100/25mg,1 tab once daily,Not for children,25
+Vastarel Apex,فاستاريل بيكس,Trimetazidine,Apex Pharma (Local),Anti-anginal,Tablets,35mg,35mg twice daily,Not for children,48
+
+# ==========================================
+# أدوية ماركيرل - MARCYRL PRODUCTS
+# ==========================================
+Acnitaz,اكنى تاز,Tazarotene,Marcyrl,Acne Treatment,Cream|Gel,0.1%,Apply once daily at night,Not for children,45
+Alzmenda,الزمندا,Memantine,Marcyrl,Anti-Alzheimers,Tablets,5mg|10mg|20mg,10-20mg once daily,Not for adults only,65
+Anoxicam,انوكسيكام,Tenoxicam,Marcyrl,NSAID,Tablets,20mg,20mg once daily,Not for children,22
+Aromalock,ارومالوك,Letrozole,Marcyrl,Anticancer/Infertility,Tablets,2.5mg,2.5mg once daily,Not for children,110
+Atoreza,اتوريزا,Atorvastatin/Ezetimibe,Marcyrl,Lipid-Lowering,Tablets,10/10mg|10/20mg|20/10mg,1 tab once daily,Not for children,120
+Cholerose,كوليروز,Rosuvastatin,Marcyrl,Statin,Tablets,5mg|10mg|20mg|40mg,10-20mg once daily,Not for children,35
+Cholerose Plus,كوليروز بلس,Rosuvastatin/Ezetimibe,Marcyrl,Lipid-Lowering,Tablets,5/10mg|10/10mg|20/10mg,1 tab once daily,Not for children,95
+Ivypront,أيفيبرونت,Ivy Leaf Extract,Marcyrl,Cough Remedy,Syrup,Various,10ml 3 times daily,5ml 3 times daily,35
+Ivyrospan,أيفيروسبان,Ivy/Thyme,Marcyrl,Cough Remedy,Syrup,Various,10ml 3 times daily,5ml 3 times daily,38
+Levcet,ليفست,Levocetirizine,Marcyrl,Antihistamine,Tablets|Solution,5mg,5mg once daily,2.5mg daily (pediatric),22
+Quick-Slim,كويك سليم,Orlistat,Marcyrl,Weight Management,Capsules,120mg,120mg 3 times daily with meals,Not for children,95
+Tamsulin Marcyrl,تامسولين ماركيرل,Tamsulosin,Marcyrl,BPH,Tablets,0.4mg,0.4mg once daily,Not for children,45
+Vomibreak,فومى بريك,Ondansetron,Marcyrl,Antiemetic,Tablets,4mg|8mg,8mg twice daily,0.15mg/kg,55
+Dapaglimarc,داباجليمارك,Dapagliflozin,Marcyrl,Antidiabetic,Tablets,5mg|10mg,10mg once daily,Not for children,120
+Nebilet Marcyrl,نيبيليت ماركيرل,Nebivolol,Marcyrl,Beta Blocker,Tablets,5mg,5mg once daily,Not for children,65
+
+# ==========================================
+# أدوية المهن الطبية - MUP PRODUCTS
+# ==========================================
+Azaderm,أزاديرم,Azelaic Acid,MUP,Acne Treatment,Cream,20%,Apply twice daily,>12 years,35
+Zinc Olive,زنك أوليف,Zinc Oxide/Olive Oil,MUP,Diaper Rash,Cream,Various,Apply after each change,Same as adults,25
+Sediproct,سيدوبروكت,Hydrocortisone/Framycetin,MUP,Hemorrhoids,Cream|Supp,Various,Apply twice daily,Not for children,22
+Miconaz,ميكوناز,Miconazole,MUP,Antifungal,Cream|Oral Gel,2%,Apply or dose 2.5ml 4 times,1.25ml 4 times (gel),18
+Calamyl D,كلاميل دي,Calamine/Zinc Oxide,MUP,Skin Irritation,Lotion,Various,Apply 3-4 times daily,Same as adults,15
+Silvirburn,سيلفير بيرن,Silver Sulfadiazine,MUP,Burn Treatment,Cream,1%,Apply once or twice daily,Not for infants <2m,35
+Minoxidil-MUP,مينوكسيديل إم يو بي,Minoxidil,MUP,Hair Loss,Foam/Solution,5%,Apply twice daily,Not for children,85
+Vidrop,فيدروب,Vitamin D3 (Cholecalciferol),MUP,Vitamin,Oral Drops,2800IU/ml,As per deficiency,4 drops daily (prophylaxis),15
+Streptoquin,ستربتوكين,Diiodohydroxyquinoline/Streptomycin,MUP,Antidiarrheal,Tablets|Susp,Various,1-2 tabs 3 times daily,As directed,12
+Mucosol,موكوسول,Carbocisteine,MUP,Mucolytic,Syrup|Capsules,Various,15ml or 1 cap 3 times daily,5ml 3 times daily,18
+Blokium Diu,بلوكيوم ديو,Atenolol/Chlorthalidone,MUP,Antihypertensive,Tablets,100/25mg,1 tab once daily,Not for children,40
+Pantoloc,بانتولوك,Pantoprazole,MUP,PPI,Tablets,20mg|40mg,20-40mg once daily,Not for children,55
+Mobitil,موبيتيلي,Meloxicam,MUP,NSAID,Tablets,7.5mg|15mg,7.5-15mg once daily,Not for children,28
+Davalindi,دافاليندي,Vitamin D3,MUP,Vitamin,Tablets,5000IU,1 tab daily or weekly as directed,Not for children,45
+Dispercam,ديسبركام,Piroxicam,MUP,NSAID,Tablets|Amp|Supp,20mg,20mg once daily,Not for children,18
+Hepaticum,هيباتيكم,Silymarin,MUP,Liver Support,Suspension,Various,10ml 3 times daily,As directed,25
+Laxolac,لاكسولاك,Lactulose,MUP,Laxative,Syrup,67%,15-30ml daily,5-10ml daily,35
+Levanic,ليفانيك,Levofloxacin,MUP,Antibiotic,Tablets,500mg,500mg once daily,Not for children,45
+Depo Pen,ديبو بن,Benzathine Penicillin,MUP,Antibiotic,Injection,1.2MIU,1.2MIU IM every 2-4 weeks,As per protocol,18
+Biovit 12,بيوفيت 12,Hydroxocobalamin,MUP,Vitamin B12,Injection,1mg/2ml,1mg IM once or twice weekly,As directed,25
+Insulinaegypt,أنسولين إيجيبت,Human Insulin,MUP,Insulin,Injection,100U/ml,As directed by physician,Available for children,120
+Unictam,يونيكتام,Ampicillin/Sulbactam,MUP,Antibiotic,Injection|Tablets,375mg|750mg|1.5g,1.5-3g every 6h,150mg/kg/day,55
+
+# ==========================================
+# أدوية قمة السوق العالمي في مصر - GLOBAL TOP BRANDS IN EGYPT
+# ==========================================
+Augmentin,أوجمنتين,Amoxicillin/Clavulanate,GSK,Antibiotic,Tablets|Susp,625mg|1g,1g twice daily,25-45mg/kg/day,95
+Ventolin,فنتولين,Salbutamol,GSK,Bronchodilator,Inhaler|Syrup|Neb,100mcg,1-2 puffs up to 4 times,As directed,55
+Panadol Advance,بانادول ادفانس,Paracetamol,GSK,Analgesic,Tablets,500mg,1-2 tabs every 4-6h,Not for children <6y,35
+Panadol Extra,بانادول اكسترا,Paracetamol/Caffeine,GSK,Analgesic,Tablets,500/65mg,1-2 tabs every 4-6h,Not for children <12y,45
+Panadol Joint,بانادول جوينت,Paracetamol ER,GSK,Analgesic,Tablets,665mg,2 tabs 3 times daily,Not for children,65
+Zovirax,زوفيراكس,Acyclovir,GSK,Antiviral,Cream|Tablets|Oint,Various,Apply or dose 5 times daily,As directed,45
+Voltaren,فولتارين,Diclofenac Diethylammonium,Novartis,NSAID,Gel|Injection|Tablets,1%|2%,Apply 3-4 times daily,>12 years,55
+Cataflam,كتافلام,Diclofenac Potassium,Novartis,NSAID,Tablets|Injection|Drops,25mg|50mg,50mg 2-3 times daily,1-3mg/kg (pediatric drops),45
+Exforge,إكسفورج,Amlodipine/Valsartan,Novartis,Antihypertensive,Tablets,5/160mg|10/160mg,1 tab once daily,Not for children,220
+Diovan,ديوفان,Valsartan,Novartis,Antihypertensive,Tablets,80mg|160mg,80-160mg once daily,Not for children,150
+Galvus,جالفوس,Vildagliptin,Novartis,Antidiabetic,Tablets,50mg,50mg once or twice daily,Not for children,180
+Galvus Met,جالفوس ميت,Vildagliptin/Metformin,Novartis,Antidiabetic,Tablets,50/850mg|50/1000mg,1 tab twice daily,Not for children,210
+Crestor,كريستور,Rosuvastatin,AstraZeneca,Statin,Tablets,5mg|10mg|20mg,10-20mg once daily,Not for children,280
+Forxiga,فورسيجا,Dapagliflozin,AstraZeneca,Antidiabetic,Tablets,5mg|10mg,10mg once daily,Not for children,320
+Nexium,نكسيوم,Esomeprazole,AstraZeneca,PPI,Tablets|Injection|Sachets,20mg|40mg,20-40mg once daily,10-20mg once daily (pediatric),150
+Symbicort,سيمبيكورت,Budesonide/Formoterol,AstraZeneca,Asthma/COPD,Turbuhaler,160/4.5mcg,1-2 puffs twice daily,Not for children <6y,450
+Brufen,بروفين,Ibuprofen,Abbott,NSAID,Tablets|Syrup|Granules,200mg|400mg|600mg,400mg 3 times daily,10-20mg/kg/day,35
+Klaricid,كلاريسيد,Clarithromycin,Abbott,Antibiotic,Tablets|Susp|Injection,250mg|500mg,500mg twice daily,7.5mg/kg twice,120
+Duphalac,دوفالاك,Lactulose,Abbott,Laxative,Syrup,67%,15-30ml daily,5-10ml daily,65
+Controloc,كونترولوك,Pantoprazole,Takeda,PPI,Tablets|Injection,20mg|40mg,20-40mg once daily,Not for children,95
+Spasfon,سباسفون,Phloroglucinol,Various,Antispasmodic,Tablets|Injection,Various,2 tabs 3 times daily,Not for children,25
+Daflon 500,دافلون 500,Diosmin/Hesperidin,Servier,Vasoprotective,Tablets,500mg,2 tabs daily,Not for children,120
+Diamicron MR,دياميكرون,Gliclazide,Servier,Antidiabetic,Tablets,30mg|60mg,30-120mg once daily,Not for children,85
+Vastarel MR,فاستاريل,Trimetazidine,Servier,Anti-anginal,Tablets,35mg,35mg twice daily,Not for children,75
+Cavisol,كافيسول,Calcium/Vitamin D,Various,Supplement,Tablets,Various,1 tab daily,As directed,25
+Calcical,كالسيكال,Calcium/Vitamin D,Various,Supplement,Syrup,Various,10ml daily,5ml daily,18
+Sansovit,سانسوفيت,Multivitamins/Calcium,Augmentin (Local brand maybe?),Supplement,Syrup,Various,10ml daily,5ml daily,35
+Vitount,فايتونت,Multivitamins,Amoun,Supplement,Syrup,Various,10ml daily,5ml daily,15
+Gevamol,جيفامول,Paracetamol,Various,Analgesic,Tablets,500mg,500-1000mg every 4-6h,10-15mg/kg,10
+Koffex,كوفيكس,Herbal Cough Relief,Various,Cough Remedy,Syrup,Various,10ml 3 times daily,5ml 3 times daily,12
+Tantum Verde,تانتوم فيردي,Benzydamine,Various,Sore Throat,Spray|Mouthwash,Various,Apply as needed,As directed,35
+Larypro,لاريبيرو,Lysozyme/Dequalinium,Various,Sore Throat,Lozenges,Various,1 lozenge every 2-3h,Not for infants,22
+Orofar,أوروفار,Benzoxonium/Lidocaine,Various,Sore Throat,Lozenges|Spray,Various,1 lozenge or spray q3h,As directed,28
+Entocid,انتوسيد,Diiodohydroxyquinoline,Various,Antidiarrheal,Tablets,200mg,1-2 tabs 3 times daily,Not for children,15
+Lacteol Fort,لاكتيول فورت,Lactobacillus acidophilus,Various,Probiotic,Sachets|Caps,Various,1 sachet/cap twice daily,1 sachet daily,45
+Smecta,سميكتا,Diosmectite,Various,Antidiarrheal,Sachets,3g,1 sachet 3 times daily,By age,18
+Spasmo-Amrase,سبازمو أمريز,Enzymes/Simethicone,Amoun,Digestive Aid,Tablets,Various,1-2 tabs with meals,Not for children,25
+Adol,ادول,Paracetamol,Gulf Pharmaceutical (Julphar),Analgesic,Tablets|Susp,500mg,500-1000mg every 4-6h,10-15mg/kg,12
+Zitromax,زيتروماكس,Azithromycin,Pfizer,Antibiotic,Tablets|Susp,250mg|500mg,500mg daily for 3 days,10mg/kg daily,150
+Lipitor,ليبيتور,Atorvastatin,Pfizer,Statin,Tablets,10mg|20mg|40mg|80mg,10-80mg once daily,Not for children,250
+Norvasc,نورفاسك,Amlodipine,Pfizer,Antihypertensive,Tablets,5mg|10mg,5-10mg once daily,Not for children,120
+Celebrex,سيليبريكس,Celecoxib,Pfizer,NSAID,Capsules,100mg|200mg,200mg once or twice daily,Not for children,180
+Xanax,زانكس,Alprazolam,Pfizer,Anxiolytic,Tablets,0.25mg|0.5mg|1mg,0.25-0.5mg 3 times daily,Not for children,Controlled
+Neurontin Pfizer,نيورونتين فايزر,Gabapentin,Pfizer,Anticonvulsant,Capsules,100mg|300mg|400mg,300-1200mg 3 times daily,Not for children,150
+Lyrica Pfizer,ليريكا فايزر,Pregabalin,Pfizer,Neuropathic Pain,Capsules,75mg|150mg|300mg,75-150mg twice daily,Not for children,350
+Glucophage,جلوكوفاج,Metformin,Merck,Antidiabetic,Tablets,500mg|850mg|1000mg,500-2550mg daily divided,Not for children,25
+Glucophage XR,جلوكوفاج إكس آر,Metformin ER,Merck,Antidiabetic,Tablets,500mg|750mg|1000mg,500-2000mg once daily,Not for children,35
+Concor,كونكور,Bisoprolol,Merck,Beta Blocker,Tablets,2.5mg|5mg|10mg,2.5-10mg once daily,Not for children,40
+Concor Plus,كونكور بلس,Bisoprolol/HCTZ,Merck,Antihypertensive,Tablets,5/12.5mg|10/25mg,1 tab once daily,Not for children,65
+Euthyrox Merck,يوثيروكس ميرك,Levothyroxine,Merck,Thyroid,Tablets,Various,Variable by TSH,Variable,25
+Glucovance,جلوكوفانس,Metformin/Glibenclamide,Merck,Antidiabetic,Tablets,500/2.5mg|500/5mg,1 tab once or twice daily,Not for children,45
+Lodoz,لودوز,Bisoprolol/HCTZ,Merck,Antihypertensive,Tablets,2.5/6.25mg|5/6.25mg,1 tab once daily,Not for children,55
+Neurobion,نيوروبيون,B1/B6/B12,Merck,Vitamin,Tablets|Injection,Various,1 tab daily,As directed,35
+Sangobion,سانجوبيون,Iron/Vitamins,Merck,Supplement,Capsules,Various,1 cap daily,As directed,35
+Seven Seas,سيفن سيز,Cod Liver Oil,Merck,Supplement,Capsules|Syrup,Various,1-2 caps or 10ml daily,5ml daily,45
+Kytril,كايتريل,Granisetron,Roche,Antiemetic,Tablets|Injection,1mg|2mg,2mg once daily,As directed,250
+Rocephin,روسيفين,Ceftriaxone,Roche,Antibiotic,Injection,500mg|1g,1-2g once daily,50-100mg/kg daily,180
+Tamiflu,تامي فلو,Oseltamivir,Roche,Antiviral,Capsules|Susp,75mg,75mg twice daily,As per weight,220
+Xenical,زينيكال,Orlistat,Roche,Weight Management,Capsules,120mg,120mg 3 times daily,Not for children,180
+Mabthera,مابثيرا,Rituximab,Roche,Biologic,Injection,100mg|500mg,As per protocol,As per protocol,Specialized
+Valcyte,فالسيت,Valganciclovir,Roche,Antiviral,Tablets,450mg,450-900mg twice daily,As directed,Specialized
+Pegasys,بيجاسيس,Peginterferon alfa-2a,Roche,Antiviral,Injection,135mcg|180mcg,180mcg once weekly,As directed,Specialized
+Tarceva,تارسيفا,Elotinib,Roche,Anticancer,Tablets,100mg|150mg,150mg once daily,Not for children,Specialized
+Avastin,أفاستين,Bevacizumab,Roche,Anticancer,Injection,100mg|400mg,As per protocol,As per protocol,Specialized
+Xeloda,كسيلودا,Capecitabine,Roche,Anticancer,Tablets,150mg|500mg,1250mg/m2 twice daily,As per protocol,Specialized
+Vylit,فايليت,Dolutegravir,Various (Local),Antiviral (HIV),Tablets,50mg,50mg once daily,As directed,150
+Lamivudine,لاميفودين,Lamivudine,Various,Antiviral,Tablets,100mg|150mg,150-300mg daily,As directed,45
+Zidovudine,زيدوفودين,Zidovudine,Various,Antiviral,Capsules,100mg|300mg,300mg twice daily,As directed,55
+Tenofovir,تينوفوفير,Tenofovir,Various,Antiviral (HBV/HIV),Tablets,300mg,300mg once daily,Not for children,85
+Entavir,أنتافير,Entecavir,Various,Antiviral (HBV),Tablets,0.5mg|1mg,0.5-1mg once daily,Not for children,95
+Baraclude,باركلوود,Entecavir,BMS,Antiviral (HBV),Tablets,0.5mg|1mg,0.5-1mg once daily,Not for children,250
+Viread,فايريد,Tenofovir DF,Gilead,Antiviral,Tablets,300mg,300mg once daily,Not for children,180
+Sovaldi,سوفالدي,Sofosbuvir,Gilead,Antiviral (HCV),Tablets,400mg,400mg once daily,Not for children,Specialized
+Daclatasvir,دالاساتاسفير,Daclatasvir,Various,Antiviral (HCV),Tablets,60mg,60mg once daily,Not for children,45
+Harvoni,هارفوني,Ledipasvir/Sofosbuvir,Gilead,Antiviral (HCV),Tablets,90/400mg,1 tab once daily,Not for children,Specialized
+Epclusa,إبكلوزا,Sofosbuvir/Velpatasvir,Gilead,Antiviral (HCV),Tablets,400/100mg,1 tab once daily,Not for children,Specialized
+Zepatier,زيباتير,Elbasvir/Grazoprevir,MSD,Antiviral (HCV),Tablets,50/100mg,1 tab once daily,Not for children,Specialized
+Vosevi,فوسيفي,Sofosbuvir/Velpatasvir/Voxilaprevir,Gilead,Antiviral (HCV),Tablets,Various,1 tab once daily,Not for children,Specialized
+Ribavirin,ريبافيرين,Ribavirin,Various,Antiviral,Capsules,200mg|400mg,Variable by weight,Variable,25
+Adasuve,أداسوف,Loxapine,Various,Antipsychotic,Inhalation,5mg|10mg,As directed,Not for children,Specialized
+Haldol,هالدول,Haloperidol,Janssen,Antipsychotic,Tablets|Drops|Amp,0.5mg|2mg|5mg,0.5-10mg daily,0.02-0.05mg/kg/day,15
+Risperdal Janssen,ريسبريدال جانسن,Risperidone,Janssen,Antipsychotic,Tablets|Drops,Various,1-6mg daily,As directed,150
+Invega,إنفيجا,Paliperidone,Janssen,Antipsychotic,Tablets ER,3mg|6mg|9mg,6mg once daily,Not for children,280
+Seroquel AstraZeneca,سيروكويل أسترازينيكا,Quetiapine,AstraZeneca,Antipsychotic,Tablets,25mg|100mg|200mg,As directed,250
+Leponex,ليبونكس,Clozapine,Novartis,Antipsychotic,Tablets,25mg|100mg,12.5-450mg daily,Not for children,85
+Solian,سوليان,Amisulpride,Sanofi,Antipsychotic,Tablets,50mg|100mg|200mg|400mg,100-800mg daily,Not for children,120
+Abilify,أبيليفاي,Aripiprazole,Otsuka,Antipsychotic,Tablets,10mg|15mg|30mg,10-30mg once daily,As directed,350
+Rexulti,ريكسولتي,Brexpiprazole,Otsuka,Antipsychotic,Tablets,0.5mg|1mg|2mg|3mg|4mg,2mg once daily,Not for children,450
+Vraylar,فرايلار,Cariprazine,AbbVie,Antipsychotic,Capsules,1.5mg|3mg|4.5mg|6mg,1.5-6mg once daily,Not for children,550
+Latuda,لاتودا,Lurasidone,Sunovion,Antipsychotic,Tablets,20mg|40mg|80mg,40-80mg once daily,As directed,Specialized
+Geodon,جيودون,Ziprasidone,Pfizer,Antipsychotic,Capsules|Injection,20mg|40mg|60mg|80mg,20-80mg twice daily,Not for children,Specialized
+Fanapt,فانابت,Iloperidone,Vanda,Antipsychotic,Tablets,Various,6-12mg twice daily,Not for children,Specialized
+Saphris,سافريس,Asenapine,Allergan,Antipsychotic,Sublingual,5mg|10mg,5-10mg twice daily,As directed,Specialized
+Caplyta,كابليتا,Lumateperone,ITI,Antipsychotic,Capsules,42mg,42mg once daily,Not for children,Specialized
+Nuplazid,نوبلازيد,Pimavanserin,Acadia,Antipsychotic,Tablets,17mg|34mg,34mg once daily,Not for children,Specialized
+Emsam,إمسام,Selegiline,Various,MAE Inhibitor,Patch,6mg|9mg|12mg/24h,Apply once daily,Not for children,Specialized
+Nardil,نارديل,Phenelzine,Lupin,MAO Inhibitor,Tablets,15mg,15mg 3 times daily,Not for children,Specialized
+Parnate,بارانيت,Tranylcypromine,GSK (Note: checking),MAO Inhibitor,Tablets,10mg,30mg daily divided,Not for children,Specialized
+Marplan,ماربلان,Isocarboxazid,Various,MAO Inhibitor,Tablets,10mg,10-40mg daily,Not for children,Specialized
+Wellbutrin,ويلبوترين,Bupropion,GSK,Antidepressant,Tablets ER,150mg|300mg,150-300mg daily,Not for children,220
+Remeron,ريميرون,Mirtazapine,MSD,Antidepressant,Tablets,15mg|30mg,15-45mg once daily at night,Not for children,180
+Effexor XR,إيفيكسور,Venlafaxine,Viatris,Antidepressant,Capsules ER,75mg|150mg,75-225mg once daily,Not for children,250
+Pristiq,بريستيك,Desvenlafaxine,Pfizer,Antidepressant,Tablets ER,50mg|100mg,50mg once daily,Not for children,280
+Cymbalta,سيمبالتا,Duloxetine,Lilly,Antidepressant/Pain,Capsules,30mg|60mg,60mg once daily,As directed,320
+Fetzima,فيتزيما,Levomilnacipran,Allergan,Antidepressant,Capsules ER,Various,40-120mg once daily,Not for children,Specialized
+Savella,سافيلا,Milnacipran,Allergan,Fibromyalgia,Tablets,12.5mg|25mg|50mg|100mg,50mg twice daily,Not for children,Specialized
+Viibryd,فايبريد,Vilazodone,AbbVie,Antidepressant,Tablets,10mg|20mg|40mg,40mg once daily,Not for children,Specialized
+Trintellix,ترينتيلكس,Vortioxetine,Lundbeck,Antidepressant,Tablets,5mg|10mg|20mg,10-20mg once daily,Not for children,350
+Spravato,سبرافاتو,Esketamine,Janssen,Antidepressant,Nasal Spray,28mg,As per protocol,Not for children,Specialized
+Auvelity,أوفيليتي,Bupropion/Dextromethorphan,Axsome,Antidepressant,Tablets,Various,1 tab twice daily,Not for children,Specialized
+Provigil,بروفيجيل,Modafinil,Teva,Narcolepsy,Tablets,100mg|200mg,200mg once daily,Not for children,Specialized
+Nuvigil,نوفيجيل,Armodafinil,Teva,Narcolepsy,Tablets,50mg|150mg|250mg,150-250mg once daily,Not for children,Specialized
+Xyrem,زايريم,Sodium Oxybate,Jazz,Narcolepsy,Solution,0.5g/ml,As directed,Not for children,Controlled
+Sunosi,سونوزي,Solriamfetol,Jazz,Narcolepsy,Tablets,75mg|150mg,75-150mg once daily,Not for children,Specialized
+Wakix,واكيكس,Pitolisant,Harmony,Narcolepsy,Tablets,4.45mg|17.8mg,17.8-35.6mg daily,Not for children,Specialized
+Lumryz,لومريز,Sodium Oxybate,Avadel,Narcolepsy,Grandules ER,Various,Apply once at night,Not for children,Specialized
+Dexedrine,ديكسيدرين,Dextroamphetamine,Amneal,ADHD,Capsules ER,5mg|10mg|15mg,5-60mg daily,As directed,Controlled
+Vyvanse,فايفانس,Lisdexamfetamine,Takeda,ADHD,Capsules,10-70mg,30-70mg once daily,As directed,Controlled
+Adderall,أديرال,Amphetamine Salts,Various,ADHD,Tablets,5-30mg,5-40mg daily,As directed,Controlled
+Adderall XR,أديرال إكس آر,Amphetamine Salts ER,Takeda,ADHD,Capsules ER,5-30mg,20mg once daily,As directed,Controlled
+Mydayis,مايدايس,Amphetamine Salts Triple Bead,Takeda,ADHD,Capsules ER,Various,12.5-50mg once daily,Not for children <13,Controlled
+Evekeo,ايفيكيو,Amphetamine Sulfate,Arbor,ADHD,Tablets,5mg|10mg,As directed,As directed,Controlled
+Adzenys XR-ODT,أدزينيس,Amphetamine ER,Aytu,ADHD,Dispersible,Various,As directed,As directed,Controlled
+Dyanavel XR,ديانافيل,Amphetamine ER,Tris,ADHD,Tablets|Susp,Various,As directed,As directed,Controlled
+Cotempla XR-ODT,كوتيمبلا,Methylphenidate ER,Aytu,ADHD,Dispersible,Various,As directed,As directed,Controlled
+Quillivant XR,كويليفانت,Methylphenidate ER,Pfizer,ADHD,Suspension,Various,As directed,As directed,Controlled
+Quillichew ER,كويليتشيو,Methylphenidate ER,Pfizer,ADHD,Chewable,Various,As directed,As directed,Controlled
+Aptensio XR,أبتينسيو,Methylphenidate ER,Rhodes,ADHD,Capsules ER,Various,As directed,As directed,Controlled
+Jornay PM,جورني بي إم,Methylphenidate ER,Ironshore,ADHD,Capsules ER,Various,Apply 8pm,As directed,Controlled
+Azstarys,أزستاريس,Serdexmethylphenidate/Dexmethylphenidate,KemPharm,ADHD,Capsules,Various,As directed,As directed,Controlled
+Qelbree,كيلبري,Viloxazine,Supernus,ADHD,Capsules ER,Various,100-600mg once daily,As directed,Specialized
+Intuniv,إنتونيف,Guanfacine ER,Takeda,ADHD,Tablets ER,1-4mg,1-4mg once daily,As directed,85
+Kapvay,كابفاي,Clonidine ER,Various,ADHD/Hypertension,Tablets ER,0.1mg,0.1-0.4mg daily,As directed,65
+Aricept,أريسبت,Donepezil,Eisai/Pfizer,Anti-Alzheimers,Tablets,5mg|10mg|23mg,5-23mg once daily,Not for adults only,150
+Exelon,إكسيلون,Rivastigmine,Novartis,Anti-Alzheimers,Capsules|Patch,Various,1.5-6mg twice or patch daily,As directed,180
+Razadyne,رازادين,Galantamine,Janssen,Anti-Alzheimers,Tablets|Capsules ER,4mg|8mg|12mg|16mg|24mg,8-24mg daily,As directed,Specialized
+Namenda,ناميندا,Memantine,AbbVie,Anti-Alzheimers,Tablets|Drops,5mg|10mg,5-20mg daily,As directed,120
+Namzaric,نامزاريك,Donepezil/Memantine,AbbVie,Anti-Alzheimers,Capsules ER,Various,1 cap once daily,Not for adults only,Specialized
+Aduhelm,أدوهيلم,Aducanumab,Biogen,Alzheimers,Injection,Various,As per protocol,Not for adults only,Specialized
+Leqembi,ليكيمبي,Lecanemab,Eisai/Biogen,Alzheimers,Injection,Various,As per protocol,Not for adults only,Specialized
+Kisunla,كيسونلا,Donanemab,Lilly,Alzheimers,Injection,Various,As per protocol,Not for adults only,Specialized
+Mestinon,ميستينون,Pyridostigmine,Bausch,Myasthenia Gravis,Tablets|Syrup,60mg|180mg,60-600mg daily divided,As directed,85
+Urecholine,يوريكولين,Bethanechol,Various,Urinary Retention,Tablets,5mg|10mg|25mg|50mg,10-50mg 3-4 times daily,As directed,45
+Pro-Banthine,برو بانثين,Propantheline,Various,Antispasmodic,Tablets,7.5mg|15mg,7.5-15mg 3 times daily,As directed,35
+Bentyl,بنتيل,Dicyclomine,Various,IBS,Tablets|Caps|Syrup,10mg|20mg,20mg 4 times daily,As directed,25
+Levsin,ليفسين,Hyoscyamine,Various,Antispasmodic,Tablets|Drops|Elixir,0.125mg,0.125-0.25mg 4 times daily,As directed,15
+Anaspaz,أناسباز,Hyoscyamine,Various,Antispasmodic,Dispersible,0.125mg,Same as Levsin,As directed,18
+Donnatal,دوناتال,Phenobarbital/Hyoscyamine/Atropine/Scopolamine,Various,Antispasmodic,Tablets|Elixir,Various,1-2 tabs 3-4 times daily,As directed,Controlled
+Librax,ليبراكس,Chlordiazepoxide/Clidinium,Bausch,IBS,Capsules,5/2.5mg,1-2 caps 3-4 times daily,Not for children,Controlled
+Colace,كوليس,Docusate Sodium,Various,Stool Softener,Capsules|Syrup,50mg|100mg,100-300mg daily,As directed,15
+Senokot,سينوكوت,Senna,Various,Laxative,Tablets|Syrup,Various,2 tabs at night,As directed,12
+MiraLAX,ميرالاكس,Polyethylene Glycol 3350,Bayer,Laxative,Powder,17g,1 sachet/scoop daily,As directed,45
+Lactulose,لاكتولوز,Lactulose,Various,Laxative,Syrup,67%,15-30ml daily,5-10ml daily,35
+Linzess,لينزيس,Linaclotide,AbbVie/Ironwood,IBS-C,Capsules,72mcg|145mcg|290mcg,145-290mcg once daily,Not for children <6,Specialized
+Amitiza,أمييتيزا,Lubiprostone,Takeda,IBS-C/Constipation,Capsules,8mcg|24mcg,8-24mcg twice daily,Not for children,Specialized
+Motegrity,موتيجريتي,Prucalopride,Takeda,Constipation,Tablets,1mg|2mg,2mg once daily,Not for children,Specialized
+Trulance,ترولانس,Plecanatide,Bausch,IBS-C/Constipation,Tablets,3mg,3mg once daily,Not for children <6,Specialized
+Ibsrela,إيبرسريلا,Tenapanor,Ardelyx,IBS-C,Tablets,50mg,50mg twice daily,Not for children <6,Specialized
+Zelnorm,زيلنورم,Tegaserod,Various,IBS-C,Tablets,6mg,6mg twice daily,Not for children,Specialized
+Lotronex,لوترونكس,Alosetron,Various,IBS-D,Tablets,0.5mg|1mg,0.5-1mg twice daily (women only),Not for children,Specialized
+Viberzi,فايبرزي,Eluxadoline,AbbVie,IBS-D,Tablets,75mg|100mg,100mg twice daily,Not for children,Specialized
+Xifaxan,زيفاكسان,Rifaximin,Bausch,IBS-D/HE,Tablets,200mg|550mg,550mg 3 times daily (IBS) or twice (HE),Not for children,350
+Lomotil,لوموتيل,Diphenoxylate/Atropine,Pfizer,Antidiarrheal,Tablets|Syrup,2.5/0.025mg,2 tabs 4 times daily,As directed,Controlled
+Imodium,إيموديوم,Loperamide,Janssen,Antidiarrheal,Capsules|Chewable,2mg,4mg then 2mg after stool,Not for children <6,25
+Pepto-Bismol,بيبتو بيسمول,Bismuth Subsalicylate,P&G,Antidiarrheal/Antacid,Tablets|Liquid,Various,2 tabs or 30ml q30-60min,Not for children (aspirin sensitivity),35
+Kaopectate,كاو بكتيت,Bismuth Subsalicylate,Sanofi,Antidiarrheal,Tablets|Liquid,Various,Same as Pepto-Bismol,As directed,35
+Creon,كريون,Pancrelipase,AbbVie,Digestive Enzymes,Capsules,Various,As directed with meals,As directed,150
+Zenpep,زين بيب,Pancrelipase,Nestle,Digestive Enzymes,Capsules,Various,As directed with meals,As directed,180
+Pancreaze,بانكريز,Pancrelipase,Vivus,Digestive Enzymes,Capsules,Various,As directed with meals,As directed,170
+Viokace,فايوكيس,Pancrelipase,Nestle,Digestive Enzymes,Tablets,Various,As directed with meals,As directed,160
+Pertzye,بيرتزي,Pancrelipase,Digestive Advantage,Digestive Enzymes,Capsules,Various,As directed with meals,As directed,165
+Urso,أورسو,Ursodiol,Various,Gallstones/PBC,Tablets,250mg|500mg,8-15mg/kg daily divided,As directed,85
+Actigall,أكتيجال,Ursodiol,Various,Gallstones,Capsules,300mg,300mg twice daily,As directed,95
+Cholbam,كولبام,Cholic Acid,Travere,Bile Acid Deficiency,Capsules,50mg|250mg,10-15mg/kg daily,Same as adults,Specialized
+Chenodal,تشينودال,Chenodiol,Travere,Gallstones,Tablets,250mg,250mg twice daily,Not for children,Specialized
+Ocaliva,أوكاليفا,Obeticholic Acid,Intercept,PBC,Tablets,5mg|10mg,5-10mg once daily,Not for children,Specialized
+Livmarli,ليفمارلي,Maralixibat,Mirum,Alagille Syndrome,Solution,9.5mg/ml,380mcg/kg once daily,Same as adults (>1y),Specialized
+Bylvay,بايلفاي,Odevixibat,Ipsen,PFIC,Capsules,200-1200mcg,40mcg/kg once daily,Same as adults,Specialized
+Reclast,ريكلاست,Zoledronic Acid,Novartis,Osteoporosis,Injection,5mg,5mg IV once yearly,Not for children,850
+Zometa Novartis,زوميتا نوفارتس,Zoledronic Acid,Novartis,Bone Cancer,Injection,4mg,4mg IV q3-4wk,Not for children,750
+Xgeva,إكسجيفا,Denosumab,Amgen,Bone Cancer,Injection,120mg,120mg SC every 4 weeks,Not for children,3500
+Prolia Amgen,بروليا أمجين,Denosumab,Amgen,Osteoporosis,Injection,60mg,60mg SC every 6 months,Not for children,2500
+Evenity,إيفينيتي,Romosozumab,Amgen/UCB,Osteoporosis,Injection,105mg,210mg (two injections) once monthly for 12 months,Not for children,Specialized
+Forteo,فورتيو,Teriparatide,Lilly,Osteoporosis,Injection,20mcg/dose,20mcg daily SC,Not for children,1800
+Tymlos,تايملوس,Abaloparatide,Radius,Osteoporosis,Injection,80mcg/dose,80mcg daily SC,Not for children,1700
+Sensipar,سينسيبار,Cinacalcet,Amgen,Hyperparathyroidism,Tablets,30mg|60mg|90mg,30-180mg daily,Not for children,Specialized
+Parsabiv,بارسبيف,Etelcalcetide,Amgen,Hyperparathyroidism,Injection,Various,2.5-15mg IV 3 times weekly,Not for children,Specialized
+Rayaldee,رايالدي,Calcifediol,Opko,CKD-SHPT,Tablets ER,30mcg,30-60mcg once daily at night,Not for children,Specialized
+Hectorol,هيكتورول,Doxercalciferol,Sanofi,CKD-SHPT,Caps|Injection,0.5mcg|1mcg|2.5mcg,As directed,As directed,Specialized
+Zemplar,زيمبلار,Paricalcitol,AbbVie,CKD-SHPT,Caps|Injection,Various,As directed,As directed,Specialized
+Rocaltrol,روكالترول,Calcitriol,Roche,Vitamin D Deficiency,Caps|Solution,0.25mcg|0.5mcg,0.25-0.5mcg daily,As directed,65
+Calcijex,كالسيكس,Calcitriol,Abbott,Vitamin D Deficiency,Injection,1mcg|2mcg/ml,0.5-2mcg IV 3 times weekly,As directed,85
+Carnitor,كارنيتور,L-Carnitine,Leadiant,Carnitine Deficiency,Tablets|Syrup|Injection,330mg|1g,990mg 2-3 times daily,50-100mg/kg daily,Specialized
+Kuvan,كوفان,Sapropterin,BioMarin,PKU,Tablets|Powder,100mg,10-20mg/kg once daily,Same as adults,Specialized
+Palynziq,بالينزيك,Pegvaliase,BioMarin,PKU,Injection,Various,As per protocol,Not for children,Specialized
+Xuriden,زوريدين,Uridine Triacetate,Betterlefe,Orotic Aciduria,Granules,2g,60-120mg/kg daily,Same as adults,Specialized
+Vistogard,فيستوجارد,Uridine Triacetate,BTG,Fluorouracil Toxicity,Granules,10g,10g q6h for 20 doses,As directed,Specialized
+Zavesca,زافيسكا,Miglustat,Janssen,Gaucher Disease,Capsules,100mg,100mg 3 times daily,Not for children,Specialized
+Cerdelga,سيرديلجا,Eliglustat,Sanofi,Gaucher Disease,Capsules,84mg,84mg once or twice daily,Not for children,Specialized
+Cerezyme,سيريزايم,Imiglucerase,Sanofi,Gaucher Disease,Injection,400U,As per weight q2wk,Same as adults,Specialized
+Elelyso,إيليليسو,Taliglucerase alfa,Pfizer,Gaucher Disease,Injection,200U,As per weight q2wk,Same as adults,Specialized
+VPRIV,في بريف,Velaglucerase alfa,Takeda,Gaucher Disease,Injection,400U,As per weight q2wk,Same as adults,Specialized
+Fabrazyme,فابرازيم,Agalsidase beta,Sanofi,Fabry Disease,Injection,5mg|35mg,1mg/kg every 2 weeks IV,Same as adults (>2y),Specialized
+Galafold,جالافولد,Migalastat,Amicus,Fabry Disease,Capsules,123mg,123mg every other day,Not for children,Specialized
+Lumizyme,لوميزايم,Alglucosidase alfa,Sanofi,Pompe Disease,Injection,50mg,20mg/kg every 2 weeks IV,Same as adults,Specialized
+Nexviazyme,نكسفيازايم,Avalglucosidase alfa,Sanofi,Pompe Disease,Injection,100mg,20mg/kg every 2 weeks IV,Same as adults,Specialized
+Pombiliti,بومبيليتي,Cipaglucidase alfa,Amicus,Pompe Disease,Injection,105mg,As per protocol,Not for children,Specialized
+Kanuma,كانوما,Sebelipase alfa,AstraZeneca,LAL-D,Injection,20mg,1mg/kg every other week IV,Same as adults,Specialized
+Strensiq,سترينسيك,Asfotase alfa,AstraZeneca,Hypophosphatasia,Injection,Various,2mg/kg 3 times weekly or 1mg/kg 6 times SC,Same as adults,Specialized
+Dojolvi,دوجولفي,Triheptanoin,Ultragenyx,LC-FAOD,Liquid,Various,As per calorie intake,Same as adults,Specialized
+Myalept,مياليبت,Metreleptin,Amryt,Leptin Deficiency,Injection,11.3mg,As per weight once daily,Same as adults,Specialized
+Egtenza,إيجتينزا,Tetrabenazine,Various,Huntington Chorea,Tablets,12.5mg|25mg,12.5-50mg daily divided,Not for children,Specialized
+Austedo,أوستيدو,Deutetrabenazine,Teva,Huntington/TD,Tablets ER,6mg|9mg|12mg,6-48mg daily divided,Not for children,Specialized
+Ingrezza,إنجريزا,Valbenazine,Neurocrine,Tardive Dyskinesia,Capsules,40mg|60mg|80mg,40-80mg once daily,Not for children,Specialized
+Xenazine,زينازين,Tetrabenazine,Lundbeck,Huntington Chorea,Tablets,12.5mg|25mg,Same as Egtenza,Not for children,Specialized
+Kevzara,كيفزارا,Sarilumab,Sanofi,Rheumatoid Arthritis,Injection,150mg|200mg,200mg every 2 weeks SC,Not for children,Specialized
+Actemra,أكتيمرا,Tocilizumab,Roche,Rheumatoid Arthritis,Injection,Various,As per weight,As per weight,Specialized
+Orencia,أورينسيا,Abatacept,BMS,Rheumatoid Arthritis,Injection,Various,As per weight,As per weight (>2y),Specialized
+Cimzia,سيمزيا,Certolizumab pegol,UCB,Rheumatoid/Crohns,Injection,200mg,400mg then 200mg twice monthly SC,Not for children,Specialized
+Olumiant,أولوميانت,Baricitinib,Lilly,Rheumatoid/Alopecia,Tablets,1mg|2mg|4mg,2-4mg once daily,Not for children,Specialized
+Xeljanz,زيلجانز,Tofacitinib,Pfizer,Rheumatoid/UC,Tablets|Solution,5mg|10mg|11mg,5-10mg twice or 11mg once daily,As directed (>2y),Specialized
+Rinvoq,رينفوك,Upadacitinib,AbbVie,Rheumatoid/Atopic,Tablets ER,15mg|30mg|45mg,15-45mg once daily,As directed (>12y),Specialized
+Stelara,ستيلارا,Ustekinumab,Janssen,Psoriasis/Crohns,Injection,45mg|90mg,45-90mg q12wk SC,As per weight (>6y),Specialized
+Skyrizi,سكايزيزي,Risankizumab,AbbVie,Psoriasis/Crohns,Injection,75mg|150mg,150mg at wk0, wk4 then q12wk SC,Not for children,Specialized
+Tremfya,تريمفيا,Guselkumab,Janssen,Psoriasis,Injection,100mg,100mg at wk0, wk4 then q8wk SC,Not for children,Specialized
+Taltz,تالتز,Ixekizumab,Lilly,Psoriasis,Injection,80mg,As per protocol,As per weight (>6y),Specialized
+Cosentyx,كوسينتيكس,Secukinumab,Novartis,Psoriasis,Injection,150mg|300mg,150-300mg at wk 0,1,2,3,4 then monthly SC,As per weight (>6y),Specialized
+Siliq,سيليك,Brodalumab,Bausch,Psoriasis,Injection,210mg,210mg at wk 0,1,2 then q2wk SC,Not for children,Specialized
+Ilumya,إيلوميا,Tildrakizumab,Sun Pharma,Psoriasis,Injection,100mg,100mg at wk0, wk4 then q12wk SC,Not for children,Specialized
+Bimzelx,بيمزيلكس,Bimekizumab,UCB,Psoriasis,Injection,160mg,320mg (two injections) q4wk SC,Not for children,Specialized
+Otrivin Pediatric,اوتريفين اطفال,Xylometazoline,Novartis,Decongestant,Drops,0.05%,1-2 drops twice daily,0.05% for kids,15
+Panadol Baby & Infant,بانادول اطفال,Paracetamol,GSK,Analgesic,Suspension,120mg/5ml,10-15mg/kg every 4-6h,By weight,25
+Adol Pediatric,ادول اطفال,Paracetamol,Julphar,Analgesic,Drops|Susp,Various,10-15mg/kg every 4-6h,By weight,15
+Cetal Pediatric,سيتال اطفال,Paracetamol,EIPICO,Analgesic,Drops|Susp,100mg/ml,10-15mg/kg every 4-6h,By weight,12
+Brufen Pediatric,بروفين اطفال,Ibuprofen,Abbott,NSAID,Suspension,100mg/5ml,5-10mg/kg every 6-8h,By weight,22
+Paramol Pediatric,بارامول اطفال,Paracetamol,CID,Analgesic,Suspension,120mg/5ml,10-15mg/kg every 4-6h,By weight,10
+Fenistil,فنيستيل,Dimetindene,Novartis,Antihistamine,Drops|Gel,1mg/ml,As per weight (1 drop/kg daily divided),Same as adults,22
+Afrin Pediatric,أفرين أطفال,Oxymetazoline,Bayer,Decongestant,Drops,0.025%,2-3 drops twice daily,0.025% for kids,28
+Deltarhino Pediatric,دلتا رينو اطفال,Naphazoline,GNP,Decongestant,Drops,0.05%,1-2 drops twice daily,0.05% for kids,18
+I-Pure,آي بيور,Artificial Tears,Various,Lubricant,Eye Drops,Various,1-2 drops as needed,Same as adults,15
+Corneregel,كورنير جيل,Dexpanthenol,Bausch,Healing,Eye Gel,5%,Apply 3-5 times daily,Same as adults,35
+Visine,فايزين,Tetryzoline,J&J,Red Eye,Eye Drops,0.05%,1-2 drops up to 4 times,>6 years,25
+Zamine,زامين,Chlorpheniramine/Naphazoline,Various,Allergy,Eye Drops,Various,1-2 drops twice daily,As directed,18
+Prisoline,بريزولين,Naphazoline/Chlorpheniramine,Various,Allergy,Eye/Nasal Drops,Various,1-2 drops q4-6h,As directed,12
+Naphcon-A,نافكون ايه,Naphazoline/Pheniramine,Alcon,Allergy,Eye Drops,Various,1-2 drops up to 4 times,>6 years,45
+Patanol,باتانول,Olopatadine,Alcon,Allergy,Eye Drops,0.1%,1 drop twice daily,>2 years,85
+Pataday,باتاداي,Olopatadine,Alcon,Allergy,Eye Drops,0.2%,1 drop daily,>2 years,120
+Zaditor,زاديتور,Ketotifen,Alcon,Allergy,Eye Drops,0.025%,1 drop twice daily,>3 years,65
+Alaway,الاوي,Ketotifen,Bausch,Allergy,Eye Drops,0.025%,1 drop twice daily,>3 years,60
+Lastacaft,لاستكافت,Alcaftadine,Allergan,Allergy,Eye Drops,0.25%,1 drop daily,>2 years,150
+Optivar,اوبتيفار,Azelastine,Various,Allergy,Eye Drops,0.05%,1 drop twice daily,>3 years,45
+Bepreve,بيبريف,Bepotastine,Bausch,Allergy,Eye Drops,1.5%,1 drop twice daily,>2 years,140
+Emadine,ايمادين,Emedastine,Alcon,Allergy,Eye Drops,0.05%,1 drop twice daily,>3 years,75
+Cromolyn,كرومولين,Cromolyn Sodium,Various,Allergy,Nasal Spray|Eye Drops,4%|2%,1-2 drops or sprays up to 4-6 times,Same as adults,25
+Alomide,الوميد,Lodoxamide,Alcon,Allergy,Eye Drops,0.1%,1-2 drops 4 times daily,>2 years,65
+Alamast,الاماست,Pemirolast,Various,Allergy,Eye Drops,0.1%,1-2 drops 4 times daily,>3 years,55
+Lotemax,لوتيماكس,Loteprednol,Bausch,Steroid,Eye Drops|Gel|Oint,0.5%,1-2 drops 4 times daily,As directed,120
+Alrex,الريكس,Loteprednol,Bausch,Allergy,Eye Drops,0.2%,1 drop 4 times daily,As directed,95
+FML,اف ام ال,Fluorometholone,Allergan,Steroid,Eye Drops,0.1%,1-2 drops 4 times daily,As directed,45
+Flarex,فلاريكس,Fluorometholone,Alcon,Steroid,Eye Drops,0.1%,1-2 drops 4 times daily,As directed,55
+Pred Forte,بريد فورت,Prednisolone Acetate,Allergan,Steroid,Eye Drops,1%,1-2 drops up to 4 times,As directed,85
+Pred Mild,بريد مايلد,Prednisolone Acetate,Allergan,Steroid,Eye Drops,0.12%,1-2 drops up to 4 times,As directed,65
+Maxidex,ماكسيديكس,Dexamethasone,Alcon,Steroid,Eye Drops,0.1%,1-2 drops up to 4 times,As directed,45
+Durezol,ديوريزول,Difluprednate,Alcon,Steroid,Eye Drops,0.05%,1 drop 4 times daily,As directed,180
+Inveltys,انفلتيس,Loteprednol Nano,Kala,Steroid,Eye Drops,1%,1 drop twice daily,As directed,Specialized
+Eysuvis,ايسوفيس,Loteprednol Nano,Kala,Dry Eye,Eye Drops,0.25%,1-2 drops 4 times daily for 2 weeks,Not for children,Specialized
+Restasis,ريستاسيس,Cyclosporine,Allergan,Dry Eye,Eye Drops,0.05%,1 drop twice daily,>16 years,450
+Cequa,سيكوا,Cyclosporine Nano,Sun Pharma,Dry Eye,Eye Drops,0.09%,1 drop twice daily,Not for children,Specialized
+Vevye,فيفي,Cyclosporine,Harrow,Dry Eye,Eye Drops,0.1%,1 drop twice daily,Not for children,Specialized
+Xiidra,زايدرا,Lifitegrast,Novartis,Dry Eye,Eye Drops,5%,1 drop twice daily,Not for children,550
+Tyrvaya,تيرفايا,Varenicline,Oyster Point,Dry Eye,Nasal Spray,0.03mg,1 spray each nostril twice daily,Not for children,Specialized
+Miebo,ميبو,Perfluorohexyloctane,Bausch,Dry Eye,Eye Drops,100%,1 drop 4 times daily,Not for children,Specialized
+Xdemvy,اكسديمفي,Lotilaner,Tarsus,Blepharitis,Eye Drops,0.25%,1 drop twice daily for 6 weeks,Not for children,Specialized
+Upneeq,ابنيك,Oxymetazoline,Osmotica,Ptosis,Eye Drops,0.1%,1 drop daily,Not for children,Specialized
+Vity,فايتي,Pilocarpine,AbbVie,Presbyopia,Eye Drops,1.25%,1 drop daily,Not for children,Specialized
+Qalsody,كالسودي,Tofersen,Biogen,ALS,Injection,100mg,As per protocol,Not for children,Specialized
+Relyvrio,ريليفريو,Sodium Phenylbutyrate/Taurursodiol,Amylyx,ALS,Powder,Various,1 sachet daily then twice daily,Not for children,Specialized
+Radicava,راديكافا,Edaravone,Mitsubishi Tanabe,ALS,Injection|Solution,30mg,60mg daily for 10-14 days a month,Not for children,Specialized
+Exservan,اكسيرفان,Riluzole,Aquestive,ALS,Oral Film,50mg,50mg twice daily,Not for children,Specialized
+Tiglutik,تيجلوتيك,Riluzole,ITF,ALS,Suspension,50mg/10ml,50mg twice daily,Not for children,Specialized
+Rilutek,ريلوتيك,Riluzole,Sanofi,ALS,Tablets,50mg,50mg twice daily,Not for children,180
+Zolgensma,رولجينسما,Onasemnogene abeparvovec,Novartis,SMA,Injection,Various,Single IV dose,Same as adults (<2y),Mega Expensive
+Evrysdi,ايفريسدي,Risdiplam,Roche,SMA,Solution,0.75mg/ml,As per weight daily,Same as adults,Specialized
+Spinraza,سبينرازا,Nusinersen,Biogen,SMA,Injection,12mg,As per protocol,Same as adults,Specialized
+Zabide,زابيد,Various,Local,Miscellaneous,Tablets,Various,As directed,As directed,15

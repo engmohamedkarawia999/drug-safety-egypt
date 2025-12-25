@@ -1,0 +1,497 @@
+drug_1_rxcui,drug_2_rxcui,severity,description,source
+# ==========================================
+# ANTICOAGULANTS (Warfarin, Heparin, etc.)
+# ==========================================
+11289,1191,Major,Warfarin + Aspirin: Significantly increased bleeding risk. Avoid combination unless specifically indicated.,DDInter
+11289,5640,Major,Warfarin + Ibuprofen: Increased bleeding risk and GI hemorrhage. Use alternative pain relief.,DDInter
+11289,2555,Major,Warfarin + Naproxen: NSAIDs increase anticoagulant effect and bleeding risk.,DDInter
+11289,36567,Major,Warfarin + Simvastatin: Statins may enhance anticoagulant effect.,DDInter
+11289,7052,Moderate,Warfarin + Metronidazole: Increased INR and bleeding risk.,DDInter
+11289,31555,Major,Warfarin + Ciprofloxacin: Fluoroquinolones significantly increase anticoagulant effect.,DDInter
+11289,10689,Major,Warfarin + Tramadol: Increased bleeding risk.,DDInter
+11289,3628,Major,Warfarin + Fluoxetine: SSRIs increase bleeding risk with anticoagulants.,DDInter
+11289,32937,Major,Warfarin + Sertraline: SSRIs increase bleeding risk.,DDInter
+11289,161,Moderate,Warfarin + Acetaminophen: High doses may increase INR.,DDInter
+11289,8123,Major,Warfarin + Phenytoin: Complex interaction affecting both drug levels.,DDInter
+11289,114979,Major,Warfarin + Rivaroxaban: Contraindicated - dual anticoagulation increases bleeding risk dramatically.,DDInter
+11289,1364430,Major,Warfarin + Apixaban: Contraindicated - dual anticoagulation.,DDInter
+11289,67108,Major,Warfarin + Clopidogrel: Increased bleeding risk - use only when clearly indicated.,DDInter
+11289,83367,Major,Warfarin + Omeprazole: May increase Warfarin levels.,DDInter
+11289,17767,Major,Warfarin + Vitamin K: Antagonizes Warfarin effect.,DDInter
+11289,4053,Major,Warfarin + Erythromycin: Increases Warfarin effect and INR.,DDInter
+11289,21241,Major,Warfarin + St. John's Wort: Decreases Warfarin effectiveness significantly.,DDInter
+11289,1886,Major,Warfarin + Cranberry: May increase INR and bleeding risk.,DDInter
+
+# ==========================================
+# ANTIPLATELETS (Aspirin, Clopidogrel)
+# ==========================================
+1191,67108,Major,Aspirin + Clopidogrel: Dual antiplatelet therapy increases bleeding risk.,DDInter
+1191,5640,Major,Aspirin + Ibuprofen: Ibuprofen may reduce cardioprotective effect of low-dose Aspirin.,DDInter
+1191,2555,Major,Aspirin + Naproxen: Increased GI bleeding risk.,DDInter
+1191,114979,Major,Aspirin + Rivaroxaban: Triple therapy dramatically increases bleeding.,DDInter
+1191,8640,Moderate,Aspirin + Spironolactone: May reduce effectiveness of Spironolactone.,DDInter
+1191,6902,Moderate,Aspirin + Lisinopril: May reduce ACE inhibitor effectiveness.,DDInter
+67108,83367,Major,Clopidogrel + Omeprazole: PPIs reduce Clopidogrel activation - use alternative PPI.,DDInter
+67108,20352,Major,Clopidogrel + Esomeprazole: Same interaction as Omeprazole.,DDInter
+67108,3628,Major,Clopidogrel + Fluoxetine: Reduced Clopidogrel effectiveness.,DDInter
+67108,5640,Major,Clopidogrel + Ibuprofen: Increased bleeding risk.,DDInter
+
+# ==========================================
+# STATINS (Atorvastatin, Simvastatin, etc.)
+# ==========================================
+83367,36567,Major,Atorvastatin + Simvastatin: Never combine statins.,DDInter
+83367,321064,Major,Atorvastatin + Rosuvastatin: Never combine statins.,DDInter
+36567,703,Major,Simvastatin + Amiodarone: High risk of rhabdomyolysis - max 20mg Simvastatin.,DDInter
+36567,11170,Major,Simvastatin + Verapamil: Risk of myopathy - max 10mg Simvastatin.,DDInter
+36567,17128,Major,Simvastatin + Diltiazem: Risk of myopathy - max 10mg Simvastatin.,DDInter
+36567,83030,Major,Simvastatin + Grapefruit: Significantly increases statin levels and toxicity risk.,DDInter
+36567,53654,Major,Simvastatin + Itraconazole: Contraindicated - severe rhabdomyolysis risk.,DDInter
+36567,25033,Major,Simvastatin + Ketoconazole: Contraindicated - severe rhabdomyolysis risk.,DDInter
+36567,4031,Major,Simvastatin + Cyclosporine: Contraindicated due to rhabdomyolysis.,DDInter
+83367,25033,Major,Atorvastatin + Ketoconazole: Increased statin levels - rhabdomyolysis risk.,DDInter
+83367,53654,Major,Atorvastatin + Itraconazole: Increased statin levels.,DDInter
+83367,4031,Major,Atorvastatin + Cyclosporine: Increased statin toxicity.,DDInter
+321064,25033,Moderate,Rosuvastatin + Ketoconazole: Less interaction but monitor.,DDInter
+83367,11289,Major,Atorvastatin + Warfarin: May increase anticoagulant effect.,DDInter
+36567,25480,Major,Simvastatin + Clarithromycin: Increased rhabdomyolysis risk.,DDInter
+36567,18631,Major,Simvastatin + Erythromycin: Increased rhabdomyolysis risk.,DDInter
+36567,6135,Major,Simvastatin + Gemfibrozil: Contraindicated - high myopathy risk.,DDInter
+83367,6135,Major,Atorvastatin + Gemfibrozil: Increased myopathy risk.,DDInter
+36567,42463,Moderate,Simvastatin + Niacin: Increased myopathy risk at high doses.,DDInter
+
+# ==========================================
+# ACE INHIBITORS & ARBs
+# ==========================================
+6902,88249,Major,Lisinopril + Valsartan: Dual RAAS blockade increases renal failure risk.,DDInter
+6902,8640,Major,Lisinopril + Spironolactone: Severe hyperkalemia risk.,DDInter
+6902,7917,Major,Lisinopril + Potassium: Hyperkalemia risk - monitor closely.,DDInter
+6902,5640,Moderate,Lisinopril + Ibuprofen: NSAIDs reduce ACE inhibitor effectiveness.,DDInter
+6902,1886,Moderate,Lisinopril + Furosemide: First-dose hypotension risk.,DDInter
+6902,115698,Major,Lisinopril + Aliskiren: Triple blockade - contraindicated in diabetes.,DDInter
+6902,1998,Major,Lisinopril + Lithium: Increased Lithium toxicity.,DDInter
+88249,8640,Major,Valsartan + Spironolactone: Severe hyperkalemia risk.,DDInter
+88249,7917,Major,Valsartan + Potassium: Hyperkalemia risk.,DDInter
+88249,5640,Moderate,Valsartan + Ibuprofen: Reduced ARB effectiveness.,DDInter
+52175,8640,Major,Losartan + Spironolactone: Hyperkalemia risk.,DDInter
+52175,7917,Major,Losartan + Potassium: Hyperkalemia risk.,DDInter
+29046,8640,Major,Enalapril + Spironolactone: Hyperkalemia risk.,DDInter
+1998,29046,Major,Lithium + Enalapril: Increased Lithium levels.,DDInter
+1998,88249,Major,Lithium + Valsartan: Increased Lithium levels.,DDInter
+
+# ==========================================
+# BETA BLOCKERS
+# ==========================================
+6918,11170,Major,Metoprolol + Verapamil: Severe bradycardia and heart block risk.,DDInter
+6918,17128,Major,Metoprolol + Diltiazem: Additive cardiac depression.,DDInter
+6918,19484,Major,Metoprolol + Clonidine: Rebound hypertension if Clonidine stopped.,DDInter
+6918,49276,Major,Metoprolol + Dipivefrin: Severe hypertension with eye drops in some patients.,DDInter
+6918,3628,Moderate,Metoprolol + Fluoxetine: CYP2D6 inhibition increases Metoprolol levels.,DDInter
+6918,32937,Moderate,Metoprolol + Paroxetine: CYP2D6 inhibition increases Metoprolol levels.,DDInter
+19831,3628,Moderate,Propranolol + Fluoxetine: Increased Propranolol levels.,DDInter
+19831,11170,Major,Propranolol + Verapamil: Severe bradycardia risk.,DDInter
+149,11170,Major,Atenolol + Verapamil: AV block risk.,DDInter
+149,17128,Major,Atenolol + Diltiazem: Additive cardiac depression.,DDInter
+316965,11170,Major,Carvedilol + Verapamil: Severe bradycardia.,DDInter
+316965,3628,Major,Carvedilol + Fluoxetine: Increased Carvedilol levels.,DDInter
+20352,6918,Moderate,Bisoprolol + Esomeprazole: Minor interaction.,DDInter
+
+# ==========================================
+# CALCIUM CHANNEL BLOCKERS
+# ==========================================
+17287,6918,Major,Amlodipine + Metoprolol: Additive hypotensive effects - monitor closely.,DDInter
+17287,36567,Major,Amlodipine + Simvastatin: Max Simvastatin 20mg with Amlodipine.,DDInter
+17287,83367,Moderate,Amlodipine + Atorvastatin: May increase statin exposure.,DDInter
+17287,25033,Major,Amlodipine + Ketoconazole: Increased Amlodipine levels.,DDInter
+11170,32968,Major,Verapamil + Digoxin: Significantly increases Digoxin levels.,DDInter
+11170,36567,Major,Verapamil + Simvastatin: Max Simvastatin 10mg.,DDInter
+11170,83367,Major,Verapamil + Atorvastatin: Increased statin levels.,DDInter
+11170,6918,Major,Verapamil + Metoprolol: AV block and heart failure risk.,DDInter
+11170,19831,Major,Verapamil + Propranolol: Severe bradycardia.,DDInter
+17128,32968,Major,Diltiazem + Digoxin: Increased Digoxin levels.,DDInter
+17128,36567,Major,Diltiazem + Simvastatin: Max Simvastatin 10mg.,DDInter
+17128,6918,Major,Diltiazem + Metoprolol: AV block risk.,DDInter
+42316,11170,Major,Nifedipine + Verapamil: Excessive hypotension.,DDInter
+
+# ==========================================
+# ANTIDIABETICS
+# ==========================================
+6809,1886,Moderate,Metformin + Furosemide: Risk of lactic acidosis.,DDInter
+6809,31555,Moderate,Metformin + Ciprofloxacin: May cause hypoglycemia.,DDInter
+6809,129,Moderate,Metformin + Alcohol: Increased lactic acidosis risk.,DDInter
+6809,42463,Moderate,Metformin + Iodine contrast: Hold Metformin before/after contrast.,DDInter
+25789,6918,Major,Glipizide + Metoprolol: Beta blockers mask hypoglycemia symptoms.,DDInter
+25789,7417,Major,Glipizide + MAOIs: Severe hypoglycemia.,DDInter
+25789,3628,Moderate,Glipizide + Fluoxetine: May increase hypoglycemia.,DDInter
+25789,11289,Major,Glipizide + Warfarin: Enhanced anticoagulant effect.,DDInter
+4815,6918,Major,Glyburide + Metoprolol: Masked hypoglycemia symptoms.,DDInter
+4815,31555,Major,Glyburide + Ciprofloxacin: Severe hypoglycemia.,DDInter
+274783,6809,Moderate,Sitagliptin + Metformin: Generally safe combination but monitor.,DDInter
+1545149,6809,Moderate,Empagliflozin + Metformin: Watch for dehydration.,DDInter
+1545149,1886,Major,Empagliflozin + Furosemide: Increased dehydration and hypotension.,DDInter
+51428,6809,Moderate,Pioglitazone + Metformin: Generally safe combination.,DDInter
+51428,6135,Major,Pioglitazone + Gemfibrozil: Increased Pioglitazone levels.,DDInter
+5856,6918,Major,Insulin + Metoprolol: Masked hypoglycemia symptoms.,DDInter
+5856,129,Major,Insulin + Alcohol: Severe hypoglycemia risk.,DDInter
+5856,3628,Moderate,Insulin + Fluoxetine: May increase hypoglycemia.,DDInter
+
+# ==========================================
+# ANTIDEPRESSANTS - SSRIs
+# ==========================================
+3628,10689,Major,Fluoxetine + Tramadol: Serotonin syndrome risk.,DDInter
+3628,7417,Contraindicated,Fluoxetine + MAOIs: Fatal serotonin syndrome.,DDInter
+3628,137530,Contraindicated,Fluoxetine + Linezolid: Serotonin syndrome.,DDInter
+3628,32937,Major,Fluoxetine + Paroxetine: Never combine SSRIs.,DDInter
+3628,1998,Major,Fluoxetine + Lithium: Increased toxicity risk.,DDInter
+3628,11289,Major,Fluoxetine + Warfarin: Increased bleeding risk.,DDInter
+3628,1191,Major,Fluoxetine + Aspirin: Increased bleeding risk.,DDInter
+3628,733,Major,Fluoxetine + Amitriptyline: TCA toxicity risk.,DDInter
+3628,6918,Moderate,Fluoxetine + Metoprolol: Increased Metoprolol levels.,DDInter
+32937,10689,Major,Paroxetine + Tramadol: Serotonin syndrome.,DDInter
+32937,7417,Contraindicated,Paroxetine + MAOIs: Fatal serotonin syndrome.,DDInter
+32937,1191,Major,Paroxetine + Aspirin: Increased bleeding.,DDInter
+32937,67108,Major,Paroxetine + Clopidogrel: Reduced Clopidogrel activation.,DDInter
+32937,6918,Moderate,Paroxetine + Metoprolol: Increased Metoprolol levels.,DDInter
+36437,10689,Major,Sertraline + Tramadol: Serotonin syndrome risk.,DDInter
+36437,7417,Contraindicated,Sertraline + MAOIs: Fatal serotonin syndrome.,DDInter
+36437,1191,Major,Sertraline + Aspirin: Increased bleeding.,DDInter
+36437,11289,Major,Sertraline + Warfarin: Increased bleeding.,DDInter
+321988,10689,Major,Escitalopram + Tramadol: Serotonin syndrome.,DDInter
+321988,7417,Contraindicated,Escitalopram + MAOIs: Fatal serotonin syndrome.,DDInter
+321988,36437,Major,Escitalopram + Sertraline: Never combine SSRIs.,DDInter
+
+# ==========================================
+# ANTIDEPRESSANTS - SNRIs & Others
+# ==========================================
+39786,10689,Major,Venlafaxine + Tramadol: Serotonin syndrome.,DDInter
+39786,7417,Contraindicated,Venlafaxine + MAOIs: Fatal serotonin syndrome.,DDInter
+39786,1191,Major,Venlafaxine + Aspirin: Bleeding risk.,DDInter
+39786,11289,Major,Venlafaxine + Warfarin: Increased bleeding.,DDInter
+72625,10689,Major,Duloxetine + Tramadol: Serotonin syndrome.,DDInter
+72625,7417,Contraindicated,Duloxetine + MAOIs: Fatal serotonin syndrome.,DDInter
+72625,129,Major,Duloxetine + Alcohol: Hepatotoxicity risk.,DDInter
+15996,42347,Major,Bupropion + Wellbutrin XL: Never combine formulations.,DDInter
+15996,10689,Major,Bupropion + Tramadol: Seizure threshold lowered.,DDInter
+15996,1998,Major,Bupropion + Lithium: Seizure risk.,DDInter
+15996,7314,Major,Bupropion + Mirtazapine: Seizure risk combination.,DDInter
+42774,7417,Contraindicated,Mirtazapine + MAOIs: Serotonin syndrome.,DDInter
+42774,129,Major,Mirtazapine + Alcohol: Enhanced sedation.,DDInter
+42774,5093,Major,Mirtazapine + Lorazepam: Enhanced sedation.,DDInter
+
+# ==========================================
+# TRICYCLIC ANTIDEPRESSANTS
+# ==========================================
+733,7417,Contraindicated,Amitriptyline + MAOIs: Hypertensive crisis.,DDInter
+733,3628,Major,Amitriptyline + Fluoxetine: TCA toxicity - arrhythmia risk.,DDInter
+733,32937,Major,Amitriptyline + Paroxetine: TCA toxicity.,DDInter
+733,10689,Major,Amitriptyline + Tramadol: Seizure and serotonin toxicity.,DDInter
+733,129,Major,Amitriptyline + Alcohol: Severe CNS depression.,DDInter
+733,5093,Major,Amitriptyline + Lorazepam: Enhanced sedation.,DDInter
+733,19484,Major,Amitriptyline + Clonidine: May reduce Clonidine effect.,DDInter
+7531,7417,Contraindicated,Nortriptyline + MAOIs: Hypertensive crisis.,DDInter
+7531,3628,Major,Nortriptyline + Fluoxetine: Increased TCA levels.,DDInter
+5691,7417,Contraindicated,Imipramine + MAOIs: Hypertensive crisis.,DDInter
+5691,129,Major,Imipramine + Alcohol: Severe sedation.,DDInter
+
+# ==========================================
+# BENZODIAZEPINES
+# ==========================================
+596,129,Major,Alprazolam + Alcohol: Severe CNS and respiratory depression.,DDInter
+596,10689,Major,Alprazolam + Tramadol: Respiratory depression.,DDInter
+596,19078,Major,Alprazolam + Oxycodone: Fatal respiratory depression.,DDInter
+596,7052,Major,Alprazolam + Methadone: Fatal respiratory depression.,DDInter
+596,5847,Major,Alprazolam + Hydrocodone: Enhanced respiratory depression.,DDInter
+596,25033,Major,Alprazolam + Ketoconazole: Increased benzodiazepine levels.,DDInter
+596,53654,Major,Alprazolam + Itraconazole: Increased benzodiazepine levels.,DDInter
+5093,129,Major,Lorazepam + Alcohol: Severe CNS depression.,DDInter
+5093,10689,Major,Lorazepam + Tramadol: Respiratory depression.,DDInter
+5093,19078,Major,Lorazepam + Oxycodone: Fatal respiratory depression.,DDInter
+5093,733,Major,Lorazepam + Amitriptyline: Enhanced sedation.,DDInter
+3322,129,Major,Diazepam + Alcohol: Severe CNS depression.,DDInter
+3322,10689,Major,Diazepam + Tramadol: Respiratory depression.,DDInter
+3322,5093,Major,Diazepam + Lorazepam: Never combine benzodiazepines.,DDInter
+3322,19078,Major,Diazepam + Oxycodone: Fatal respiratory depression.,DDInter
+19076,25033,Major,Midazolam + Ketoconazole: Profound sedation - reduce dose 75%.,DDInter
+19076,53654,Major,Midazolam + Itraconazole: Profound sedation.,DDInter
+2598,129,Major,Clonazepam + Alcohol: Severe CNS depression.,DDInter
+2598,10689,Major,Clonazepam + Tramadol: Respiratory depression.,DDInter
+
+# ==========================================
+# OPIOIDS
+# ==========================================
+10689,7417,Major,Tramadol + MAOIs: Serotonin syndrome.,DDInter
+10689,3628,Major,Tramadol + Fluoxetine: Serotonin syndrome and seizures.,DDInter
+10689,32937,Major,Tramadol + Paroxetine: Serotonin syndrome.,DDInter
+10689,129,Major,Tramadol + Alcohol: Respiratory depression.,DDInter
+10689,596,Major,Tramadol + Alprazolam: Respiratory depression - FDA black box.,DDInter
+10689,19078,Major,Tramadol + Oxycodone: Never combine opioids.,DDInter
+10689,5847,Major,Tramadol + Hydrocodone: Never combine opioids.,DDInter
+10689,733,Major,Tramadol + Amitriptyline: Seizure and serotonin risk.,DDInter
+19078,129,Major,Oxycodone + Alcohol: Fatal respiratory depression.,DDInter
+19078,596,Major,Oxycodone + Alprazolam: FDA black box - deaths reported.,DDInter
+19078,5093,Major,Oxycodone + Lorazepam: Fatal respiratory depression.,DDInter
+19078,3322,Major,Oxycodone + Diazepam: Fatal respiratory depression.,DDInter
+5847,129,Major,Hydrocodone + Alcohol: Fatal respiratory depression.,DDInter
+5847,596,Major,Hydrocodone + Alprazolam: FDA black box warning.,DDInter
+5847,5093,Major,Hydrocodone + Lorazepam: Respiratory depression.,DDInter
+7052,129,Major,Methadone + Alcohol: QT prolongation and respiratory depression.,DDInter
+7052,596,Major,Methadone + Alprazolam: Fatal respiratory depression.,DDInter
+7052,3628,Major,Methadone + Fluoxetine: QT prolongation.,DDInter
+4337,129,Major,Morphine + Alcohol: Severe respiratory depression.,DDInter
+4337,596,Major,Morphine + Alprazolam: Respiratory depression.,DDInter
+4337,5093,Major,Morphine + Lorazepam: Respiratory depression.,DDInter
+35780,596,Major,Fentanyl + Alprazolam: Respiratory arrest risk.,DDInter
+35780,129,Major,Fentanyl + Alcohol: Respiratory arrest.,DDInter
+35780,3322,Major,Fentanyl + Diazepam: Respiratory arrest.,DDInter
+
+# ==========================================
+# PROTON PUMP INHIBITORS
+# ==========================================
+83367,67108,Major,Omeprazole + Clopidogrel: Reduced Clopidogrel activation by 45%.,DDInter
+83367,6809,Moderate,Omeprazole + Metformin: Increased Metformin absorption.,DDInter
+83367,6135,Moderate,Omeprazole + Iron: Reduced iron absorption.,DDInter
+83367,161,Moderate,Omeprazole + Acetaminophen: Minor interaction.,DDInter
+20352,67108,Major,Esomeprazole + Clopidogrel: Reduced antiplatelet effect.,DDInter
+20352,6809,Moderate,Esomeprazole + Metformin: Minor interaction.,DDInter
+40790,67108,Moderate,Pantoprazole + Clopidogrel: Less interaction than Omeprazole - preferred PPI.,DDInter
+40790,6809,Moderate,Pantoprazole + Metformin: Minor interaction.,DDInter
+
+# ==========================================
+# ANTIPSYCHOTICS
+# ==========================================
+8076,129,Major,Quetiapine + Alcohol: Severe CNS depression.,DDInter
+8076,5093,Major,Quetiapine + Lorazepam: Enhanced sedation and hypotension.,DDInter
+8076,596,Major,Quetiapine + Alprazolam: Enhanced CNS depression.,DDInter
+8076,25033,Major,Quetiapine + Ketoconazole: Increased Quetiapine levels.,DDInter
+8076,53654,Major,Quetiapine + Itraconazole: Increased Quetiapine levels.,DDInter
+35636,703,Major,Risperidone + Amiodarone: QT prolongation.,DDInter
+35636,129,Major,Risperidone + Alcohol: Enhanced sedation.,DDInter
+35636,3628,Moderate,Risperidone + Fluoxetine: Increased Risperidone levels.,DDInter
+115698,129,Major,Olanzapine + Alcohol: Severe sedation and hypotension.,DDInter
+115698,5093,Major,Olanzapine + Lorazepam: IM combination may cause death.,DDInter
+115698,3628,Moderate,Olanzapine + Fluoxetine: Increased Olanzapine levels.,DDInter
+68180,129,Major,Aripiprazole + Alcohol: Enhanced CNS depression.,DDInter
+68180,25033,Major,Aripiprazole + Ketoconazole: Halve Aripiprazole dose.,DDInter
+115698,6918,Moderate,Olanzapine + Metoprolol: Additive hypotension.,DDInter
+5093,35636,Contraindicated,Lorazepam IM + Olanzapine IM: Risk of cardiorespiratory depression and death.,DDInter
+
+# ==========================================
+# ANTI-EPILEPTICS
+# ==========================================
+8123,83367,Major,Phenytoin + Atorvastatin: Reduced statin effect.,DDInter
+8123,36567,Major,Phenytoin + Simvastatin: Reduced statin effect.,DDInter
+8123,11289,Major,Phenytoin + Warfarin: Complex bidirectional interaction.,DDInter
+8123,3628,Major,Phenytoin + Fluoxetine: Increased Phenytoin toxicity.,DDInter
+8123,161,Moderate,Phenytoin + Acetaminophen: Reduced Acetaminophen effect.,DDInter
+8123,4031,Major,Phenytoin + Cyclosporine: Reduced immunosuppression.,DDInter
+2002,11289,Major,Carbamazepine + Warfarin: Reduced anticoagulation.,DDInter
+2002,83367,Major,Carbamazepine + Atorvastatin: Reduced statin effect.,DDInter
+2002,4031,Major,Carbamazepine + Cyclosporine: Markedly reduced immunosuppression.,DDInter
+2002,733,Major,Carbamazepine + Amitriptyline: Increased TCA metabolism.,DDInter
+2002,596,Major,Carbamazepine + Alprazolam: Reduced benzodiazepine effect.,DDInter
+39998,11289,Major,Valproic Acid + Warfarin: Increased bleeding risk.,DDInter
+39998,1191,Major,Valproic Acid + Aspirin: Increased bleeding and valproate toxicity.,DDInter
+39998,2002,Major,Valproic Acid + Carbamazepine: Complex interaction - both levels affected.,DDInter
+39998,8123,Major,Valproic Acid + Phenytoin: Both levels affected.,DDInter
+39998,5093,Major,Valproic Acid + Lorazepam: Increased Lorazepam levels.,DDInter
+114953,11289,Moderate,Levetiracetam + Warfarin: Monitor INR.,DDInter
+28439,83367,Major,Gabapentin + Atorvastatin: Minor interaction.,DDInter
+28439,5093,Moderate,Gabapentin + Lorazepam: Enhanced sedation.,DDInter
+28439,10689,Moderate,Gabapentin + Tramadol: Enhanced CNS depression.,DDInter
+25480,4031,Major,Topiramate + Cyclosporine: Reduced immunosuppression.,DDInter
+25480,11289,Moderate,Topiramate + Warfarin: May affect INR.,DDInter
+
+# ==========================================
+# ANTIBIOTICS - Fluoroquinolones
+# ==========================================
+31555,11289,Major,Ciprofloxacin + Warfarin: Significantly increased INR.,DDInter
+31555,83367,Moderate,Ciprofloxacin + Atorvastatin: Minor interaction.,DDInter
+31555,6809,Moderate,Ciprofloxacin + Metformin: May cause hypoglycemia.,DDInter
+31555,25789,Major,Ciprofloxacin + Glipizide: Severe hypoglycemia reported.,DDInter
+31555,7304,Contraindicated,Ciprofloxacin + Tizanidine: Massively increased Tizanidine levels - fatal.,DDInter
+31555,4099,Major,Ciprofloxacin + Theophylline: Increased Theophylline toxicity.,DDInter
+31555,8399,Major,Ciprofloxacin + Antacids: Take 2 hours apart - reduced absorption.,DDInter
+31555,6135,Major,Ciprofloxacin + Iron: Chelation - take 2 hours apart.,DDInter
+82122,11289,Major,Levofloxacin + Warfarin: Increased INR.,DDInter
+82122,25789,Major,Levofloxacin + Glipizide: Hypoglycemia risk.,DDInter
+82122,703,Major,Levofloxacin + Amiodarone: QT prolongation.,DDInter
+82122,8399,Major,Levofloxacin + Antacids: Reduced absorption.,DDInter
+10047,11289,Major,Moxifloxacin + Warfarin: Increased INR.,DDInter
+10047,703,Major,Moxifloxacin + Amiodarone: QT prolongation - avoid.,DDInter
+
+# ==========================================
+# ANTIBIOTICS - Macrolides
+# ==========================================
+25480,11289,Major,Clarithromycin + Warfarin: Significantly increased INR.,DDInter
+25480,36567,Major,Clarithromycin + Simvastatin: Contraindicated - rhabdomyolysis.,DDInter
+25480,83367,Major,Clarithromycin + Atorvastatin: Hold statin during treatment.,DDInter
+25480,32968,Major,Clarithromycin + Digoxin: Doubled Digoxin levels.,DDInter
+25480,11170,Major,Clarithromycin + Verapamil: Hypotension and bradycardia.,DDInter
+25480,4031,Major,Clarithromycin + Cyclosporine: Increased nephrotoxicity.,DDInter
+25480,25033,Major,Clarithromycin + Ketoconazole: QT prolongation.,DDInter
+25480,596,Major,Clarithromycin + Alprazolam: Increased sedation.,DDInter
+18631,11289,Major,Erythromycin + Warfarin: Increased INR.,DDInter
+18631,36567,Major,Erythromycin + Simvastatin: Rhabdomyolysis risk.,DDInter
+18631,32968,Major,Erythromycin + Digoxin: Increased Digoxin levels.,DDInter
+18631,4099,Major,Erythromycin + Theophylline: Increased Theophylline toxicity.,DDInter
+18631,11170,Major,Erythromycin + Verapamil: QT prolongation.,DDInter
+18631,703,Major,Erythromycin + Amiodarone: QT prolongation - avoid.,DDInter
+18638,11289,Moderate,Azithromycin + Warfarin: Monitor INR.,DDInter
+18638,703,Major,Azithromycin + Amiodarone: QT prolongation.,DDInter
+18638,32968,Moderate,Azithromycin + Digoxin: Monitor Digoxin levels.,DDInter
+
+# ==========================================
+# ANTIFUNGALS
+# ==========================================
+25033,36567,Contraindicated,Ketoconazole + Simvastatin: Fatal rhabdomyolysis.,DDInter
+25033,83367,Major,Ketoconazole + Atorvastatin: Hold statin - rhabdomyolysis risk.,DDInter
+25033,11289,Major,Ketoconazole + Warfarin: Increased anticoagulation.,DDInter
+25033,596,Major,Ketoconazole + Alprazolam: Increased benzodiazepine levels 5x.,DDInter
+25033,19076,Major,Ketoconazole + Midazolam: Profound sedation.,DDInter
+25033,4031,Major,Ketoconazole + Cyclosporine: Increased nephrotoxicity.,DDInter
+25033,8076,Major,Ketoconazole + Quetiapine: Increased antipsychotic levels.,DDInter
+25033,68180,Major,Ketoconazole + Aripiprazole: Halve dose.,DDInter
+53654,36567,Contraindicated,Itraconazole + Simvastatin: Fatal rhabdomyolysis.,DDInter
+53654,83367,Major,Itraconazole + Atorvastatin: Rhabdomyolysis risk.,DDInter
+53654,596,Major,Itraconazole + Alprazolam: Increased sedation.,DDInter
+53654,11289,Major,Itraconazole + Warfarin: Increased INR.,DDInter
+53654,32968,Major,Itraconazole + Digoxin: Increased Digoxin levels.,DDInter
+4083,83367,Moderate,Fluconazole + Atorvastatin: Minor statin increase.,DDInter
+4083,11289,Major,Fluconazole + Warfarin: Significantly increased INR.,DDInter
+4083,8123,Major,Fluconazole + Phenytoin: Increased Phenytoin toxicity.,DDInter
+4083,25789,Major,Fluconazole + Glipizide: Hypoglycemia.,DDInter
+
+# ==========================================
+# ANTIHISTAMINES
+# ==========================================
+3498,129,Major,Diphenhydramine + Alcohol: Severe sedation.,DDInter
+3498,5093,Major,Diphenhydramine + Lorazepam: Enhanced sedation.,DDInter
+3498,10689,Major,Diphenhydramine + Tramadol: CNS and respiratory depression.,DDInter
+3498,733,Major,Diphenhydramine + Amitriptyline: Anticholinergic toxicity.,DDInter
+6960,129,Moderate,Loratadine + Alcohol: Minor interaction.,DDInter
+6960,25033,Moderate,Loratadine + Ketoconazole: Increased Loratadine levels.,DDInter
+7005,129,Moderate,Cetirizine + Alcohol: Enhanced sedation.,DDInter
+7005,5093,Moderate,Cetirizine + Lorazepam: Enhanced sedation.,DDInter
+24995,129,Moderate,Fexofenadine + Alcohol: Minimal interaction.,DDInter
+24995,8399,Moderate,Fexofenadine + Antacids: Reduced absorption.,DDInter
+
+# ==========================================
+# THYROID MEDICATIONS
+# ==========================================
+10582,6135,Major,Levothyroxine + Iron: Take 4 hours apart - chelation.,DDInter
+10582,8399,Major,Levothyroxine + Calcium: Take 4 hours apart.,DDInter
+10582,11289,Moderate,Levothyroxine + Warfarin: May increase Warfarin effect.,DDInter
+10582,8123,Major,Levothyroxine + Phenytoin: Reduced thyroid levels.,DDInter
+10582,2002,Major,Levothyroxine + Carbamazepine: Reduced thyroid levels.,DDInter
+10582,1946,Major,Levothyroxine + Cholestyramine: Take 4-6 hours apart.,DDInter
+10582,83367,Moderate,Levothyroxine + Omeprazole: May reduce absorption.,DDInter
+
+# ==========================================
+# CORTICOSTEROIDS
+# ==========================================
+8076,11289,Moderate,Prednisone + Warfarin: May increase or decrease INR.,DDInter
+8076,5856,Major,Prednisone + Insulin: Increased blood glucose - adjust insulin.,DDInter
+8076,6809,Moderate,Prednisone + Metformin: Increased blood glucose.,DDInter
+8076,1191,Major,Prednisone + Aspirin: Increased GI bleeding risk.,DDInter
+8076,5640,Major,Prednisone + Ibuprofen: Increased GI bleeding risk.,DDInter
+8076,8123,Major,Prednisone + Phenytoin: Reduced steroid effect.,DDInter
+8076,31555,Moderate,Prednisone + Ciprofloxacin: Increased tendon rupture risk.,DDInter
+8076,82122,Moderate,Prednisone + Levofloxacin: Increased tendon rupture risk.,DDInter
+
+# ==========================================
+# ERECTILE DYSFUNCTION DRUGS
+# ==========================================
+10598,1986,Contraindicated,Sildenafil + Nitroglycerin: Fatal hypotension.,DDInter
+10598,5139,Contraindicated,Sildenafil + Isosorbide: Fatal hypotension.,DDInter
+10598,3214,Major,Sildenafil + Doxazosin: Severe orthostatic hypotension.,DDInter
+10598,25033,Major,Sildenafil + Ketoconazole: Increased effect - reduce dose.,DDInter
+10598,53654,Major,Sildenafil + Itraconazole: Increased effect.,DDInter
+10598,114979,Major,Sildenafil + Rivaroxaban: Minor interaction.,DDInter
+3255,1986,Contraindicated,Tadalafil + Nitroglycerin: Fatal hypotension.,DDInter
+3255,5139,Contraindicated,Tadalafil + Isosorbide: Fatal hypotension.,DDInter
+3255,3214,Major,Tadalafil + Doxazosin: Severe hypotension.,DDInter
+136411,1986,Contraindicated,Vardenafil + Nitroglycerin: Fatal hypotension.,DDInter
+136411,703,Major,Vardenafil + Amiodarone: QT prolongation.,DDInter
+
+# ==========================================
+# IMMUNOSUPPRESSANTS
+# ==========================================
+4031,25033,Major,Cyclosporine + Ketoconazole: Nephrotoxicity increased.,DDInter
+4031,53654,Major,Cyclosporine + Itraconazole: Nephrotoxicity increased.,DDInter
+4031,36567,Major,Cyclosporine + Simvastatin: Rhabdomyolysis - contraindicated.,DDInter
+4031,83367,Major,Cyclosporine + Atorvastatin: Use lowest statin dose.,DDInter
+4031,8123,Major,Cyclosporine + Phenytoin: Reduced immunosuppression.,DDInter
+4031,2002,Major,Cyclosporine + Carbamazepine: Reduced immunosuppression.,DDInter
+4031,6902,Major,Cyclosporine + Lisinopril: Hyperkalemia risk.,DDInter
+4031,8640,Major,Cyclosporine + Spironolactone: Hyperkalemia.,DDInter
+4031,5640,Major,Cyclosporine + Ibuprofen: Nephrotoxicity increased.,DDInter
+6851,25033,Major,Tacrolimus + Ketoconazole: Increased Tacrolimus levels.,DDInter
+6851,53654,Major,Tacrolimus + Itraconazole: Increased Tacrolimus levels.,DDInter
+6851,8640,Major,Tacrolimus + Spironolactone: Hyperkalemia.,DDInter
+6851,6902,Major,Tacrolimus + Lisinopril: Hyperkalemia.,DDInter
+
+# ==========================================
+# DIGOXIN INTERACTIONS
+# ==========================================
+32968,703,Major,Digoxin + Amiodarone: Increased Digoxin levels 70%.,DDInter
+32968,11170,Major,Digoxin + Verapamil: Increased Digoxin levels 50%.,DDInter
+32968,17128,Major,Digoxin + Diltiazem: Increased Digoxin levels.,DDInter
+32968,8076,Major,Digoxin + Quinidine: Doubled Digoxin levels.,DDInter
+32968,25480,Major,Digoxin + Clarithromycin: Digoxin toxicity.,DDInter
+32968,18631,Major,Digoxin + Erythromycin: Digoxin toxicity.,DDInter
+32968,53654,Major,Digoxin + Itraconazole: Digoxin toxicity.,DDInter
+32968,8640,Moderate,Digoxin + Spironolactone: Increased Digoxin effect.,DDInter
+32968,1886,Major,Digoxin + Furosemide: Hypokalemia increases toxicity risk.,DDInter
+32968,7917,Moderate,Digoxin + Potassium: Potassium deficiency increases toxicity.,DDInter
+
+# ==========================================
+# LITHIUM INTERACTIONS  
+# ==========================================
+1998,6902,Major,Lithium + Lisinopril: Lithium toxicity.,DDInter
+1998,29046,Major,Lithium + Enalapril: Lithium toxicity.,DDInter
+1998,88249,Major,Lithium + Valsartan: Lithium toxicity.,DDInter
+1998,52175,Major,Lithium + Losartan: Lithium toxicity.,DDInter
+1998,5640,Major,Lithium + Ibuprofen: Significantly increased Lithium levels.,DDInter
+1998,2555,Major,Lithium + Naproxen: Lithium toxicity.,DDInter
+1998,1886,Major,Lithium + Furosemide: Variable effect on Lithium.,DDInter
+1998,7304,Major,Lithium + Thiazides: Lithium toxicity.,DDInter
+1998,3628,Moderate,Lithium + Fluoxetine: May increase toxicity.,DDInter
+1998,32937,Moderate,Lithium + Paroxetine: Serotonergic effects.,DDInter
+1998,8076,Major,Lithium + Quetiapine: Enhanced side effects.,DDInter
+
+# ==========================================
+# AMIODARONE INTERACTIONS
+# ==========================================
+703,11289,Major,Amiodarone + Warfarin: Increased anticoagulation by 30-50%.,DDInter
+703,32968,Major,Amiodarone + Digoxin: Digoxin levels increase 70%.,DDInter
+703,36567,Major,Amiodarone + Simvastatin: Max 20mg Simvastatin.,DDInter
+703,83367,Major,Amiodarone + Atorvastatin: Reduce statin dose.,DDInter
+703,6918,Major,Amiodarone + Metoprolol: Bradycardia and AV block.,DDInter
+703,19831,Major,Amiodarone + Propranolol: Bradycardia.,DDInter
+703,11170,Major,Amiodarone + Verapamil: Severe bradycardia - avoid.,DDInter
+703,17128,Major,Amiodarone + Diltiazem: Bradycardia and hypotension.,DDInter
+703,82122,Major,Amiodarone + Levofloxacin: QT prolongation - avoid.,DDInter
+703,10047,Major,Amiodarone + Moxifloxacin: QT prolongation.,DDInter
+703,18631,Major,Amiodarone + Erythromycin: QT prolongation.,DDInter
+703,35636,Major,Amiodarone + Risperidone: QT prolongation.,DDInter
+703,136411,Major,Amiodarone + Vardenafil: QT prolongation.,DDInter
+
+# ==========================================
+# NSAIDs INTERACTIONS
+# ==========================================
+5640,11289,Major,Ibuprofen + Warfarin: Bleeding risk increased 3x.,DDInter
+5640,1191,Major,Ibuprofen + Aspirin: Reduced cardioprotection of Aspirin.,DDInter
+5640,67108,Major,Ibuprofen + Clopidogrel: Increased bleeding.,DDInter
+5640,6902,Moderate,Ibuprofen + Lisinopril: Reduced ACE inhibitor effect.,DDInter
+5640,88249,Moderate,Ibuprofen + Valsartan: Reduced ARB effect.,DDInter
+5640,1886,Moderate,Ibuprofen + Furosemide: Reduced diuretic effect.,DDInter
+5640,1998,Major,Ibuprofen + Lithium: Lithium toxicity.,DDInter
+5640,6809,Moderate,Ibuprofen + Metformin: Slight increase nephrotoxicity.,DDInter
+5640,8640,Moderate,Ibuprofen + Spironolactone: Reduced effect.,DDInter
+5640,4031,Major,Ibuprofen + Cyclosporine: Nephrotoxicity.,DDInter
+2555,11289,Major,Naproxen + Warfarin: Bleeding risk.,DDInter
+2555,1191,Major,Naproxen + Aspirin: GI bleeding increased.,DDInter
+2555,6902,Moderate,Naproxen + Lisinopril: Reduced ACE effect.,DDInter
+2555,1998,Major,Naproxen + Lithium: Lithium toxicity.,DDInter
+3355,11289,Major,Diclofenac + Warfarin: Bleeding risk.,DDInter
+3355,6902,Moderate,Diclofenac + Lisinopril: Reduced ACE effect.,DDInter
+3355,1998,Major,Diclofenac + Lithium: Lithium toxicity.,DDInter
